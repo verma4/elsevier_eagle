@@ -1,0 +1,26 @@
+# This is a Databricks asset bundle definition for elsevier_eagle.
+# The Databricks extension requires databricks.yml configuration file.
+# See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
+
+bundle:
+  name: elsevier_eagle
+
+targets:
+  dev:
+    default: true
+    workspace:
+      host: https://elsevier-dev.cloud.databricks.com
+    resources:
+      jobs:
+        run-amar:
+          tasks:
+            - task_key: run_python
+              spark_python_task:
+                python_file: elsevier_eagle.py
+              existing_cluster_id: 0822-174200-pocy9ct5
+
+  ## Optionally, there could be 'staging' or 'prod' targets here.
+  #
+  # prod:
+  #   workspace:
+  #     host: https://elsevier-dev.cloud.databricks.com

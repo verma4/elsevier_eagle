@@ -1,0 +1,997 @@
+set1_id	set1_orgname	set2_id	set2_orgname	similarity	id_match
+60139515	College of Engineering, Boston	60141202	College of Engineering, Boston	1.0	False
+60141202	College of Engineering, Boston	60139515	College of Engineering, Boston	1.0	False
+60138445	Indiana University, Bloomington	60021121	Indiana University Bloomington, Bloomington	1.0	False
+60150620	Oden Institute for Computational Engineering & Sciences, Austin	60288452	Oden Institute for Computational Engineering and Sciences, Austin	1.0	False
+60134947	Institute of Fine Chemicals, Shanghai	60073625	Institute of Fine Chemicals, Shanghai	1.0	False
+60138287	Lanzhou Institute of Biological Products Co., Ltd, Lanzhou	60298098	Lanzhou Institute of Biological Products Co., Ltd., Lanzhou	1.0	False
+60138276	University of Clermont Auvergne, Clermont-Ferrand	60004135	University of Auvergne, Clermont-Ferrand	1.0	False
+60136555	Providence VA Medical Center, Providence	60021025	Providence VA Medical Center, Providence	1.0	False
+60150236	Terry College of Business, Athens	60134793	Terry College of Business, Athens	1.0	False
+60134793	Terry College of Business, Athens	60150236	Terry College of Business, Athens	1.0	False
+60157982	The University of Agriculture, Peshawar, Peshawar	60064800	The University of Agriculture, Peshawar, Peshawar	1.0	False
+60138508	Novavax, Inc., Gaithersburg	60322604	Novavax Inc, Gaithersburg	1.0	False
+60135792	School of Medicine, Xiamen	60122377	School of Medicine, Xiamen	1.0	False
+60136673	Center for the Neural Basis of Cognition, Pittsburgh	60159101	Center for the Neural Basis of Cognition, Pittsburgh	1.0	False
+60159101	Center for the Neural Basis of Cognition, Pittsburgh	60136673	Center for the Neural Basis of Cognition, Pittsburgh	1.0	False
+60138011	Department of Medicine, Chicago	60027147	Department of Medicine, Chicago	1.0	False
+60138011	Department of Medicine, Chicago	60021484	Department of Medicine, Chicago	1.0	False
+60147441	Department of Surgery, Chicago	60009281	Department of Surgery, Chicago	1.0	False
+60147441	Department of Surgery, Chicago	60032488	Department of Surgery, Chicago	1.0	False
+60197143	College of Law, Doha	60310371	College of Law, Doha	1.0	False
+60202203	Faculty of Medicine, Beni Suef	60276313	Faculty of Medicine, Beni Suef	1.0	False
+60199560	Faculty of Medicine, Beirut	60199550	Faculty of Medicine, Beirut	1.0	False
+60199550	Faculty of Medicine, Beirut	60199560	Faculty of Medicine, Beirut	1.0	False
+60199406	Facultad de Medicina, Bogota	60054312	Facultad de Medicina, Bogota	1.0	False
+60199406	Faculty of Medicine, Bogota	60054312	Faculty of Medicine, Bogota	1.0	False
+60189588	The Canberra Business School, Canberra	60189937	The School of Business, Canberra	1.0	False
+60189937	The School of Business, Canberra	60189588	The Canberra Business School, Canberra	1.0	False
+60206606	School of Allied Medical Sciences, Tehran	60171619	School of Allied Medical Sciences, Tehran	1.0	False
+60206586	School of Advanced Technologies in Medicine, Tehran	60171613	School of Advanced Technologies in Medicine, Tehran	1.0	False
+60199291	School of Social Sciences, Reykjavik	60199293	School of Social Sciences, Reykjavik	1.0	False
+60206605	School of Public Health, Tehran	60171626	School of Public Health, Tehran	1.0	False
+60206596	School of Nursing & Midwifery, Tehran	60171627	School of Nursing and Midwifery, Tehran	1.0	False
+60206596	School of Nursing & Midwifery, Tehran	60171627	School of Nursing Midwifery, Tehran	1.0	False
+60199293	School of Social Sciences, Reykjavik	60199291	School of Social Sciences, Reykjavik	1.0	False
+60199589	School of Chinese Medicine, Hong Kong	60183196	School of Chinese Medicine, Hong Kong	1.0	False
+60210993	Centre d'Etudes Spatiales de la Biosphère, Toulouse	60024767	Centre d'Etudes Spatiales de la Biosphère, Toulouse	1.0	False
+60014636	Kyowa Hakko Kirin Co., Ltd, Tokyo	60310505	Kyowa Hakko Kirin Co Ltd, Tokyo	1.0	False
+60010471	National Institute of Agrobiological Resources, Tsukuba	60031513	National Institute of Agrobiological Resources, Tsukuba	1.0	False
+60007843	Sandia National Laboratories, Albuquerque	60014682	Sandia National Laboratories, Albuquerque	1.0	False
+60014682	Sandia National Laboratories, Albuquerque	60007843	Sandia National Laboratories, Albuquerque	1.0	False
+60003277	Malaspina University College, Nanaimo	60101614	Malaspina University-College, Nanaimo	1.0	False
+60002354	Faculty of Medicine, Tokyo	60172622	Faculty of Medicine, Tokyo	1.0	False
+60008708	Faculty of Engineering, Alexandria	60273121	Faculty of Engineering, Alexandria	1.0	False
+60009418	Facultad de Medicina, Santiago	60212030	Facultad de Medicina, Santiago	1.0	False
+60002575	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60002575	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60002575	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60002575	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60002575	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60002575	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60002575	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60012469	Saint Xavier University, Chicago	60015579	Saint Xavier University Chicago, Chicago	1.0	False
+60015323	Faculty of Medicine, Cairo	60024697	Faculty of Medicine, Cairo	1.0	False
+60015323	Faculty of Medicine, Cairo	60020436	Faculty of Medicine, Cairo	1.0	False
+60015323	Faculty of Medicine, Cairo	60274270	Faculty of Medicine, Cairo	1.0	False
+60007226	Faculty of Medicine, Mansoura	60273567	Faculty of Medicine, Mansoura	1.0	False
+60004782	Faculty of Pharmacy, Cairo	60216981	Faculty of Pharmacy, Cairo	1.0	False
+60004782	Faculty of Pharmacy, Cairo	60274265	Faculty of Pharmacy, Cairo	1.0	False
+60004782	Faculty of Pharmacy, Cairo	60273371	Faculty of Pharmacy, Cairo	1.0	False
+60004782	Faculty of Pharmacy, Cairo	60273712	Faculty of Pharmacy, Cairo	1.0	False
+60004782	Faculty of Pharmacy, Cairo	60273709	Faculty of Pharmacy, Cairo	1.0	False
+60015579	Saint Xavier University Chicago, Chicago	60012469	Saint Xavier University, Chicago	1.0	False
+60013786	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	60018219	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	1.0	False
+60009535	Roosevelt University, Chicago	60029867	Roosevelt University Chicago, Chicago	1.0	False
+60008581	Abgenix, Inc., Fremont	60297862	Abgenix Inc, Fremont	1.0	False
+60009742	Medical Center Hospital of Vermont, Burlington	60000856	Medical Center Hospital of Vermont, Burlington	1.0	False
+60010328	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Escola de Medicina, Santa Luiza	60004200	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Santa Luiza	0.9534625892455924	False
+60000856	Medical Center Hospital of Vermont, Burlington	60009742	Medical Center Hospital of Vermont, Burlington	1.0	False
+60004200	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Santa Luiza	60010328	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Escola de Medicina, Santa Luiza	0.9534625892455924	False
+60003064	Institute for Drug Development San Antonio, San Antonio	60019347	Institute for Drug Development, San Antonio	1.0	False
+60013823	Hospital Materno Infantil, Madrid	60016890	Hospital Materno-Infantil, Madrid	1.0	False
+60013823	Maternal and child Hospital, Madrid	60016890	Maternal and child Hospital, Madrid	1.0	False
+60006853	Cerner Corporation, North Kansas City	60294515	Cerner Corporation,, North Kansas City	1.0	False
+60014198	AgResearch Lincoln, Lincoln	60015346	AgResearch, Lincoln	1.0	False
+60015346	AgResearch, Lincoln	60014198	AgResearch Lincoln, Lincoln	1.0	False
+60011920	Cellomics, Inc., Pittsburgh	60295418	Cellomics Inc., Pittsburgh	1.0	False
+60009742	University of Vermont Medical Center, Burlington	60000856	University of Vermont Medical Center, Burlington	1.0	False
+60007572	Universidad de Los Lagos, Osorno	60029954	Universidad de Los Lagos, Osorno, Osorno	1.0	False
+60007885	University of Nevada Cooperative Extension, Reno	60032588	University Nevada Cooperative Extension Reno, Reno	1.0	False
+60012683	Universidad del Bio Bio, Concepcion, Concepcion	60023195	Universidad del Bio Bio, Concepcion	1.0	False
+60006873	University of Nevada, Reno School of Medicine, Reno	60280026	University of Nevada School of Medicine, Reno	1.0	False
+60009695	Graduate School of Engineering Science, 	60028150	Graduate School of Science and Engineering, 	1.0	False
+60000856	University of Vermont Medical Center, Burlington	60009742	University of Vermont Medical Center, Burlington	1.0	False
+60004135	University of Auvergne, Clermont-Ferrand	60138276	University of Clermont Auvergne, Clermont-Ferrand	1.0	False
+60012464	Universidad de Chile, Santiago	60023383	Universidad de Santiago de Chile, Santiago	1.0	False
+60012464	University of Chile, Santiago	60023383	University of Santiago, Chile, Santiago	1.0	False
+60004715	ESRI, Redlands	60297983	Esri, Redlands	1.0	False
+60001499	Hochschule für Künste Bremen, Bremen	60111807	Hochschule für Künste, Bremen	1.0	False
+60001588	NSW Health, North Sydney	60082306	NSW Health, North Sydney	1.0	False
+60010765	Franklin Pierce College Rindge, Rindge	60030997	Franklin Pierce College, Rindge	1.0	False
+60003678	Desert Research Institute Reno, Reno	60023439	Desert Research Institute, Reno	1.0	False
+60015662	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	60115293	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	1.0	False
+60006625	Lincoln University, Lincoln	60170158	Lincoln University, Lincoln	1.0	False
+60012675	Linfield College, McMinnville	60027633	Linfield College McMinnville, McMinnville	1.0	False
+60005619	Lincoln College, Lincoln	60170158	Lincoln College, Lincoln	1.0	False
+60002637	Kharkiv Pharmaceutical Institute, Kharkiv	60073873	Kharkiv Pharmaceutical Institute, Kharkiv	1.0	False
+60007790	School of Medicine, Tehran	60025392	School of Medicine, Tehran	1.0	False
+60003272	Centre de Recerca Matemática, Bellaterra	60116924	Centre de Recerca Matemàtica, Bellaterra	1.0	False
+60008688	Department of Materials Engineering, 	60022516	Department of Engineering Materials, 	1.0	False
+60014772	Department of Statistics, Columbia	60031665	Department of Statistics, Columbia	1.0	False
+60013862	Department of Pharmacology, Chicago	60023344	Department of Pharmacology, Chicago	1.0	False
+60009281	Department of Surgery, Chicago	60032488	Department of Surgery, Chicago	1.0	False
+60009281	Department of Surgery, Chicago	60147441	Department of Surgery, Chicago	1.0	False
+60002444	Department of Molecular Genetics and Microbiology, 	60021856	Department of Microbiology and Molecular Genetics, 	1.0	False
+60013047	Department of Computer Science and Information Engineering, 	60104742	Department of Computer Engineering and Information Science, 	1.0	False
+60001220	Department of Industrial Chemistry, 	60079935	Department of Chemistry and Industrial Chemistry, 	1.0	False
+60005618	Autonomous University of Baja California, Mexicali	60027808	Autonomous University of Baja California, Mexicali, Mexicali	1.0	False
+60008523	Leibniz Gemeinschaft, Berlin	60116832	Leibniz-Gemeinschaft, Berlin	1.0	False
+60008523	Leibniz Association, Berlin	60116832	Leibniz Association, Berlin	1.0	False
+60008523	Leibniz-Gemeinschaft, Berlin	60116832	Leibniz-Gemeinschaft, Berlin	1.0	False
+60007080	St. John's Hospital, Springfield	60100747	St. John's Hospital, Springfield	1.0	False
+60015574	UT Knoxville, Knoxville	60016429	UT, Knoxville	1.0	False
+60310505	Kyowa Hakko Kirin Co Ltd, Tokyo	60014636	Kyowa Hakko Kirin Co., Ltd, Tokyo	1.0	False
+60288614	École Nationale Supérieure de Techniques Avancées, Palaiseau	60019904	École Nationale Supérieure de Techniques Avancées, Palaiseau	1.0	False
+60310371	College of Law, Doha	60197143	College of Law, Doha	1.0	False
+60288449	College of Engineering, Pune, Pune	60076426	College of Engineering, Pune	1.0	False
+60311368	AMP Therapeutics GmbH, Leipzig	60308992	AMP-Therapeutics GmbH, Leipzig	1.0	False
+60308992	AMP-Therapeutics GmbH, Leipzig	60311368	AMP Therapeutics GmbH, Leipzig	1.0	False
+60320585	NAT Diagnostics, Inc., San Diego	60323884	Nat Diagnostics, Inc., San Diego	1.0	False
+60288614	National School of Advanced Techniques, Palaiseau	60019904	National School of Advanced Techniques, Palaiseau	1.0	False
+60279516	National University of Computer and Emerging Sciences, Islamabad	60070603	National University of Computer and Emerging Sciences Islamabad, Islamabad	1.0	False
+60323890	Nature's Best Defense, LLC, Boca Raton	60297063	Nature's Best Defense LLC, Boca Raton	1.0	False
+60297063	Nature's Best Defense LLC, Boca Raton	60323890	Nature's Best Defense, LLC, Boca Raton	1.0	False
+60323884	Nat Diagnostics, Inc., San Diego	60320585	NAT Diagnostics, Inc., San Diego	1.0	False
+60288497	National Laboratory for Veterinary Quality Control on Poultry Production, Giza	60274548	National Laboratory for Veterinary Quality Control on Poultry Production (NLQP), Giza	0.9534625892455924	False
+60313044	Chengdu Haiguang Integrated Circuit Design Co., Ltd, Chengdu	60310453	Chengdu Haiguang Integrated Circuit Design Co Ltd., Chengdu	1.0	False
+60310453	Chengdu Haiguang Integrated Circuit Design Co Ltd., Chengdu	60313044	Chengdu Haiguang Integrated Circuit Design Co., Ltd, Chengdu	1.0	False
+60300181	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	60299680	Tezign (Shanghai) Information And Technology Co., Ltd., Shanghai	1.0	False
+60300181	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	60299680	Tezign (Shanghai) Information Technology Co., Ltd., Shanghai	1.0	False
+60299680	Tezign (Shanghai) Information Technology Co., Ltd., Shanghai	60300181	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	1.0	False
+60299680	Tezign (Shanghai) Information And Technology Co., Ltd., Shanghai	60300181	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	1.0	False
+60322033	Kolltan Pharmaceuticals, Inc., New Haven	60308779	Kolltan Pharmaceuticals Inc., New Haven	1.0	False
+60308779	Kolltan Pharmaceuticals Inc., New Haven	60322033	Kolltan Pharmaceuticals, Inc., New Haven	1.0	False
+60298317	Rosen Swiss AG, Stans	60119405	ROSEN Swiss AG, Stans	1.0	False
+60297205	Oxigene, Inc., Waltham	60314879	OxiGene, Inc., Waltham	1.0	False
+60314879	OxiGene, Inc., Waltham	60297205	Oxigene, Inc., Waltham	1.0	False
+60321696	Pacesetter, Inc., Sylmar	60308897	​Pacesetter, Inc., Sylmar	1.0	False
+60308897	​Pacesetter, Inc., Sylmar	60321696	Pacesetter, Inc., Sylmar	1.0	False
+60319179	CymaBay Therapeutics, Inc, Newark	60294290	CymaBay Therapeutics Inc., Newark	1.0	False
+60294290	CymaBay Therapeutics Inc., Newark	60319179	CymaBay Therapeutics, Inc, Newark	1.0	False
+60300495	FuturaGene Israel Ltd., Rehovot	60295546	Futuragene Israel Ltd., Rehovot	1.0	False
+60295546	Futuragene Israel Ltd., Rehovot	60300495	FuturaGene Israel Ltd., Rehovot	1.0	False
+60309377	Xi'an Shenxin Kechuang Information Technology Co., Ltd., Xi'an	60310744	Xi'an Shenxin Kechuang Information Technology Co., Ltd, Xi'an	1.0	False
+60310744	Xi'an Shenxin Kechuang Information Technology Co., Ltd, Xi'an	60309377	Xi'an Shenxin Kechuang Information Technology Co., Ltd., Xi'an	1.0	False
+60291713	Mohammed VI University of Health Sciences, Casablanca	60170292	Mohammed VI University of Sciences and Health, Casablanca	1.0	False
+60291713	Mohammed VI University of Health Sciences (UM6SS), Casablanca	60170292	Mohammed VI University of Sciences and Health - UM6SS, Casablanca	1.0	False
+60309376	Xi'an Xiangteng Microelectronics Technology Co., Ltd., Xi'an	60310746	Xi'an Xiangteng Microelectronics Technology Co.,LTD, Xi'an	1.0	False
+60310746	Xi'an Xiangteng Microelectronics Technology Co.,LTD, Xi'an	60309376	Xi'an Xiangteng Microelectronics Technology Co., Ltd., Xi'an	1.0	False
+60312533	Bodenseewerk Gerätetechnik GmbH, Uberlingen	60303884	Bodenseewerk Gerätetechnik Gmbh, Uberlingen	1.0	False
+60321535	Mécanique Analytique Inc, Thetford Mines	60322681	Mécanique Analytique Inc., Thetford Mines	1.0	False
+60307965	Princeton Lightwave Inc, Cranbury	60018670	Princeton Lightwave, Inc., Cranbury	1.0	False
+60322681	Mécanique Analytique Inc., Thetford Mines	60321535	Mécanique Analytique Inc, Thetford Mines	1.0	False
+60303885	Bodenseewerk Perkin-Elmer Gmbh, Uberlingen	60072364	Bodenseewerk Perkin-Elmer GmbH, Uberlingen	1.0	False
+60295380	CGeneTech (Suzhou, China) Co., Ltd., Suzhou	60298518	Cgenetech (Suzhou, China) Co., Ltd., Suzhou	1.0	False
+60298518	Cgenetech (Suzhou, China) Co., Ltd., Suzhou	60295380	CGeneTech (Suzhou, China) Co., Ltd., Suzhou	1.0	False
+60303884	Bodenseewerk Gerätetechnik Gmbh, Uberlingen	60312533	Bodenseewerk Gerätetechnik GmbH, Uberlingen	1.0	False
+60297639	NoNO Inc., Toronto	60311110	Nono Inc., Toronto	1.0	False
+60311110	Nono Inc., Toronto	60297639	NoNO Inc., Toronto	1.0	False
+60319409	Hyundai Electronics Industries Co Ltd, Icheon	60094599	Hyundai Electronics Industries Co., Ltd., Icheon	1.0	False
+60303011	Liuzhou Taiqi Mechanical and Electrical Engineering Co.,Ltd., Liuzhou	60301838	Liuzhou Taiqi mechanical and Electrical Engineering Co.,Ltd., Liuzhou	1.0	False
+60301838	Liuzhou Taiqi mechanical and Electrical Engineering Co.,Ltd., Liuzhou	60303011	Liuzhou Taiqi Mechanical and Electrical Engineering Co.,Ltd., Liuzhou	1.0	False
+60297815	Viral Logic Systems Technology Corp, Seattle	60294283	Viral Logic Systems Technology Corp., Seattle	1.0	False
+60294283	Viral Logic Systems Technology Corp., Seattle	60297815	Viral Logic Systems Technology Corp, Seattle	1.0	False
+60288001	Higher Colleges of Technology, Abu Dhabi	60074310	Higher Colleges of Technology Abu Dhabi, Abu Dhabi	1.0	False
+60297862	Abgenix Inc, Fremont	60008581	Abgenix, Inc., Fremont	1.0	False
+60296831	Klox Technologies, Inc., Laval	60298655	Klox Technologies Inc., Laval	1.0	False
+60302970	Jiangxi Haoze Optical Film Technology Co.,Ltd., Shangrao	60302258	Jiangxi Haoze Optical Film Technology Co.,Ltd, Shangrao	1.0	False
+60298655	Klox Technologies Inc., Laval	60296831	Klox Technologies, Inc., Laval	1.0	False
+60302258	Jiangxi Haoze Optical Film Technology Co.,Ltd, Shangrao	60302970	Jiangxi Haoze Optical Film Technology Co.,Ltd., Shangrao	1.0	False
+60304667	Rheogene Inc, Norristown	60304081	RheoGene, Inc., Norristown	1.0	False
+60304081	RheoGene, Inc., Norristown	60304667	Rheogene Inc, Norristown	1.0	False
+60288452	Oden Institute for Computational Engineering and Sciences, Austin	60150620	Oden Institute for Computational Engineering & Sciences, Austin	1.0	False
+60304553	Faeth Therapeutics, Inc., Austin	60327420	Faeth Therapeutics Inc., Austin	1.0	False
+60327420	Faeth Therapeutics Inc., Austin	60304553	Faeth Therapeutics, Inc., Austin	1.0	False
+60298229	Miradry, Inc., Newport Beach	60298228	Miradry, Inc, Newport Beach	1.0	False
+60298228	Miradry, Inc, Newport Beach	60298229	Miradry, Inc., Newport Beach	1.0	False
+60327208	TOPLAB GmbH, Planegg	60327239	TOPLAB, GmbH, Planegg	1.0	False
+60327239	TOPLAB, GmbH, Planegg	60327208	TOPLAB GmbH, Planegg	1.0	False
+60292314	Idea Bioprocess Technology SRLS, Bergamo	60292667	IDEA BIOPROCESS TECHNOLOGY srls, Bergamo	1.0	False
+60292667	IDEA BIOPROCESS TECHNOLOGY srls, Bergamo	60292314	Idea Bioprocess Technology SRLS, Bergamo	1.0	False
+60313578	Chan Zuckerberg Biohub San Francisco, San Francisco	60112729	Chan Zuckerberg Biohub, San Francisco	1.0	False
+60301410	Hospira, Inc., Lake Forest	60314905	Hospira Inc., Lake Forest	1.0	False
+60314905	Hospira Inc., Lake Forest	60301410	Hospira, Inc., Lake Forest	1.0	False
+60304143	SPINNER GmbH, Munich	60304697	Spinner GmbH, Munich	1.0	False
+60304697	Spinner GmbH, Munich	60304143	SPINNER GmbH, Munich	1.0	False
+60313385	Alpha Metals Inc, Jersey City	60075463	Alpha Metals, Inc., Jersey City	1.0	False
+60302653	IntraBio Ltd, London	60294485	Intrabio Ltd, London	1.0	False
+60298098	Lanzhou Institute of Biological Products Co., Ltd., Lanzhou	60138287	Lanzhou Institute of Biological Products Co., Ltd, Lanzhou	1.0	False
+60294485	Intrabio Ltd, London	60302653	IntraBio Ltd, London	1.0	False
+60306356	Honeywell, Spol. S R.O., Prague	60305137	Honeywell, spol. s r.o., Prague	1.0	False
+60305137	Honeywell, spol. s r.o., Prague	60306356	Honeywell, Spol. S R.O., Prague	1.0	False
+60340799	GeneSpector s.r.o., Prague	60294098	Genespector s.r.o., Prague	1.0	False
+60295346	Atossa Genetics, Inc., Seattle	60312359	Atossa Genetics, Inc, Seattle	1.0	False
+60313236	Genesis Research and Development Corporation Ltd, Auckland	60100563	Genesis Research & Development Corporation Ltd, Auckland	1.0	False
+60312359	Atossa Genetics, Inc, Seattle	60295346	Atossa Genetics, Inc., Seattle	1.0	False
+60313224	Genelabs Technologies Inc., Redwood City	60303293	Genelabs Technologies, Inc., Redwood City	1.0	False
+60294098	Genespector s.r.o., Prague	60340799	GeneSpector s.r.o., Prague	1.0	False
+60303293	Genelabs Technologies, Inc., Redwood City	60313224	Genelabs Technologies Inc., Redwood City	1.0	False
+60305934	Catexel Technologies Limited, London	60312947	CATEXEL Technologies Limited, London	1.0	False
+60312947	CATEXEL Technologies Limited, London	60305934	Catexel Technologies Limited, London	1.0	False
+60319177	AgBiome, Inc, Research Triangle Park	60112111	AgBiome, Inc., Research Triangle Park	1.0	False
+60304702	Surmodics, Inc., Eden Prairie	60082837	SurModics, Inc., Eden Prairie	1.0	False
+60294515	Cerner Corporation,, North Kansas City	60006853	Cerner Corporation, North Kansas City	1.0	False
+60303400	Good Start Genetics, Inc., Cambridge	60304292	Good Start Genetics Inc., Cambridge	1.0	False
+60304292	Good Start Genetics Inc., Cambridge	60303400	Good Start Genetics, Inc., Cambridge	1.0	False
+60287929	Agricultural University of Wroclaw, Wrocław	60117470	Agricultural University of Wrocław, Wroclaw	1.0	False
+60319496	Locus Biosciences, Inc, Morrisville	60310855	Locus Biosciences, Inc., Morrisville	1.0	False
+60310855	Locus Biosciences, Inc., Morrisville	60319496	Locus Biosciences, Inc, Morrisville	1.0	False
+60300574	Epitopix LLC, Willmar	60298642	Epitopix, LLC, Willmar	1.0	False
+60298642	Epitopix, LLC, Willmar	60300574	Epitopix LLC, Willmar	1.0	False
+60304082	Rhodia Consumer Specialties Ltd., Oldbury	60302358	Rhodia Consumer Specialties Ltd, Oldbury	1.0	False
+60302358	Rhodia Consumer Specialties Ltd, Oldbury	60304082	Rhodia Consumer Specialties Ltd., Oldbury	1.0	False
+60327361	Embark Veterinary, Inc., Boston	60312793	Embark Veterinary, Inc, Boston	1.0	False
+60312793	Embark Veterinary, Inc, Boston	60327361	Embark Veterinary, Inc., Boston	1.0	False
+60313210	GelTex Pharmaceuticals Inc., Waltham	60028414	GelTex Pharmaceuticals, Inc., Waltham	1.0	False
+60295418	Cellomics Inc., Pittsburgh	60011920	Cellomics, Inc., Pittsburgh	1.0	False
+60311937	Thorn EMI Plc, London	60297968	Thorn EMI plc, London	1.0	False
+60301725	DNAPrint Genomics Inc., Sarasota	60294221	DNAPrint Genomics, Inc., Sarasota	1.0	False
+60294221	DNAPrint Genomics, Inc., Sarasota	60301725	DNAPrint Genomics Inc., Sarasota	1.0	False
+60297968	Thorn EMI plc, London	60311937	Thorn EMI Plc, London	1.0	False
+60298252	Molycorp Minerals LLC, Greenwood Village	60098680	Molycorp Minerals, LLC, Greenwood Village	1.0	False
+60309027	Nanofluor GmbH, Berlin	60116396	nanofluor GmbH, Berlin	1.0	False
+60311263	Nanostream Inc., Pasadena	60308889	Nanostream, Inc., Pasadena	1.0	False
+60318217	NanoPharmaceuticals LLC, Troy	60295099	Nanopharmaceuticals LLC, Troy	1.0	False
+60311252	Nanchang Virtual Reality Institute Co., Ltd., Nanchang	60300139	Nanchang Institute of Virtual Reality Co., Ltd., Nanchang	1.0	False
+60308889	Nanostream, Inc., Pasadena	60311263	Nanostream Inc., Pasadena	1.0	False
+60295099	Nanopharmaceuticals LLC, Troy	60318217	NanoPharmaceuticals LLC, Troy	1.0	False
+60300139	Nanchang Institute of Virtual Reality Co., Ltd., Nanchang	60311252	Nanchang Virtual Reality Institute Co., Ltd., Nanchang	1.0	False
+60304625	Lifelens Technologies, Inc., Ivyland	60295040	LifeLens Technologies, Inc, Ivyland	1.0	False
+60298582	Lifepoint Health, Inc, Brentwood	60122480	LifePoint Health, Inc., Brentwood	1.0	False
+60295040	LifeLens Technologies, Inc, Ivyland	60304625	Lifelens Technologies, Inc., Ivyland	1.0	False
+60314692	Multex.com, Inc., New York	60318203	Multex Com Inc, New York	1.0	False
+60318203	Multex Com Inc, New York	60314692	Multex.com, Inc., New York	1.0	False
+60289933	Universitas Islam Negeri Imam Bonjol, Padang	60279331	Universitas Islam Negeri Imam Bonjol Padang, Padang	1.0	False
+60289933	Universitas Islam Negeri Imam Bonjol Padang, Padang	60279331	Universitas Islam Negeri Imam Bonjol Padang, Padang	1.0	False
+60281124	University of Technology and Applied Sciences, Muscat	60118536	University of Technology and Applied Sciences-Muscat, Muscat	1.0	False
+60281124	University of Technology and Applied Sciences, Muscat	60118536	University of Technology and Applied Sciences Muscat, Muscat	1.0	False
+60291713	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	60170292	Université Mohammed VI des Sciences et de la Santé, Casablanca	0.9534625892455924	False
+60291713	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	60170292	Université Mohammed VI des Sciences et de la Santé (UM6SS), Casablanca	1.0	False
+60280861	University of Koblenz-Landau Landau Campus, Landau	60280751	University of Koblenz-Landau Koblenz Campus, Koblenz	1.0	False
+60280861	Universität Koblenz-Landau Landau Campus, Landau	60280751	Universität Koblenz-Landau Koblenz Campus, Koblenz	1.0	False
+60280026	University of Nevada School of Medicine, Reno	60006873	University of Nevada, Reno School of Medicine, Reno	1.0	False
+60280751	University of Koblenz-Landau Koblenz Campus, Koblenz	60280861	University of Koblenz-Landau Landau Campus, Landau	1.0	False
+60280751	Universität Koblenz-Landau Koblenz Campus, Koblenz	60280861	Universität Koblenz-Landau Landau Campus, Landau	1.0	False
+60297217	Sloiron Inc, Walnut Creek	60298690	Sloiron, Inc., Walnut Creek	1.0	False
+60298690	Sloiron, Inc., Walnut Creek	60297217	Sloiron Inc, Walnut Creek	1.0	False
+60312460	Biolex Therapeutics, Inc., Pittsboro	60310831	Biolex Therapeutics Inc, Pittsboro	1.0	False
+60306625	Conductix-Wampfler GmbH, Weil am Rhein	60300443	Conductix-Wampfler Gmbh, Weil am Rhein	1.0	False
+60298943	Bio-Thera Solutions, Ltd., Guangzhou	60311427	Bio-Thera Solutions Ltd., Guangzhou	1.0	False
+60310540	Shandong Donghong Pipe Industry Co., Ltd., Qufu	60311292	Shandong Donghong Pipe Industry Co., Ltd, Qufu	1.0	False
+60306853	HaplnScience Inc, Anyang	60298861	Haplnscience Inc., Anyang	1.0	False
+60310831	Biolex Therapeutics Inc, Pittsboro	60312460	Biolex Therapeutics, Inc., Pittsboro	1.0	False
+60297305	Biomimetx S.A., Cantanhede	60307500	BioMimetx S.A., Cantanhede	1.0	False
+60311292	Shandong Donghong Pipe Industry Co., Ltd, Qufu	60310540	Shandong Donghong Pipe Industry Co., Ltd., Qufu	1.0	False
+60311427	Bio-Thera Solutions Ltd., Guangzhou	60298943	Bio-Thera Solutions, Ltd., Guangzhou	1.0	False
+60309318	Shanghai Weipu Chemical Technology Service Co., Ltd., Shanghai	60311297	Shanghai WEIPU Chemical Technology Service Co., Ltd., Shanghai	1.0	False
+60309689	Biotx.ai, GmbH, Potsdam	60294915	biotx.ai GmbH, Potsdam	1.0	False
+60341931	Confocal NL, Amsterdam	60328239	Confocal.nl, Amsterdam	1.0	False
+60311297	Shanghai WEIPU Chemical Technology Service Co., Ltd., Shanghai	60309318	Shanghai Weipu Chemical Technology Service Co., Ltd., Shanghai	1.0	False
+60300443	Conductix-Wampfler Gmbh, Weil am Rhein	60306625	Conductix-Wampfler GmbH, Weil am Rhein	1.0	False
+60307500	BioMimetx S.A., Cantanhede	60297305	Biomimetx S.A., Cantanhede	1.0	False
+60298861	Haplnscience Inc., Anyang	60306853	HaplnScience Inc, Anyang	1.0	False
+60294915	biotx.ai GmbH, Potsdam	60309689	Biotx.ai, GmbH, Potsdam	1.0	False
+60328239	Confocal.nl, Amsterdam	60341931	Confocal NL, Amsterdam	1.0	False
+60300433	Chongqing Genrix Biopharmaceutical Co Ltd, Chongqing	60306643	Chongqing Genrix Biopharmaceutical Co., Ltd, Chongqing	1.0	False
+60301684	Chongqing Ruiyun Technology co., ltd., Chongqing	60302178	Chongqing Ruiyun Technology Co., Ltd., Chongqing	1.0	False
+60306643	Chongqing Genrix Biopharmaceutical Co., Ltd, Chongqing	60300433	Chongqing Genrix Biopharmaceutical Co Ltd, Chongqing	1.0	False
+60302178	Chongqing Ruiyun Technology Co., Ltd., Chongqing	60301684	Chongqing Ruiyun Technology co., ltd., Chongqing	1.0	False
+60296916	PharmaBlock Sciences (Nanjing), Inc., Nanjing	60311155	PharmaBlock Sciences (Nanjing) Inc., Nanjing	1.0	False
+60311155	PharmaBlock Sciences (Nanjing) Inc., Nanjing	60296916	PharmaBlock Sciences (Nanjing), Inc., Nanjing	1.0	False
+60303079	Prowler.io Limited, Cambridge	60118653	PROWLER.io Limited, Cambridge	1.0	False
+60295335	ProteoTech Inc, Kirkland	60090415	ProteoTech, Inc., Kirkland	1.0	False
+60297983	Esri, Redlands	60004715	ESRI, Redlands	1.0	False
+60311282	Rajax Network Technology Co., Ltd., Shanghai	60309302	Rajax Network Technology Co., Ltd, Shanghai	1.0	False
+60293654	Federal Mogul Corporation, Southfield	60078277	Federal-Mogul Corporation, Southfield	1.0	False
+60309302	Rajax Network Technology Co., Ltd, Shanghai	60311282	Rajax Network Technology Co., Ltd., Shanghai	1.0	False
+60311501	RavenBrick LLC, Denver	60309007	Ravenbrick LLC, Denver	1.0	False
+60309007	Ravenbrick LLC, Denver	60311501	RavenBrick LLC, Denver	1.0	False
+60295438	Alder Biopharmaceuticals Inc., Bothell	60303365	Alder BioPharmaceuticals Inc, Bothell	1.0	False
+60303365	Alder BioPharmaceuticals Inc, Bothell	60295438	Alder Biopharmaceuticals Inc., Bothell	1.0	False
+60311416	Beijing Jingdong Qianshi Technology Co., Ltd., Beijing	60308854	Beijing Jingdong Qianshi Technology Co.,Ltd, Beijing	1.0	False
+60311417	Beijing Sankuai Online Technology Co., Ltd., Beijing	60299836	Beijing Sankuai Online Technology Co.,Ltd., Beijing	1.0	False
+60308854	Beijing Jingdong Qianshi Technology Co.,Ltd, Beijing	60311416	Beijing Jingdong Qianshi Technology Co., Ltd., Beijing	1.0	False
+60299836	Beijing Sankuai Online Technology Co.,Ltd., Beijing	60311417	Beijing Sankuai Online Technology Co., Ltd., Beijing	1.0	False
+60323772	State Grid Hunan Electric Power Co., Ltd., Changsha	60320060	State Grid Hunan Electric Power Co Ltd, Changsha	1.0	False
+60320060	State Grid Hunan Electric Power Co Ltd, Changsha	60323772	State Grid Hunan Electric Power Co., Ltd., Changsha	1.0	False
+60314712	COBE Laboratories, Inc, Lakewood	60313145	COBE Laboratories, Inc., Lakewood	1.0	False
+60313145	COBE Laboratories, Inc., Lakewood	60314712	COBE Laboratories, Inc, Lakewood	1.0	False
+60297112	Fabric Genomics, Inc., Oakland	60296846	Fabric Genomics Inc., Oakland	1.0	False
+60296846	Fabric Genomics Inc., Oakland	60297112	Fabric Genomics, Inc., Oakland	1.0	False
+60284770	Tokyo Medical and Dental University Medical Hospital, Tokyo	60172569	Tokyo Medical and Dental University Dental Hospital, Tokyo	1.0	False
+60284770	Tokyo Medical and Dental University Medical Hospital, Tokyo	60172569	Tokyo Medical and Dental University, Dental Hospital, Tokyo	1.0	False
+60284770	Tokyo Medical and Dental University Medical Hospital, Tokyo	60283921	Tokyo Medical and Dental University Hospital, Tokyo	1.0	False
+60299831	AntlerA Therapeutics Inc., Toronto	60310275	Antlera Therapeutics Inc., Toronto	1.0	False
+60310275	Antlera Therapeutics Inc., Toronto	60299831	AntlerA Therapeutics Inc., Toronto	1.0	False
+60283921	Tokyo Medical and Dental University Hospital, Tokyo	60172569	Tokyo Medical and Dental University Dental Hospital, Tokyo	1.0	False
+60283921	Tokyo Medical and Dental University Hospital, Tokyo	60172569	Tokyo Medical and Dental University, Dental Hospital, Tokyo	1.0	False
+60283921	Tokyo Medical and Dental University Hospital, Tokyo	60284770	Tokyo Medical and Dental University Medical Hospital, Tokyo	1.0	False
+60295047	Maggie's Pearl LLC, Sturgis	60299119	Maggie's Pearl, LLC, Sturgis	1.0	False
+60299119	Maggie's Pearl, LLC, Sturgis	60295047	Maggie's Pearl LLC, Sturgis	1.0	False
+60298785	Tensor Biosciences Inc., Irvine	60298786	Tensor Biosciences, Inc., Irvine	1.0	False
+60298786	Tensor Biosciences, Inc., Irvine	60298785	Tensor Biosciences Inc., Irvine	1.0	False
+60323912	Network Appliance, Inc., Sunnyvale	60320594	Network Appliance, inc., Sunnyvale	1.0	False
+60323916	Network-1 Technologies, Inc., New Canaan	60320596	Network-1 Technologies Inc, New Canaan	1.0	False
+60320596	Network-1 Technologies Inc, New Canaan	60323916	Network-1 Technologies, Inc., New Canaan	1.0	False
+60320594	Network Appliance, inc., Sunnyvale	60323912	Network Appliance, Inc., Sunnyvale	1.0	False
+60304501	CytRx Corporation, Los Angeles	60313576	Cytrx Corporation, Los Angeles	1.0	False
+60313576	Cytrx Corporation, Los Angeles	60304501	CytRx Corporation, Los Angeles	1.0	False
+60295444	Ambergen Inc., Watertown	60090419	AmberGen, Inc., Watertown	1.0	False
+60303234	Rasna Research, Inc., New York	60298280	Rasna Research Inc, New York	1.0	False
+60310782	Physcient Inc, Durham	60298485	Physcient, Inc., Durham	1.0	False
+60298280	Rasna Research Inc, New York	60303234	Rasna Research, Inc., New York	1.0	False
+60298485	Physcient, Inc., Durham	60310782	Physcient Inc, Durham	1.0	False
+60298779	Telonostix Ltd, Cardiff	60311900	TeloNostiX Ltd, Cardiff	1.0	False
+60311900	TeloNostiX Ltd, Cardiff	60298779	Telonostix Ltd, Cardiff	1.0	False
+60310542	Shenzhen Grand Powersource Co. Ltd, Shenzhen	60309322	Shenzhen Grand Powersource Co.,Ltd, Shenzhen	1.0	False
+60299749	Shenzhen Sensetime Technology Co., Ltd., Shenzhen	60309324	Shenzhen SenseTime Technology Co. Ltd, Shenzhen	1.0	False
+60299648	Shenzhen Niou Technology Co., Ltd., Shenzhen	60301329	Shenzhen Niou Technology Co., Ltd, Shenzhen	1.0	False
+60309322	Shenzhen Grand Powersource Co.,Ltd, Shenzhen	60310542	Shenzhen Grand Powersource Co. Ltd, Shenzhen	1.0	False
+60301329	Shenzhen Niou Technology Co., Ltd, Shenzhen	60299648	Shenzhen Niou Technology Co., Ltd., Shenzhen	1.0	False
+60309324	Shenzhen SenseTime Technology Co. Ltd, Shenzhen	60299749	Shenzhen Sensetime Technology Co., Ltd., Shenzhen	1.0	False
+60313596	1149336 Ontario Inc., Toronto	60324607	1149336 Ontario Inc, Toronto	1.0	False
+60324607	1149336 Ontario Inc, Toronto	60313596	1149336 Ontario Inc., Toronto	1.0	False
+60302188	Datang Mobile Communications Equipment Co., Ltd, Beijing	60293855	Datang Mobile Communications Equipment Co., Ltd., Beijing 	1.0	False
+60293855	Datang Mobile Communications Equipment Co., Ltd., Beijing 	60302188	Datang Mobile Communications Equipment Co., Ltd, Beijing	1.0	False
+60331497	Eodyne Systems S.L., Barcelona	60331041	Eodyne Systems S.L, Barcelona	1.0	False
+60331041	Eodyne Systems S.L, Barcelona	60331497	Eodyne Systems S.L., Barcelona	1.0	False
+60302067	Reviresco Co.,Ltd., Jeju	60306687	Reviresco Co., Ltd., Jeju	1.0	False
+60306687	Reviresco Co., Ltd., Jeju	60302067	Reviresco Co.,Ltd., Jeju	1.0	False
+60312817	Energy Conversion Devices, Inc., Rochester Hills	60019291	Energy Conversion Devices Inc, Rochester Hills	1.0	False
+60289933	Imam Bonjol Padang State Islamic University, Padang	60279331	Imam Bonjol State Islamic University Padang, Padang	1.0	False
+60313585	Daewoong Pharmaceutical Co.,Ltd., Seoul	60093580	Daewoong Pharmaceutical Co., Ltd., Seoul	1.0	False
+60281541	Τμήμα Τουρισμού, Corfu	60281526	Σχολή Οικονομικών Επιστημών, Corfu	1.0	False
+60281541	Τμήμα Τουρισμού, Corfu	60281552	Τμήμα Μουσικών Σπουδών, Corfu	1.0	False
+60281541	Τμήμα Τουρισμού, Corfu	60281551	Τμημα Τεχνων Ηχου & Εικονας, Corfu	1.0	False
+60302705	Corcept Therapeutics Incorporated, Redwood City	60297030	Corcept Therapeutics, Incorporated, Redwood City	1.0	False
+60303434	Small Pharma Ltd., London	60306972	Small Pharma Ltd, London	1.0	False
+60306972	Small Pharma Ltd, London	60303434	Small Pharma Ltd., London	1.0	False
+60281551	Τμημα Τεχνων Ηχου & Εικονας, Corfu	60281526	Σχολή Οικονομικών Επιστημών, Corfu	1.0	False
+60281551	Τμημα Τεχνων Ηχου & Εικονας, Corfu	60281552	Τμήμα Μουσικών Σπουδών, Corfu	1.0	False
+60281551	Τμημα Τεχνων Ηχου & Εικονας, Corfu	60281541	Τμήμα Τουρισμού, Corfu	1.0	False
+60281552	Τμήμα Μουσικών Σπουδών, Corfu	60281526	Σχολή Οικονομικών Επιστημών, Corfu	1.0	False
+60281552	Τμήμα Μουσικών Σπουδών, Corfu	60281551	Τμημα Τεχνων Ηχου & Εικονας, Corfu	1.0	False
+60281552	Τμήμα Μουσικών Σπουδών, Corfu	60281541	Τμήμα Τουρισμού, Corfu	1.0	False
+60297030	Corcept Therapeutics, Incorporated, Redwood City	60302705	Corcept Therapeutics Incorporated, Redwood City	1.0	False
+60315679	Yili Chuanning Biotechnology Co., Ltd., Yining	60328589	Yili Chuanning Biotechnology Co Ltd, Yining	1.0	False
+60281526	Σχολή Οικονομικών Επιστημών, Corfu	60281552	Τμήμα Μουσικών Σπουδών, Corfu	1.0	False
+60281526	Σχολή Οικονομικών Επιστημών, Corfu	60281551	Τμημα Τεχνων Ηχου & Εικονας, Corfu	1.0	False
+60281526	Σχολή Οικονομικών Επιστημών, Corfu	60281541	Τμήμα Τουρισμού, Corfu	1.0	False
+60328589	Yili Chuanning Biotechnology Co Ltd, Yining	60315679	Yili Chuanning Biotechnology Co., Ltd., Yining	1.0	False
+60301273	Hangzhou Jianpei Technology Co., Ltd., Hangzhou	60299800	Hangzhou Jianpei Technology Co., Ltd, Hangzhou	1.0	False
+60299800	Hangzhou Jianpei Technology Co., Ltd, Hangzhou	60301273	Hangzhou Jianpei Technology Co., Ltd., Hangzhou	1.0	False
+60300515	B.R.A.H.M.S GmbH, Hennigsdorf	60299301	B·R·A·H·M·S GmbH, Hennigsdorf	1.0	False
+60299301	B·R·A·H·M·S GmbH, Hennigsdorf	60300515	B.R.A.H.M.S GmbH, Hennigsdorf	1.0	False
+60295134	Novelis Inc., Atlanta	60079818	Novelis, Inc., Atlanta	1.0	False
+60322598	Novita Pharmaceuticals, Inc., New York	60327454	Novita Pharmaceuticals, Inc, New York	1.0	False
+60322604	Novavax Inc, Gaithersburg	60138508	Novavax, Inc., Gaithersburg	1.0	False
+60327454	Novita Pharmaceuticals, Inc, New York	60322598	Novita Pharmaceuticals, Inc., New York	1.0	False
+60297657	Novozymes North America Inc, Franklinton	60299342	Novozymes North America, Inc., Franklinton	1.0	False
+60299342	Novozymes North America, Inc., Franklinton	60297657	Novozymes North America Inc, Franklinton	1.0	False
+60297650	NovaCardia, Inc., San Diego	60074646	NovaCardia Inc., San Diego	1.0	False
+60298995	Edison Pharmaceuticals Inc., Mountain View	60114282	Edison Pharmaceuticals, Inc., Mountain View	1.0	False
+60306724	Sun Genomics Inc., San Diego	60299241	Sun Genomics, Inc., San Diego	1.0	False
+60299241	Sun Genomics, Inc., San Diego	60306724	Sun Genomics Inc., San Diego	1.0	False
+60309298	PsiQuantum, Corp., Palo Alto	60313351	PsiQuantum, corp., Palo Alto	1.0	False
+60313351	PsiQuantum, corp., Palo Alto	60309298	PsiQuantum, Corp., Palo Alto	1.0	False
+60342738	Nisshinbo Industries, Inc., Tokyo	60322545	Nisshinbo Industries Inc, Tokyo	1.0	False
+60322545	Nisshinbo Industries Inc, Tokyo	60342738	Nisshinbo Industries, Inc., Tokyo	1.0	False
+60295095	Momenta Pharmaceuticals Inc., Cambridge	60077592	Momenta Pharmaceuticals, Inc., Cambridge	1.0	False
+60298660	Neurostim Solutions, LLC, Waltham	60294533	Neurostim Solutions LLC, Waltham	1.0	False
+60294533	Neurostim Solutions LLC, Waltham	60298660	Neurostim Solutions, LLC, Waltham	1.0	False
+60309333	Sinopharm Weiqida Pharmaceutical Co Ltd, Beijing	60308909	Sinopharm Weiqida Pharmaceutical Co. Ltd, Beijing	1.0	False
+60308909	Sinopharm Weiqida Pharmaceutical Co. Ltd, Beijing	60309333	Sinopharm Weiqida Pharmaceutical Co Ltd, Beijing	1.0	False
+60318887	Sinosteel Luoyang Institute of Refractories Research Co., Ltd, Luoyang	60324572	Sinosteel Luoyang Institute of Refractories Research Co., Ltd., Luoyang	1.0	False
+60324572	Sinosteel Luoyang Institute of Refractories Research Co., Ltd., Luoyang	60318887	Sinosteel Luoyang Institute of Refractories Research Co., Ltd, Luoyang	1.0	False
+60318888	Sirnaomics, Inc, Germantown	60324543	Sirnaomics, Inc., Germantown	1.0	False
+60324543	Sirnaomics, Inc., Germantown	60318888	Sirnaomics, Inc, Germantown	1.0	False
+60297126	M Technique Co., Ltd., Izumi	60298159	M.Technique Co., Ltd., Izumi	1.0	False
+60298159	M.Technique Co., Ltd., Izumi	60297126	M Technique Co., Ltd., Izumi	1.0	False
+60302345	Rakuto Bio Technologies Ltd., Yokneam	60306892	Rakuto bio technologies ltd., Yokneam	1.0	False
+60306892	Rakuto bio technologies ltd., Yokneam	60302345	Rakuto Bio Technologies Ltd., Yokneam	1.0	False
+60281260	Aditya Engineering College, Surampalem	60253273	Aditya College of Engineering, Surampalem	1.0	False
+60295538	Curna Inc, Jupiter	60295201	Curna, Inc., Jupiter	1.0	False
+60295201	Curna, Inc., Jupiter	60295538	Curna Inc, Jupiter	1.0	False
+60280511	Department of Computer Science, Boston	60280411	Department of Computer Science, Boston	1.0	False
+60342514	Department of Nutrition and Food Science, Hangzhou	60342126	Department of Food Science and Nutrition, Hangzhou	1.0	False
+60280411	Department of Computer Science, Boston	60280511	Department of Computer Science, Boston	1.0	False
+60342126	Department of Food Science and Nutrition, Hangzhou	60342514	Department of Nutrition and Food Science, Hangzhou	1.0	False
+60295185	Sichuan Qiruike Technology Co., Ltd., Chengdu	60294731	Sichuan Qiruike Technology Co., Ltd, Chengdu	1.0	False
+60294731	Sichuan Qiruike Technology Co., Ltd, Chengdu	60295185	Sichuan Qiruike Technology Co., Ltd., Chengdu	1.0	False
+60292333	Paavai College of Engineering, Namakkal	60097264	Paavai Engineering College, Namakkal	1.0	False
+60308926	AECC Commercial Aircraft Engine Co., Ltd., Shanghai	60113424	AECC Commercial Aircraft Engine Co., Ltd, Shanghai	1.0	False
+60280335	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	60085882	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	1.0	False
+60298162	Macquarie Research Ltd., Sydney	60298597	Macquarie Research Ltd, Sydney	1.0	False
+60310829	SonoVol, Inc., Durham	60323760	Sonovol, Inc., Durham	1.0	False
+60323760	Sonovol, Inc., Durham	60310829	SonoVol, Inc., Durham	1.0	False
+60297102	Cirrus Logic International Semiconductor Ltd., Edinburgh	60302631	Cirrus Logic International Semiconductor Ltd, Edinburgh	1.0	False
+60302631	Cirrus Logic International Semiconductor Ltd, Edinburgh	60297102	Cirrus Logic International Semiconductor Ltd., Edinburgh	1.0	False
+60298597	Macquarie Research Ltd, Sydney	60298162	Macquarie Research Ltd., Sydney	1.0	False
+60302758	ACK Ventures Holdings LLC, Boca Raton	60302143	ACK Ventures Holdings, LLC, Boca Raton	1.0	False
+60311193	Siluria Technologies, Inc., San Francisco	60311303	Siluria Technologies, Inc, San Francisco	1.0	False
+60311303	Siluria Technologies, Inc, San Francisco	60311193	Siluria Technologies, Inc., San Francisco	1.0	False
+60302143	ACK Ventures Holdings, LLC, Boca Raton	60302758	ACK Ventures Holdings LLC, Boca Raton	1.0	False
+60303054	NeoPath Inc., Redmond	60301855	NeoPath Inc, Redmond	1.0	False
+60301855	NeoPath Inc, Redmond	60303054	NeoPath Inc., Redmond	1.0	False
+60294854	Asclepiumm Taiwan Co., Ltd, Zhubei	60294407	Asclepiumm Taiwan Co., Ltd., Zhubei	1.0	False
+60294407	Asclepiumm Taiwan Co., Ltd., Zhubei	60294854	Asclepiumm Taiwan Co., Ltd, Zhubei	1.0	False
+60295381	Asymchem Laboratories (Tianjin) Co., Ltd., Tianjin	60294857	Asymchem Laboratories (Tianjin) Co., Ltd, Tianjin	1.0	False
+60294857	Asymchem Laboratories (Tianjin) Co., Ltd, Tianjin	60295381	Asymchem Laboratories (Tianjin) Co., Ltd., Tianjin	1.0	False
+60319342	Hovione Scientia Limited, Ringaskiddy	60294477	Hovione Scientia Limited, Ringaskiddy	1.0	False
+60294477	Hovione Scientia Limited, Ringaskiddy	60319342	Hovione Scientia Limited, Ringaskiddy	1.0	False
+60302064	Reata Pharmaceuticals, Inc., Plano	60294539	Reata Pharmaceuticals, Inc, Plano	1.0	False
+60294539	Reata Pharmaceuticals, Inc, Plano	60302064	Reata Pharmaceuticals, Inc., Plano	1.0	False
+60295580	Oriciro Genomics, Inc., Tokyo	60324145	Oriciro Genomics Inc., Tokyo	1.0	False
+60324145	Oriciro Genomics Inc., Tokyo	60295580	Oriciro Genomics, Inc., Tokyo	1.0	False
+60300550	Valio Ltd, Helsinki	60018778	Valio Ltd., Helsinki	1.0	False
+60340177	Toyoda Automatic Loom Works, Ltd., Kariya	60107322	Toyoda Automatic Loom Works, Ltd., Kariya	1.0	False
+60303980	Jenoptik AG, Jena	60087906	JENOPTIK AG, Jena	1.0	False
+60297539	N-Gene Research Laboratories, Inc., New York	60297538	N-Gene Research Laboratories Inc., New York	1.0	False
+60297538	N-Gene Research Laboratories Inc., New York	60297539	N-Gene Research Laboratories, Inc., New York	1.0	False
+60089927	Weinan Teachers University, Weinan	60278464	Weinan Teachers University, Weinan	1.0	False
+60094599	Hyundai Electronics Industries Co., Ltd., Icheon	60319409	Hyundai Electronics Industries Co Ltd, Icheon	1.0	False
+60100563	Genesis Research & Development Corporation Ltd, Auckland	60313236	Genesis Research and Development Corporation Ltd, Auckland	1.0	False
+60098680	Molycorp Minerals, LLC, Greenwood Village	60298252	Molycorp Minerals LLC, Greenwood Village	1.0	False
+60100208	Wuhan University of Science and Engineering, Wuhan	60262981	Wuhan University of Engineering Science, Wuhan	1.0	False
+60090415	ProteoTech, Inc., Kirkland	60295335	ProteoTech Inc, Kirkland	1.0	False
+60090419	AmberGen, Inc., Watertown	60295444	Ambergen Inc., Watertown	1.0	False
+60093580	Daewoong Pharmaceutical Co., Ltd., Seoul	60313585	Daewoong Pharmaceutical Co.,Ltd., Seoul	1.0	False
+60088718	School of Medicine, Santiago	60212030	School of Medicine, Santiago	1.0	False
+60097264	Paavai Engineering College, Namakkal	60292333	Paavai College of Engineering, Namakkal	1.0	False
+60085882	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	60280335	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	1.0	False
+60086106	Wydział Biologii Uniwersytetu Warszawskiego, Warsaw	60088499	Wydział Biologii, Uniwersytetu Warszawskiego, Warsaw	1.0	False
+60088499	Wydział Biologii, Uniwersytetu Warszawskiego, Warsaw	60086106	Wydział Biologii Uniwersytetu Warszawskiego, Warsaw	1.0	False
+60090106	CTBC Business School, Tainan	60274278	CTBC Business School, Tainan	1.0	False
+60100747	St. John's Hospital, Springfield	60007080	St. John's Hospital, Springfield	1.0	False
+60087906	JENOPTIK AG, Jena	60303980	Jenoptik AG, Jena	1.0	False
+60029533	College of Medicine, Riyadh	60231076	College of Medicine, Riyadh	1.0	False
+60029533	College of Medicine, Riyadh	60218948	College of Medicine-Riyadh, Riyadh	1.0	False
+60019904	École Nationale Supérieure de Techniques Avancées, Palaiseau	60288614	École Nationale Supérieure de Techniques Avancées, Palaiseau	1.0	False
+60031513	National Institute of Agrobiological Resources, Tsukuba	60010471	National Institute of Agrobiological Resources, Tsukuba	1.0	False
+60023832	National Hospital Medical Center, Tokyo	60032544	National Hospital Tokyo Medical Center, Tokyo	1.0	False
+60019904	National School of Advanced Techniques, Palaiseau	60288614	National School of Advanced Techniques, Palaiseau	1.0	False
+60021209	National Energy Technology Laboratory, Albany, Albany	60160819	National Energy Technology Laboratory, Albany	1.0	False
+60030300	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	60111257	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	1.0	False
+60020436	Faculty of Medicine, Cairo	60015323	Faculty of Medicine, Cairo	1.0	False
+60020436	Faculty of Medicine, Cairo	60274270	Faculty of Medicine, Cairo	1.0	False
+60020436	Faculty of Medicine, Cairo	60024697	Faculty of Medicine, Cairo	1.0	False
+60016246	Faculty of Pharmacy, Alexandria	60273047	Faculty of Pharmacy, Alexandria	1.0	False
+60024697	Faculty of Medicine, Cairo	60015323	Faculty of Medicine, Cairo	1.0	False
+60024697	Faculty of Medicine, Cairo	60274270	Faculty of Medicine, Cairo	1.0	False
+60024697	Faculty of Medicine, Cairo	60020436	Faculty of Medicine, Cairo	1.0	False
+60018219	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	60013786	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	1.0	False
+60018670	Princeton Lightwave, Inc., Cranbury	60307965	Princeton Lightwave Inc, Cranbury	1.0	False
+60022958	Mid Sweden University, Sundsvall	60106597	Mid Sweden University, Sundsvall, Sundsvall	1.0	False
+60029867	Roosevelt University Chicago, Chicago	60009535	Roosevelt University, Chicago	1.0	False
+60021121	Indiana University Bloomington, Bloomington	60138445	Indiana University, Bloomington	1.0	False
+60031142	Hospital Universitario Reina Sofia, Cordoba	60032936	Hospital Universitario Reina Sofia, Cordoba, Cordoba	1.0	False
+60016890	Hospital Materno-Infantil, Madrid	60013823	Hospital Materno Infantil, Madrid	1.0	False
+60028902	Instituto de Plasticos y Caucho, Madrid	60068653	Instituto de Plasticos y Caucho, Madrid	1.0	False
+60028902	Instituto de Ciencia y Tecnología de Polímeros, Madrid	60068653	Instituto de Ciencia y Tecnología de Polímeros, Madrid	1.0	False
+60019347	Institute for Drug Development, San Antonio	60003064	Institute for Drug Development San Antonio, San Antonio	1.0	False
+60021054	International School of Management ISM Dortmund, Dortmund	60267653	International School of Management (ISM), Dortmund	1.0	False
+60021054	International School of Management ISM, Dortmund, Dortmund	60267653	International School of Management (ISM), Dortmund	1.0	False
+60021778	Istituto Di Genetica Vegetale, Bari, Bari	60113709	Istituto di Genetica Vegetale, Bari, Bari	1.0	False
+60016890	Maternal and child Hospital, Madrid	60013823	Maternal and child Hospital, Madrid	1.0	False
+60028414	GelTex Pharmaceuticals, Inc., Waltham	60313210	GelTex Pharmaceuticals Inc., Waltham	1.0	False
+60022458	PEC University of Technology, Chandigarh	60117303	PEC University of Technology, Chandigarh	1.0	False
+60025926	Grant MacEwan College, Edmonton	60117268	Grant MacEwan College, Edmonton	1.0	False
+60028150	Graduate School of Science and Engineering, 	60009695	Graduate School of Engineering Science, 	1.0	False
+60023383	Universidad de Santiago de Chile, Santiago	60012464	Universidad de Chile, Santiago	1.0	False
+60023383	University of Santiago, Chile, Santiago	60012464	University of Chile, Santiago	1.0	False
+60017053	University of Montana Missoula, Missoula	60022355	University of Montana, Missoula	1.0	False
+60023195	Universidad del Bio Bio, Concepcion	60012683	Universidad del Bio Bio, Concepcion, Concepcion	1.0	False
+60029954	Universidad de Los Lagos, Osorno, Osorno	60007572	Universidad de Los Lagos, Osorno	1.0	False
+60022355	University of Montana, Missoula	60017053	University of Montana Missoula, Missoula	1.0	False
+60021025	Providence VA Medical Center, Providence	60136555	Providence VA Medical Center, Providence	1.0	False
+60028498	Berlin University of Applied Sciences, Berlin	60279372	Berlin University of Applied Sciences, Berlin	1.0	False
+60022692	Technological Educational Institute of Epirus, Arta	60082437	Technological Educational Institute of Epirus, Arta	1.0	False
+60030997	Franklin Pierce College, Rindge	60010765	Franklin Pierce College Rindge, Rindge	1.0	False
+60023439	Desert Research Institute, Reno	60003678	Desert Research Institute Reno, Reno	1.0	False
+60029378	Cal State Long Beach, Long Beach	60033080	Cal State, Long Beach	1.0	False
+60019291	Energy Conversion Devices Inc, Rochester Hills	60312817	Energy Conversion Devices, Inc., Rochester Hills	1.0	False
+60023149	Zentrum für Soziale Psychiatrie PhilippsHospital Riedstadt, Riedstadt	60027097	Zentrum für Soziale Psychiatrie PhilippsHospital, Riedstadt	1.0	False
+60027097	Zentrum für Soziale Psychiatrie PhilippsHospital, Riedstadt	60023149	Zentrum für Soziale Psychiatrie PhilippsHospital Riedstadt, Riedstadt	1.0	False
+60027633	Linfield College McMinnville, McMinnville	60012675	Linfield College, McMinnville	1.0	False
+60019559	School of Medicine, Dublin	60216192	School of Medicine, Dublin	1.0	False
+60030444	Weber State University Ogden, Ogden	60022502	Weber State University, Ogden	1.0	False
+60022502	Weber State University, Ogden	60030444	Weber State University Ogden, Ogden	1.0	False
+60025392	School of Medicine, Tehran	60007790	School of Medicine, Tehran	1.0	False
+60024767	Centre d'Etudes Spatiales de la Biosphère, Toulouse	60210993	Centre d'Etudes Spatiales de la Biosphère, Toulouse	1.0	False
+60026146	GITAM University, Visakhapatnam	60117282	GITAM university, Visakhapatnam	1.0	False
+60029684	Ipswich Hospital, Ipswich	60160778	Ipswich Hospital, Ipswich	1.0	False
+60021484	Department of Medicine, Chicago	60138011	Department of Medicine, Chicago	1.0	False
+60021484	Department of Medicine, Chicago	60027147	Department of Medicine, Chicago	1.0	False
+60016366	Department of Histology and Embryology, 	60030976	Department of Histology Embryology, 	1.0	False
+60021856	Department of Microbiology and Molecular Genetics, 	60002444	Department of Molecular Genetics and Microbiology, 	1.0	False
+60023570	Department of Plant and Soil Sciences, Lexington	60029425	Department of Plant and Soil Sciences, Lexington	1.0	False
+60031665	Department of Statistics, Columbia	60014772	Department of Statistics, Columbia	1.0	False
+60027147	Department of Medicine, Chicago	60138011	Department of Medicine, Chicago	1.0	False
+60027147	Department of Medicine, Chicago	60021484	Department of Medicine, Chicago	1.0	False
+60022516	Department of Engineering Materials, 	60008688	Department of Materials Engineering, 	1.0	False
+60030976	Department of Histology Embryology, 	60016366	Department of Histology and Embryology, 	1.0	False
+60023344	Department of Pharmacology, Chicago	60013862	Department of Pharmacology, Chicago	1.0	False
+60029425	Department of Plant and Soil Sciences, Lexington	60023570	Department of Plant and Soil Sciences, Lexington	1.0	False
+60027808	Autonomous University of Baja California, Mexicali, Mexicali	60005618	Autonomous University of Baja California, Mexicali	1.0	False
+60018778	Valio Ltd., Helsinki	60300550	Valio Ltd, Helsinki	1.0	False
+60019181	Foundation for Research and Technology-Hellas, Heraklion	60069166	Foundation for Research and Technology - Hellas, Heraklion	1.0	False
+60016277	Air Force Research Laboratory - Dayton, Dayton	60019228	Air Force Research Laboratory, Dayton	1.0	False
+60019228	Air Force Research Laboratory, Dayton	60016277	Air Force Research Laboratory - Dayton, Dayton	1.0	False
+60016429	UT, Knoxville	60015574	UT Knoxville, Knoxville	1.0	False
+60212089	College of Management, Taipei	60238182	College of Management, Taipei	1.0	False
+60212089	College of Management, Taipei	60211610	College of Management, Taipei	1.0	False
+60212089	College of Management, Taipei	60211443	College of Management, Taipei	1.0	False
+60217037	College of Education, Cairo	60274982	College of Education, Cairo	1.0	False
+60218948	College of Medicine-Riyadh, Riyadh	60231076	College of Medicine, Riyadh	1.0	False
+60218948	College of Medicine-Riyadh, Riyadh	60029533	College of Medicine, Riyadh	1.0	False
+60211443	College of Management, Taipei	60238182	College of Management, Taipei	1.0	False
+60211443	College of Management, Taipei	60211610	College of Management, Taipei	1.0	False
+60211443	College of Management, Taipei	60212089	College of Management, Taipei	1.0	False
+60211610	College of Management, Taipei	60238182	College of Management, Taipei	1.0	False
+60211610	College of Management, Taipei	60211443	College of Management, Taipei	1.0	False
+60211610	College of Management, Taipei	60212089	College of Management, Taipei	1.0	False
+60238182	College of Management, Taipei	60211610	College of Management, Taipei	1.0	False
+60238182	College of Management, Taipei	60211443	College of Management, Taipei	1.0	False
+60238182	College of Management, Taipei	60212089	College of Management, Taipei	1.0	False
+60231076	College of Medicine, Riyadh	60218948	College of Medicine-Riyadh, Riyadh	1.0	False
+60231076	College of Medicine, Riyadh	60029533	College of Medicine, Riyadh	1.0	False
+60217117	College of Nursing, Cairo	60275990	College of Nursing, Cairo	1.0	False
+60241529	Faculty of Business, Science and Engineering, Orebro	60221948	Faculty of Business, Science and Engineering, Orebro	1.0	False
+60218499	Faculty of Pharmacy, Beni Suef	60274070	Faculty of Pharmacy, Beni Suef	1.0	False
+60216981	Faculty of Pharmacy, Cairo	60004782	Faculty of Pharmacy, Cairo	1.0	False
+60216981	Faculty of Pharmacy, Cairo	60274265	Faculty of Pharmacy, Cairo	1.0	False
+60216981	Faculty of Pharmacy, Cairo	60273371	Faculty of Pharmacy, Cairo	1.0	False
+60216981	Faculty of Pharmacy, Cairo	60273712	Faculty of Pharmacy, Cairo	1.0	False
+60216981	Faculty of Pharmacy, Cairo	60273709	Faculty of Pharmacy, Cairo	1.0	False
+60231617	Faculty of Engineering, Mansoura	60273669	Faculty of Engineering, Mansoura	1.0	False
+60231631	Faculty of Pharmacy, Mansoura	60273666	Faculty of Pharmacy, Mansoura	1.0	False
+60217037	Faculty of Education, Cairo	60274982	Faculty of Education, Cairo	1.0	False
+60231702	Faculty of Arts, Mansoura	60278293	Faculty of Arts, Mansoura	1.0	False
+60212168	Facoltà di Economia, Rome	60249933	Facoltà di Economia, Rome	1.0	False
+60212168	Faculty of Economics, Rome	60249933	Faculty of Economics, Rome	1.0	False
+60216969	Faculty of Science, Cairo	60274951	Faculty of Science, Cairo	1.0	False
+60218563	Faculty of Physical Therapy, Beni Suef	60274071	Faculty of Physical Therapy, Beni Suef	1.0	False
+60222522	Facultat d'Economia i Empresa, Barcelona	60226627	Facultat d'Economia i Empresa, Barcelona	1.0	False
+60222522	Faculty of Economics and Business, Barcelona	60227731	Faculty of Economics and Business, Barcelona	1.0	False
+60222522	Faculty of Economics and Business, Barcelona	60226627	Faculty of Economics and Business, Barcelona	1.0	False
+60226627	Facultat d'Economia i Empresa, Barcelona	60222522	Facultat d'Economia i Empresa, Barcelona	1.0	False
+60226627	Faculty of Economics and Business, Barcelona	60227731	Faculty of Economics and Business, Barcelona	1.0	False
+60226627	Faculty of Economics and Business, Barcelona	60222522	Faculty of Economics and Business, Barcelona	1.0	False
+60217011	Faculty of Dentistry, Cairo	60274950	Faculty of Dentistry, Cairo	1.0	False
+60217011	Faculty of Dentistry, Cairo	60274267	Faculty of Dentistry, Cairo	1.0	False
+60217011	Faculty of Dentistry, Cairo	60243207	Faculty of Dentistry, Cairo	1.0	False
+60218526	Faculty of Engineering, Beni Suef	60274066	Faculty of Engineering, Beni Suef	1.0	False
+60227731	Faculty of Economics and Business, Barcelona	60226627	Faculty of Economics and Business, Barcelona	1.0	False
+60227731	Faculty of Economics and Business, Barcelona	60222522	Faculty of Economics and Business, Barcelona	1.0	False
+60221948	Faculty of Business, Science and Engineering, Orebro	60241529	Faculty of Business, Science and Engineering, Orebro	1.0	False
+60216991	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60216991	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60216991	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60216991	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60216991	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60216991	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60216991	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60217062	Faculty of Agriculture, Cairo	60274976	Faculty of Agriculture, Cairo	1.0	False
+60212030	Facultad de Medicina, Santiago	60009418	Facultad de Medicina, Santiago	1.0	False
+60217117	Faculty of Nursing, Cairo	60274268	Faculty of Nursing, Cairo	1.0	False
+60217117	Faculty of Nursing, Cairo	60275990	Faculty of Nursing, Cairo	1.0	False
+60239575	Institute of Communication and Computer Systems, Athens	60104215	Institute of Communication and Computer Systems, Athens	1.0	False
+60234358	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	60106789	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	1.0	False
+60234358	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	60106789	Bar Ilan's Institute for Nanotechnology and Advanced Materials (BINA), Ramat Gan	0.9534625892455924	False
+60211547	Graduate School of Business Administration, Seoul	60211700	Graduate School of Business Administration, Seoul	1.0	False
+60211547	Graduate School of Business, Seoul	60120844	Graduate School of Business, Seoul	1.0	False
+60211700	Graduate School of Business Administration, Seoul	60211547	Graduate School of Business Administration, Seoul	1.0	False
+60225433	Fergana Polytechnic Institute, Fergana	60071652	Fergana Polytechnic Institute, Fergana	1.0	False
+60224279	Neuroscience Research Center, Tehran	60112243	Neuroscience Research Center, Tehran	1.0	False
+60216192	School of Medicine, Dublin	60019559	School of Medicine, Dublin	1.0	False
+60224281	School of Persian Medicine, Tehran	60171622	School of Persian Medicine, Tehran	1.0	False
+60212030	School of Medicine, Santiago	60088718	School of Medicine, Santiago	1.0	False
+60101614	Malaspina University-College, Nanaimo	60003277	Malaspina University College, Nanaimo	1.0	False
+60111610	Penn State Hershey Cancer Institute, Hershey	60101686	Penn State Cancer Institute, Hershey	1.0	False
+60101686	Penn State Cancer Institute, Hershey	60111610	Penn State Hershey Cancer Institute, Hershey	1.0	False
+60111257	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	60030300	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	1.0	False
+60106597	Mid Sweden University, Sundsvall, Sundsvall	60022958	Mid Sweden University, Sundsvall	1.0	False
+60112729	Chan Zuckerberg Biohub, San Francisco	60313578	Chan Zuckerberg Biohub San Francisco, San Francisco	1.0	False
+60104215	Institute of Communication and Computer Systems, Athens	60239575	Institute of Communication and Computer Systems, Athens	1.0	False
+60107722	Institute of Zoology of the Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	60107723	Institute of Hydroecology and Ichthyology of Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	0.9574271077563381	False
+60107723	Institute of Hydroecology and Ichthyology of Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	60107722	Institute of Zoology of the Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	0.9574271077563381	False
+60105237	Vels University, Chennai	60111563	Vels University, Chennai	1.0	False
+60113709	Istituto di Genetica Vegetale, Bari, Bari	60021778	Istituto Di Genetica Vegetale, Bari, Bari	1.0	False
+60111563	Vels University, Chennai	60105237	Vels University, Chennai	1.0	False
+60112111	AgBiome, Inc., Research Triangle Park	60319177	AgBiome, Inc, Research Triangle Park	1.0	False
+60106789	Bar Ilan's Institute for Nanotechnology and Advanced Materials (BINA), Ramat Gan	60234358	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	0.9534625892455924	False
+60106789	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	60234358	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	1.0	False
+60109552	CNR-Nanotec, Lecce, Lecce	60105809	CNR-Nanotec, Lecce	1.0	False
+60105809	CNR-Nanotec, Lecce	60109552	CNR-Nanotec, Lecce, Lecce	1.0	False
+60109328	Endocrine Research Center, Tehran	60112585	Endocrine Research Center, Tehran	1.0	False
+60112585	Endocrine Research Center, Tehran	60109328	Endocrine Research Center, Tehran	1.0	False
+60106223	Microstructure Study Laboratory, Chatillon	60073346	Microstructure Study Laboratory, Chatillon	1.0	False
+60111807	Hochschule für Künste, Bremen	60001499	Hochschule für Künste Bremen, Bremen	1.0	False
+60107918	SK Hynix Inc., Icheon	60068701	SK Hynix Inc, Icheon	1.0	False
+60114282	Edison Pharmaceuticals, Inc., Mountain View	60298995	Edison Pharmaceuticals Inc., Mountain View	1.0	False
+60112336	People's University, Bhopal, Bhopal	60112414	People‘s University, Bhopal	1.0	False
+60112414	People‘s University, Bhopal	60112336	People's University, Bhopal, Bhopal	1.0	False
+60112243	Neuroscience Research Center, Tehran	60224279	Neuroscience Research Center, Tehran	1.0	False
+60107509	Aditya Pharmacy College, Surampalem, Surampalem	60259129	Aditya College of Pharmacy, Surampalem	1.0	False
+60107509	Aditya Pharmacy College, Surampalem, Surampalem	60259129	Aditya College of Pharmacy, Surampalem, Surampalem	1.0	False
+60104563	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	60271968	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	1.0	False
+60104563	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y Nutrición, Madrid	60271968	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y la Nutrición, Madrid	1.0	False
+60104742	Department of Computer Engineering and Information Science, 	60013047	Department of Computer Science and Information Engineering, 	1.0	False
+60104743	Department of Electrical and Computer Engineering, 	60033206	Department of Electrical & Computer Engineering, 	1.0	False
+60113424	AECC Commercial Aircraft Engine Co., Ltd, Shanghai	60308926	AECC Commercial Aircraft Engine Co., Ltd., Shanghai	1.0	False
+60107322	Toyoda Automatic Loom Works, Ltd., Kariya	60340177	Toyoda Automatic Loom Works, Ltd., Kariya	1.0	False
+60076426	College of Engineering, Pune	60288449	College of Engineering, Pune, Pune	1.0	False
+60033353	Derbyshire Healthcare NHS Foundation Trust, Derby	60172936	Derbyshire Healthcare and NHS Foundation Trust, Derby	1.0	False
+60070603	National University of Computer and Emerging Sciences Islamabad, Islamabad	60279516	National University of Computer and Emerging Sciences, Islamabad	1.0	False
+60032544	National Hospital Tokyo Medical Center, Tokyo	60023832	National Hospital Medical Center, Tokyo	1.0	False
+60054312	Facultad de Medicina, Bogota	60199406	Facultad de Medicina, Bogota	1.0	False
+60054312	Faculty of Medicine, Bogota	60199406	Faculty of Medicine, Bogota	1.0	False
+60072364	Bodenseewerk Perkin-Elmer GmbH, Uberlingen	60303885	Bodenseewerk Perkin-Elmer Gmbh, Uberlingen	1.0	False
+60074310	Higher Colleges of Technology Abu Dhabi, Abu Dhabi	60288001	Higher Colleges of Technology, Abu Dhabi	1.0	False
+60073625	Institute of Fine Chemicals, Shanghai	60134947	Institute of Fine Chemicals, Shanghai	1.0	False
+60068653	Instituto de Plasticos y Caucho, Madrid	60028902	Instituto de Plasticos y Caucho, Madrid	1.0	False
+60068653	Instituto de Ciencia y Tecnología de Polímeros, Madrid	60028902	Instituto de Ciencia y Tecnología de Polímeros, Madrid	1.0	False
+60080841	Institutionen för fysik, Gothenburg	60055712	Institutionen för fysik, Gothenburg	1.0	False
+60034460	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio	60053606	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio, Nueve de Julio	1.0	False
+60032936	Hospital Universitario Reina Sofia, Cordoba, Cordoba	60031142	Hospital Universitario Reina Sofia, Cordoba	1.0	False
+60053606	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio, Nueve de Julio	60034460	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio	1.0	False
+60055712	Institutionen för fysik, Gothenburg	60080841	Institutionen för fysik, Gothenburg	1.0	False
+60075463	Alpha Metals, Inc., Jersey City	60313385	Alpha Metals Inc, Jersey City	1.0	False
+60070034	Interuniversity Microelectronics Centre, Leuven	60070007	Interuniversity Microelectronics Centre, Leuven	1.0	False
+60070007	Interuniversity Microelectronics Centre, Leuven	60070034	Interuniversity Microelectronics Centre, Leuven	1.0	False
+60082837	SurModics, Inc., Eden Prairie	60304702	Surmodics, Inc., Eden Prairie	1.0	False
+60071078	University of Sri Lanka, Colombo	60071074	University of Colombo, Sri Lanka, Colombo	1.0	False
+60072939	University of the Virgin Islands, St. Croix	60073269	University of the Virgin Islands St. Croix, St. Croix	1.0	False
+60073269	University of the Virgin Islands St. Croix, St. Croix	60072939	University of the Virgin Islands, St. Croix	1.0	False
+60072941	University of the South Pacific Suva, Suva	60072022	University of the South Pacific, Suva	1.0	False
+60072022	University of the South Pacific, Suva	60072941	University of the South Pacific Suva, Suva	1.0	False
+60069401	Universitas Lampung, Bandar Lampung	60270040	Universitas Bandar Lampung, Bandar Lampung	1.0	False
+60071074	University of Colombo, Sri Lanka, Colombo	60071078	University of Sri Lanka, Colombo	1.0	False
+60032588	University Nevada Cooperative Extension Reno, Reno	60007885	University of Nevada Cooperative Extension, Reno	1.0	False
+60071963	Azerbaijan Medical University, Baku	60071962	Azerbaijan Medical University, Baku	1.0	False
+60071962	Azerbaijan Medical University, Baku	60071963	Azerbaijan Medical University, Baku	1.0	False
+60070557	Save the Elephants Nairobi, Nairobi	60120514	Save the Elephants, Nairobi	1.0	False
+60073346	Microstructure Study Laboratory, Chatillon	60106223	Microstructure Study Laboratory, Chatillon	1.0	False
+60078277	Federal-Mogul Corporation, Southfield	60293654	Federal Mogul Corporation, Southfield	1.0	False
+60082437	Technological Educational Institute of Epirus, Arta	60022692	Technological Educational Institute of Epirus, Arta	1.0	False
+60082306	NSW Health, North Sydney	60001588	NSW Health, North Sydney	1.0	False
+60064800	The University of Agriculture, Peshawar, Peshawar	60157982	The University of Agriculture, Peshawar, Peshawar	1.0	False
+60033080	Cal State, Long Beach	60029378	Cal State Long Beach, Long Beach	1.0	False
+60068701	SK Hynix Inc, Icheon	60107918	SK Hynix Inc., Icheon	1.0	False
+60070949	Lensovet Leningrad Technological Institute, Saint Petersburg (ex Leningrad)	60069093	Lensovet Technological Institute, Saint Petersburg (ex Leningrad)	1.0	False
+60069093	Lensovet Technological Institute, Saint Petersburg (ex Leningrad)	60070949	Lensovet Leningrad Technological Institute, Saint Petersburg (ex Leningrad)	1.0	False
+60079818	Novelis, Inc., Atlanta	60295134	Novelis Inc., Atlanta	1.0	False
+60074646	NovaCardia Inc., San Diego	60297650	NovaCardia, Inc., San Diego	1.0	False
+60071652	Fergana Polytechnic Institute, Fergana	60225433	Fergana Polytechnic Institute, Fergana	1.0	False
+60073873	Kharkiv Pharmaceutical Institute, Kharkiv	60002637	Kharkiv Pharmaceutical Institute, Kharkiv	1.0	False
+60077592	Momenta Pharmaceuticals, Inc., Cambridge	60295095	Momenta Pharmaceuticals Inc., Cambridge	1.0	False
+60033206	Department of Electrical & Computer Engineering, 	60104743	Department of Electrical and Computer Engineering, 	1.0	False
+60081686	Department of Molecular and Developmental Biology, 	60079521	Department of Molecular Developmental Biology, 	1.0	False
+60032488	Department of Surgery, Chicago	60009281	Department of Surgery, Chicago	1.0	False
+60032488	Department of Surgery, Chicago	60147441	Department of Surgery, Chicago	1.0	False
+60079935	Department of Chemistry and Industrial Chemistry, 	60001220	Department of Industrial Chemistry, 	1.0	False
+60080841	Department of Physics, Gothenburg	60055712	Department of Physics, Gothenburg	1.0	False
+60079521	Department of Molecular Developmental Biology, 	60081686	Department of Molecular and Developmental Biology, 	1.0	False
+60055712	Department of Physics, Gothenburg	60080841	Department of Physics, Gothenburg	1.0	False
+60070891	Regional Engineering College Hamirpur, Hamirpur	60116996	Regional Engineering College, Hamirpur	1.0	False
+60069166	Foundation for Research and Technology - Hellas, Heraklion	60019181	Foundation for Research and Technology-Hellas, Heraklion	1.0	False
+60172936	Derbyshire Healthcare and NHS Foundation Trust, Derby	60033353	Derbyshire Healthcare NHS Foundation Trust, Derby	1.0	False
+60160819	National Energy Technology Laboratory, Albany	60021209	National Energy Technology Laboratory, Albany, Albany	1.0	False
+60172622	Faculty of Medicine, Tokyo	60002354	Faculty of Medicine, Tokyo	1.0	False
+60171695	Faculty of Law and Business, Melbourne	60176044	Faculty of Business and Law, Melbourne	1.0	False
+60176044	Faculty of Business and Law, Melbourne	60171695	Faculty of Law and Business, Melbourne	1.0	False
+60161456	Faculty of Business Administration, Tokyo	60170405	Faculty of Business Administration, Tokyo 	1.0	False
+60170405	Faculty of Business Administration, Tokyo 	60161456	Faculty of Business Administration, Tokyo	1.0	False
+60170292	Mohammed VI University of Sciences and Health - UM6SS, Casablanca	60291713	Mohammed VI University of Health Sciences (UM6SS), Casablanca	1.0	False
+60170292	Mohammed VI University of Sciences and Health, Casablanca	60291713	Mohammed VI University of Health Sciences, Casablanca	1.0	False
+60162076	Newcastle Business School, Newcastle	60180326	Newcastle Business School, Newcastle	1.0	False
+60180326	Newcastle Business School, Newcastle	60162076	Newcastle Business School, Newcastle	1.0	False
+60176071	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176063	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176071	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176062	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176071	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176061	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176061	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176063	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176061	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176062	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176061	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176071	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176062	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176063	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176062	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176061	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176062	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176071	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176063	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176062	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176063	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176061	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60176063	Northamptonshire Healthcare NHS Foundation Trust, Kettering	60176071	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0	False
+60181988	Département Traitement de l’Information et Systèmes, Palaiseau	60271329	Département Traitement de l’Information et Systèmes DTIS Palaiseau, Palaiseau	0.9534625892455924	False
+60159943	Graduate School of Business Administration, Tokyo	60159892	Graduate School of Business Administration, Tokyo	1.0	False
+60159943	Graduate School of Business Administration, Tokyo	60162039	Graduate School of Business Administration, Tokyo	1.0	False
+60159943	Graduate School of Business Administration, Tokyo	60159972	Graduate School of Business Administration, Tokyo	1.0	False
+60159943	Graduate School of Business Administration, Tokyo	60159885	Graduate School of Business Administration, Tokyo	1.0	False
+60159885	Graduate School of Business Administration, Tokyo	60159892	Graduate School of Business Administration, Tokyo	1.0	False
+60159885	Graduate School of Business Administration, Tokyo	60162039	Graduate School of Business Administration, Tokyo	1.0	False
+60159885	Graduate School of Business Administration, Tokyo	60159972	Graduate School of Business Administration, Tokyo	1.0	False
+60159885	Graduate School of Business Administration, Tokyo	60159943	Graduate School of Business Administration, Tokyo	1.0	False
+60170393	Graduate School of Medicine, Tokyo	60165243	Graduate School of Medicine, Tokyo	1.0	False
+60170393	Graduate School of Medicine, Tokyo	60178602	Graduate School of Medicine, Tokyo	1.0	False
+60170393	Graduate School of Medicine, Tokyo	60172623	Graduate School of Medicine, Tokyo	1.0	False
+60170393	Graduate School of Medicine, Tokyo	60165540	Graduate School of Medicine, Tokyo	1.0	False
+60170393	Graduate School of Medicine, Tokyo	60175937	Graduate School of Medicine, Tokyo	1.0	False
+60165287	Graduate School of Medicine, Sapporo	60171692	Graduate School of Medicine, Sapporo	1.0	False
+60175937	Graduate School of Medicine, Tokyo	60165243	Graduate School of Medicine, Tokyo	1.0	False
+60175937	Graduate School of Medicine, Tokyo	60178602	Graduate School of Medicine, Tokyo	1.0	False
+60175937	Graduate School of Medicine, Tokyo	60172623	Graduate School of Medicine, Tokyo	1.0	False
+60175937	Graduate School of Medicine, Tokyo	60165540	Graduate School of Medicine, Tokyo	1.0	False
+60175937	Graduate School of Medicine, Tokyo	60170393	Graduate School of Medicine, Tokyo	1.0	False
+60165540	Graduate School of Medicine, Tokyo	60165243	Graduate School of Medicine, Tokyo	1.0	False
+60165540	Graduate School of Medicine, Tokyo	60178602	Graduate School of Medicine, Tokyo	1.0	False
+60165540	Graduate School of Medicine, Tokyo	60172623	Graduate School of Medicine, Tokyo	1.0	False
+60165540	Graduate School of Medicine, Tokyo	60175937	Graduate School of Medicine, Tokyo	1.0	False
+60165540	Graduate School of Medicine, Tokyo	60170393	Graduate School of Medicine, Tokyo	1.0	False
+60171692	Graduate School of Medicine, Sapporo	60165287	Graduate School of Medicine, Sapporo	1.0	False
+60172309	University Hospitals of Derby and Burton NHS Foundation Trust, Derby	60172939	University Hospitals and Derby and Burton NHS Foundation Trust, Derby	1.0	False
+60171739	Graduate School of Medicine, Kyoto	60119317	Graduate School of Medicine, Kyoto	1.0	False
+60172623	Graduate School of Medicine, Tokyo	60165243	Graduate School of Medicine, Tokyo	1.0	False
+60172623	Graduate School of Medicine, Tokyo	60178602	Graduate School of Medicine, Tokyo	1.0	False
+60172623	Graduate School of Medicine, Tokyo	60165540	Graduate School of Medicine, Tokyo	1.0	False
+60172623	Graduate School of Medicine, Tokyo	60175937	Graduate School of Medicine, Tokyo	1.0	False
+60172623	Graduate School of Medicine, Tokyo	60170393	Graduate School of Medicine, Tokyo	1.0	False
+60159972	Graduate School of Business Administration, Tokyo	60159892	Graduate School of Business Administration, Tokyo	1.0	False
+60159972	Graduate School of Business Administration, Tokyo	60162039	Graduate School of Business Administration, Tokyo	1.0	False
+60159972	Graduate School of Business Administration, Tokyo	60159885	Graduate School of Business Administration, Tokyo	1.0	False
+60159972	Graduate School of Business Administration, Tokyo	60159943	Graduate School of Business Administration, Tokyo	1.0	False
+60178602	Graduate School of Medicine, Tokyo	60165243	Graduate School of Medicine, Tokyo	1.0	False
+60178602	Graduate School of Medicine, Tokyo	60172623	Graduate School of Medicine, Tokyo	1.0	False
+60178602	Graduate School of Medicine, Tokyo	60165540	Graduate School of Medicine, Tokyo	1.0	False
+60178602	Graduate School of Medicine, Tokyo	60175937	Graduate School of Medicine, Tokyo	1.0	False
+60178602	Graduate School of Medicine, Tokyo	60170393	Graduate School of Medicine, Tokyo	1.0	False
+60162039	Graduate School of Business Administration, Tokyo	60159892	Graduate School of Business Administration, Tokyo	1.0	False
+60162039	Graduate School of Business Administration, Tokyo	60159972	Graduate School of Business Administration, Tokyo	1.0	False
+60162039	Graduate School of Business Administration, Tokyo	60159885	Graduate School of Business Administration, Tokyo	1.0	False
+60162039	Graduate School of Business Administration, Tokyo	60159943	Graduate School of Business Administration, Tokyo	1.0	False
+60172939	University Hospitals and Derby and Burton NHS Foundation Trust, Derby	60172309	University Hospitals of Derby and Burton NHS Foundation Trust, Derby	1.0	False
+60159892	Graduate School of Business Administration, Tokyo	60162039	Graduate School of Business Administration, Tokyo	1.0	False
+60159892	Graduate School of Business Administration, Tokyo	60159972	Graduate School of Business Administration, Tokyo	1.0	False
+60159892	Graduate School of Business Administration, Tokyo	60159885	Graduate School of Business Administration, Tokyo	1.0	False
+60159892	Graduate School of Business Administration, Tokyo	60159943	Graduate School of Business Administration, Tokyo	1.0	False
+60165243	Graduate School of Medicine, Tokyo	60178602	Graduate School of Medicine, Tokyo	1.0	False
+60165243	Graduate School of Medicine, Tokyo	60172623	Graduate School of Medicine, Tokyo	1.0	False
+60165243	Graduate School of Medicine, Tokyo	60165540	Graduate School of Medicine, Tokyo	1.0	False
+60165243	Graduate School of Medicine, Tokyo	60175937	Graduate School of Medicine, Tokyo	1.0	False
+60165243	Graduate School of Medicine, Tokyo	60170393	Graduate School of Medicine, Tokyo	1.0	False
+60170292	Université Mohammed VI des Sciences et de la Santé (UM6SS), Casablanca	60291713	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	1.0	False
+60170292	Université Mohammed VI des Sciences et de la Santé, Casablanca	60291713	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	0.9534625892455924	False
+60172569	Tokyo Medical and Dental University, Dental Hospital, Tokyo	60283921	Tokyo Medical and Dental University Hospital, Tokyo	1.0	False
+60172569	Tokyo Medical and Dental University, Dental Hospital, Tokyo	60284770	Tokyo Medical and Dental University Medical Hospital, Tokyo	1.0	False
+60172569	Tokyo Medical and Dental University Dental Hospital, Tokyo	60283921	Tokyo Medical and Dental University Hospital, Tokyo	1.0	False
+60172569	Tokyo Medical and Dental University Dental Hospital, Tokyo	60284770	Tokyo Medical and Dental University Medical Hospital, Tokyo	1.0	False
+60171760	Lincolnshire Partnership NHS Foundation Trust, Lincoln	60172938	Lincolnshire Partnership and NHS Foundation Trust, Lincoln	1.0	False
+60171759	Lincolnshire Community Health Services NHS Trust, Lincoln	60172937	Lincolnshire Community and Health Services NHS Trust, Lincoln	1.0	False
+60172937	Lincolnshire Community and Health Services NHS Trust, Lincoln	60171759	Lincolnshire Community Health Services NHS Trust, Lincoln	1.0	False
+60170158	Lincoln University, Lincoln	60006625	Lincoln University, Lincoln	1.0	False
+60170158	Lincoln College, Lincoln	60005619	Lincoln College, Lincoln	1.0	False
+60172938	Lincolnshire Partnership and NHS Foundation Trust, Lincoln	60171760	Lincolnshire Partnership NHS Foundation Trust, Lincoln	1.0	False
+60171627	School of Nursing Midwifery, Tehran	60206596	School of Nursing & Midwifery, Tehran	1.0	False
+60171627	School of Nursing and Midwifery, Tehran	60206596	School of Nursing & Midwifery, Tehran	1.0	False
+60170811	School of Dentistry, Cardiff	60170431	School of Dentistry, Cardiff	1.0	False
+60171613	School of Advanced Technologies in Medicine, Tehran	60206586	School of Advanced Technologies in Medicine, Tehran	1.0	False
+60170431	School of Dentistry, Cardiff	60170811	School of Dentistry, Cardiff	1.0	False
+60171622	School of Persian Medicine, Tehran	60224281	School of Persian Medicine, Tehran	1.0	False
+60160411	School of Business and Management, London	60177637	School of Management & Business, London	1.0	False
+60183196	School of Chinese Medicine, Hong Kong	60199589	School of Chinese Medicine, Hong Kong	1.0	False
+60171619	School of Allied Medical Sciences, Tehran	60206606	School of Allied Medical Sciences, Tehran	1.0	False
+60171626	School of Public Health, Tehran	60206605	School of Public Health, Tehran	1.0	False
+60177637	School of Management & Business, London	60160411	School of Business and Management, London	1.0	False
+60160778	Ipswich Hospital, Ipswich	60029684	Ipswich Hospital, Ipswich	1.0	False
+60274958	College of Commerce, Cairo	60274403	College of Commerce, Cairo	1.0	False
+60276437	College of Media, Cairo	60274995	College of Media, Cairo	1.0	False
+60277121	College of Engineering & Technology Latakia, Arab Academy for Science, Technology and Maritime Transport Latakia Branch, Latakia	60275189	College of Maritime Transport and Technology, Arab Academy for Science, Technology and Maritime Transport Latakia Branch, Latakia	0.9534625892455924	False
+60274982	College of Education, Cairo	60217037	College of Education, Cairo	1.0	False
+60274403	College of Commerce, Cairo	60274958	College of Commerce, Cairo	1.0	False
+60274995	College of Media, Cairo	60276437	College of Media, Cairo	1.0	False
+60275990	College of Nursing, Cairo	60217117	College of Nursing, Cairo	1.0	False
+60275189	College of Maritime Transport and Technology, Arab Academy for Science, Technology and Maritime Transport Latakia Branch, Latakia	60277121	College of Engineering & Technology Latakia, Arab Academy for Science, Technology and Maritime Transport Latakia Branch, Latakia	0.9534625892455924	False
+60274548	National Laboratory for Veterinary Quality Control on Poultry Production (NLQP), Giza	60288497	National Laboratory for Veterinary Quality Control on Poultry Production, Giza	0.9534625892455924	False
+60274070	Faculty of Pharmacy, Beni Suef	60218499	Faculty of Pharmacy, Beni Suef	1.0	False
+60273297	Faculty of Science, Suez	60274485	Faculty of Science, Suez	1.0	False
+60273763	Faculty of Mass Communication, 6th October	60275801	Faculty of Mass Communication, 6th October	1.0	False
+60274385	Faculty of Dentistry, Alexandria	60273103	Faculty of Dentistry, Alexandria	1.0	False
+60275946	Faculty of Pharmacy, Asyut	60273145	Faculty of Pharmacy, Asyut	1.0	False
+60271373	Faculty of Medicine, Constantine	60271535	Faculty of Medicine of Constantine, Constantine	1.0	False
+60276437	Faculty of Mass Communication, Cairo	60274995	Faculty of Mass Communication, Cairo	1.0	False
+60276437	Faculty of Mass Communication, Cairo	60275850	Faculty of Mass Communication, Cairo	1.0	False
+60273304	Faculty of Dentistry, Suez	60274479	Faculty of Dentistry, Suez	1.0	False
+60273464	Faculty of Engineering, 6th October	60273591	Faculty of Engineering, 6th October	1.0	False
+60273464	Faculty of Engineering, 6th October	60273778	Faculty of Engineering, 6th October	1.0	False
+60273777	Faculty of Pharmacy, 6th October	60273761	Faculty of Pharmacy, 6th October	1.0	False
+60273777	Faculty of Pharmacy, 6th October	60273392	Faculty of Pharmacy, 6th October	1.0	False
+60274485	Faculty of Science, Suez	60273297	Faculty of Science, Suez	1.0	False
+60274263	Faculty of Computer Science, Cairo	60273369	Faculty of Computer Science, Cairo	1.0	False
+60273390	Faculty of Dentistry, 6th October	60273582	Faculty of Dentistry, 6th October	1.0	False
+60273390	Faculty of Dentistry, 6th October	60273773	Faculty of Dentistry, 6th October	1.0	False
+60274473	Faculty of Arts, Suez	60273581	Faculty of the Arts, Suez	1.0	False
+60273709	Faculty of Pharmacy, Cairo	60004782	Faculty of Pharmacy, Cairo	1.0	False
+60273709	Faculty of Pharmacy, Cairo	60216981	Faculty of Pharmacy, Cairo	1.0	False
+60273709	Faculty of Pharmacy, Cairo	60274265	Faculty of Pharmacy, Cairo	1.0	False
+60273709	Faculty of Pharmacy, Cairo	60273371	Faculty of Pharmacy, Cairo	1.0	False
+60273709	Faculty of Pharmacy, Cairo	60273712	Faculty of Pharmacy, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60278283	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60273758	Faculty of Languages and Translation, Cairo	60274978	Faculty of Languages ​​and Translation, Cairo	1.0	False
+60276313	Faculty of Medicine, Beni Suef	60202203	Faculty of Medicine, Beni Suef	1.0	False
+60273369	Faculty of Computer Science, Cairo	60274263	Faculty of Computer Science, Cairo	1.0	False
+60275850	Faculty of Mass Communication, Cairo	60274995	Faculty of Mass Communication, Cairo	1.0	False
+60275850	Faculty of Mass Communication, Cairo	60276437	Faculty of Mass Communication, Cairo	1.0	False
+60276326	Faculty of Media and Mass Communication, El Shorouk	60273161	Faculty of Communication and Mass Media, El Shorouk	1.0	False
+60274488	Faculty of Engineering, Suez	60273295	Faculty of Engineering, Suez	1.0	False
+60273392	Faculty of Pharmacy, 6th October	60273761	Faculty of Pharmacy, 6th October	1.0	False
+60273392	Faculty of Pharmacy, 6th October	60273777	Faculty of Pharmacy, 6th October	1.0	False
+60274105	Faculty of Physical Therapy, 6th October	60278271	Faculty of Physical therapy, 6th October	1.0	False
+60274105	Faculty of Physical Therapy, 6th October	60273393	Faculty of Physical Therapy, 6th October	1.0	False
+60273712	Faculty of Pharmacy, Cairo	60004782	Faculty of Pharmacy, Cairo	1.0	False
+60273712	Faculty of Pharmacy, Cairo	60216981	Faculty of Pharmacy, Cairo	1.0	False
+60273712	Faculty of Pharmacy, Cairo	60274265	Faculty of Pharmacy, Cairo	1.0	False
+60273712	Faculty of Pharmacy, Cairo	60273371	Faculty of Pharmacy, Cairo	1.0	False
+60273712	Faculty of Pharmacy, Cairo	60273709	Faculty of Pharmacy, Cairo	1.0	False
+60275801	Faculty of Mass Communication, 6th October	60273763	Faculty of Mass Communication, 6th October	1.0	False
+60273393	Faculty of Physical Therapy, 6th October	60278271	Faculty of Physical therapy, 6th October	1.0	False
+60273393	Faculty of Physical Therapy, 6th October	60274105	Faculty of Physical Therapy, 6th October	1.0	False
+60273103	Faculty of Dentistry, Alexandria	60274385	Faculty of Dentistry, Alexandria	1.0	False
+60274269	Faculty of Physical Therapy, Cairo	60273023	Faculty of Physical Therapy, Cairo	1.0	False
+60274269	Faculty of Physical Therapy, Cairo	60273710	Faculty of Physical Therapy, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60273602	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60273371	Faculty of Pharmacy, Cairo	60004782	Faculty of Pharmacy, Cairo	1.0	False
+60273371	Faculty of Pharmacy, Cairo	60216981	Faculty of Pharmacy, Cairo	1.0	False
+60273371	Faculty of Pharmacy, Cairo	60274265	Faculty of Pharmacy, Cairo	1.0	False
+60273371	Faculty of Pharmacy, Cairo	60273712	Faculty of Pharmacy, Cairo	1.0	False
+60273371	Faculty of Pharmacy, Cairo	60273709	Faculty of Pharmacy, Cairo	1.0	False
+60274976	Faculty of Agriculture, Cairo	60217062	Faculty of Agriculture, Cairo	1.0	False
+60273669	Faculty of Engineering, Mansoura	60231617	Faculty of Engineering, Mansoura	1.0	False
+60273778	Faculty of Engineering, 6th October	60273591	Faculty of Engineering, 6th October	1.0	False
+60273778	Faculty of Engineering, 6th October	60273464	Faculty of Engineering, 6th October	1.0	False
+60273710	Faculty of Physical Therapy, Cairo	60273023	Faculty of Physical Therapy, Cairo	1.0	False
+60273710	Faculty of Physical Therapy, Cairo	60274269	Faculty of Physical Therapy, Cairo	1.0	False
+60274477	Faculty of Medicine, Suez	60273300	Faculty of Medicine, Suez	1.0	False
+60273773	Faculty of Dentistry, 6th October	60273582	Faculty of Dentistry, 6th October	1.0	False
+60273773	Faculty of Dentistry, 6th October	60273390	Faculty of Dentistry, 6th October	1.0	False
+60273331	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60273331	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60273331	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60273331	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60273331	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60273331	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60273331	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60274264	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60273761	Faculty of Pharmacy, 6th October	60273392	Faculty of Pharmacy, 6th October	1.0	False
+60273761	Faculty of Pharmacy, 6th October	60273777	Faculty of Pharmacy, 6th October	1.0	False
+60274982	Faculty of Education, Cairo	60217037	Faculty of Education, Cairo	1.0	False
+60271535	Faculty of Medicine of Constantine, Constantine	60271373	Faculty of Medicine, Constantine	1.0	False
+60274995	Faculty of Mass Communication, Cairo	60275850	Faculty of Mass Communication, Cairo	1.0	False
+60274995	Faculty of Mass Communication, Cairo	60276437	Faculty of Mass Communication, Cairo	1.0	False
+60249933	Facoltà di Economia, Rome	60212168	Facoltà di Economia, Rome	1.0	False
+60249933	Faculty of Economics, Rome	60212168	Faculty of Economics, Rome	1.0	False
+60275914	Faculty of Languages and Translation, 6th October	60275800	Faculty of Languages and Translation, 6th October	1.0	False
+60273666	Faculty of Pharmacy, Mansoura	60231631	Faculty of Pharmacy, Mansoura	1.0	False
+60274478	Faculty of Physical Therapy, Suez	60273306	Faculty of Physical Therapy, Suez	1.0	False
+60278271	Faculty of Physical therapy, 6th October	60273393	Faculty of Physical Therapy, 6th October	1.0	False
+60278271	Faculty of Physical therapy, 6th October	60274105	Faculty of Physical Therapy, 6th October	1.0	False
+60273121	Faculty of Engineering, Alexandria	60008708	Faculty of Engineering, Alexandria	1.0	False
+60243207	Faculty of Dentistry, Cairo	60217011	Faculty of Dentistry, Cairo	1.0	False
+60243207	Faculty of Dentistry, Cairo	60274950	Faculty of Dentistry, Cairo	1.0	False
+60243207	Faculty of Dentistry, Cairo	60274267	Faculty of Dentistry, Cairo	1.0	False
+60273023	Faculty of Physical Therapy, Cairo	60273710	Faculty of Physical Therapy, Cairo	1.0	False
+60273023	Faculty of Physical Therapy, Cairo	60274269	Faculty of Physical Therapy, Cairo	1.0	False
+60275800	Faculty of Languages and Translation, 6th October	60275914	Faculty of Languages and Translation, 6th October	1.0	False
+60273567	Faculty of Medicine, Mansoura	60007226	Faculty of Medicine, Mansoura	1.0	False
+60274955	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60274955	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60274955	Faculty of Engineering, Cairo	60273705	Faculty of Engineering, Cairo	1.0	False
+60274955	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60274955	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60274955	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60274955	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60274270	Faculty of Medicine, Cairo	60015323	Faculty of Medicine, Cairo	1.0	False
+60274270	Faculty of Medicine, Cairo	60024697	Faculty of Medicine, Cairo	1.0	False
+60274270	Faculty of Medicine, Cairo	60020436	Faculty of Medicine, Cairo	1.0	False
+60273145	Faculty of Pharmacy, Asyut	60275946	Faculty of Pharmacy, Asyut	1.0	False
+60274978	Faculty of Languages ​​and Translation, Cairo	60273758	Faculty of Languages and Translation, Cairo	1.0	False
+60274071	Faculty of Physical Therapy, Beni Suef	60218563	Faculty of Physical Therapy, Beni Suef	1.0	False
+60273047	Faculty of Pharmacy, Alexandria	60016246	Faculty of Pharmacy, Alexandria	1.0	False
+60273306	Faculty of Physical Therapy, Suez	60274478	Faculty of Physical Therapy, Suez	1.0	False
+60274479	Faculty of Dentistry, Suez	60273304	Faculty of Dentistry, Suez	1.0	False
+60273370	Faculty of Oral and Dental Medicine, Cairo	60274267	Faculty of Oral and Dental Medicine, Cairo	1.0	False
+60275990	Faculty of Nursing, Cairo	60217117	Faculty of Nursing, Cairo	1.0	False
+60275990	Faculty of Nursing, Cairo	60274268	Faculty of Nursing, Cairo	1.0	False
+60274267	Faculty of Oral and Dental Medicine, Cairo	60273370	Faculty of Oral and Dental Medicine, Cairo	1.0	False
+60274267	Faculty of Dentistry, Cairo	60217011	Faculty of Dentistry, Cairo	1.0	False
+60274267	Faculty of Dentistry, Cairo	60274950	Faculty of Dentistry, Cairo	1.0	False
+60274267	Faculty of Dentistry, Cairo	60243207	Faculty of Dentistry, Cairo	1.0	False
+60273581	Faculty of the Arts, Suez	60274473	Faculty of Arts, Suez	1.0	False
+60273295	Faculty of Engineering, Suez	60274488	Faculty of Engineering, Suez	1.0	False
+60274066	Faculty of Engineering, Beni Suef	60218526	Faculty of Engineering, Beni Suef	1.0	False
+60273591	Faculty of Engineering, 6th October	60273778	Faculty of Engineering, 6th October	1.0	False
+60273591	Faculty of Engineering, 6th October	60273464	Faculty of Engineering, 6th October	1.0	False
+60274265	Faculty of Pharmacy, Cairo	60004782	Faculty of Pharmacy, Cairo	1.0	False
+60274265	Faculty of Pharmacy, Cairo	60216981	Faculty of Pharmacy, Cairo	1.0	False
+60274265	Faculty of Pharmacy, Cairo	60273371	Faculty of Pharmacy, Cairo	1.0	False
+60274265	Faculty of Pharmacy, Cairo	60273712	Faculty of Pharmacy, Cairo	1.0	False
+60274265	Faculty of Pharmacy, Cairo	60273709	Faculty of Pharmacy, Cairo	1.0	False
+60278293	Faculty of Arts, Mansoura	60231702	Faculty of Arts, Mansoura	1.0	False
+60273300	Faculty of Medicine, Suez	60274477	Faculty of Medicine, Suez	1.0	False
+60274951	Faculty of Science, Cairo	60216969	Faculty of Science, Cairo	1.0	False
+60273161	Faculty of Communication and Mass Media, El Shorouk	60276326	Faculty of Media and Mass Communication, El Shorouk	1.0	False
+60273705	Faculty of Engineering, Cairo	60002575	Faculty of Engineering, Cairo	1.0	False
+60273705	Faculty of Engineering, Cairo	60216991	Faculty of Engineering, Cairo	1.0	False
+60273705	Faculty of Engineering, Cairo	60274955	Faculty of Engineering, Cairo	1.0	False
+60273705	Faculty of Engineering, Cairo	60274264	Faculty of Engineering, Cairo	1.0	False
+60273705	Faculty of Engineering, Cairo	60273331	Faculty of Engineering, Cairo	1.0	False
+60273705	Faculty of Engineering, Cairo	60273602	Faculty of Engineering, Cairo	1.0	False
+60273705	Faculty of Engineering, Cairo	60278283	Faculty of Engineering, Cairo	1.0	False
+60274950	Faculty of Dentistry, Cairo	60217011	Faculty of Dentistry, Cairo	1.0	False
+60274950	Faculty of Dentistry, Cairo	60274267	Faculty of Dentistry, Cairo	1.0	False
+60274950	Faculty of Dentistry, Cairo	60243207	Faculty of Dentistry, Cairo	1.0	False
+60274268	Faculty of Nursing, Cairo	60217117	Faculty of Nursing, Cairo	1.0	False
+60274268	Faculty of Nursing, Cairo	60275990	Faculty of Nursing, Cairo	1.0	False
+60273582	Faculty of Dentistry, 6th October	60273773	Faculty of Dentistry, 6th October	1.0	False
+60273582	Faculty of Dentistry, 6th October	60273390	Faculty of Dentistry, 6th October	1.0	False
+60278464	Weinan Teachers University, Weinan	60089927	Weinan Teachers University, Weinan	1.0	False
+60257001	Institut de Physique, Paris	60119909	Institut de Physique, Paris	1.0	False
+60267653	International School of Management (ISM), Dortmund	60021054	International School of Management ISM, Dortmund, Dortmund	1.0	False
+60267653	International School of Management (ISM), Dortmund	60021054	International School of Management ISM Dortmund, Dortmund	1.0	False
+60271329	Département Traitement de l’Information et Systèmes DTIS Palaiseau, Palaiseau	60181988	Département Traitement de l’Information et Systèmes, Palaiseau	0.9534625892455924	False
+60279331	Universitas Islam Negeri Imam Bonjol Padang, Padang	60289933	Universitas Islam Negeri Imam Bonjol Padang, Padang	1.0	False
+60279331	Universitas Islam Negeri Imam Bonjol Padang, Padang	60289933	Universitas Islam Negeri Imam Bonjol, Padang	1.0	False
+60270040	Universitas Bandar Lampung, Bandar Lampung	60069401	Universitas Lampung, Bandar Lampung	1.0	False
+60262981	Wuhan University of Engineering Science, Wuhan	60100208	Wuhan University of Science and Engineering, Wuhan	1.0	False
+60279372	Berlin University of Applied Sciences, Berlin	60028498	Berlin University of Applied Sciences, Berlin	1.0	False
+60279331	Imam Bonjol State Islamic University Padang, Padang	60289933	Imam Bonjol Padang State Islamic University, Padang	1.0	False
+60246648	School of Business & Economics, Berlin	60257233	School of Business and Economics, Berlin	1.0	False
+60274374	School of Business Administration, 6th October	60273787	School of Business Administration, 6th October	1.0	False
+60257233	School of Business and Economics, Berlin	60246648	School of Business & Economics, Berlin	1.0	False
+60273787	School of Business Administration, 6th October	60274374	School of Business Administration, 6th October	1.0	False
+60259129	Aditya College of Pharmacy, Surampalem, Surampalem	60107509	Aditya Pharmacy College, Surampalem, Surampalem	1.0	False
+60259129	Aditya College of Pharmacy, Surampalem	60107509	Aditya Pharmacy College, Surampalem, Surampalem	1.0	False
+60253273	Aditya College of Engineering, Surampalem	60281260	Aditya Engineering College, Surampalem	1.0	False
+60271968	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	60104563	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	1.0	False
+60271968	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y la Nutrición, Madrid	60104563	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y Nutrición, Madrid	1.0	False
+60278417	Department of Women's, Gender, and Sexuality Studies, New Brunswick	60120409	Department of Women's, Gender, and Sexuality Studies, New Brunswick	1.0	False
+60274278	CTBC Business School, Tainan	60090106	CTBC Business School, Tainan	1.0	False
+60119405	ROSEN Swiss AG, Stans	60298317	Rosen Swiss AG, Stans	1.0	False
+60118769	Institute of Advanced Studies, Singapore	60118932	Institute of Advanced Studies, Singapore	1.0	False
+60119909	Institut de Physique, Paris	60257001	Institut de Physique, Paris	1.0	False
+60118932	Institute of Advanced Studies, Singapore	60118769	Institute of Advanced Studies, Singapore	1.0	False
+60117470	Agricultural University of Wrocław, Wroclaw	60287929	Agricultural University of Wroclaw, Wrocław	1.0	False
+60117303	PEC University of Technology, Chandigarh	60022458	PEC University of Technology, Chandigarh	1.0	False
+60116396	nanofluor GmbH, Berlin	60309027	Nanofluor GmbH, Berlin	1.0	False
+60122480	LifePoint Health, Inc., Brentwood	60298582	Lifepoint Health, Inc, Brentwood	1.0	False
+60119317	Graduate School of Medicine, Kyoto	60171739	Graduate School of Medicine, Kyoto	1.0	False
+60118536	University of Technology and Applied Sciences Muscat, Muscat	60281124	University of Technology and Applied Sciences, Muscat	1.0	False
+60118536	University of Technology and Applied Sciences-Muscat, Muscat	60281124	University of Technology and Applied Sciences, Muscat	1.0	False
+60120844	Graduate School of Business, Seoul	60211547	Graduate School of Business, Seoul	1.0	False
+60117268	Grant MacEwan College, Edmonton	60025926	Grant MacEwan College, Edmonton	1.0	False
+60118054	TU Delft Library, Delft	60118239	TU Delft Library., Delft	1.0	False
+60118239	TU Delft Library., Delft	60118054	TU Delft Library, Delft	1.0	False
+60120514	Save the Elephants, Nairobi	60070557	Save the Elephants Nairobi, Nairobi	1.0	False
+60118653	PROWLER.io Limited, Cambridge	60303079	Prowler.io Limited, Cambridge	1.0	False
+60115293	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	60015662	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	1.0	False
+60122377	School of Medicine, Xiamen	60135792	School of Medicine, Xiamen	1.0	False
+60116924	Centre de Recerca Matemàtica, Bellaterra	60003272	Centre de Recerca Matemática, Bellaterra	1.0	False
+60123637	Centre de Recherche sur les Civilisations de l’Asie Orientale (CRCAO), Paris	60120299	Centre de Recherche sur les Civilisations de l’Asie Orientale, Paris	0.9534625892455924	False
+60121556	Center for Drug Discovery Innovation, La Jolla	60121570	Center for Drug Discovery Innovation, La Jolla	1.0	False
+60121570	Center for Drug Discovery Innovation, La Jolla	60121556	Center for Drug Discovery Innovation, La Jolla	1.0	False
+60120299	Centre de Recherche sur les Civilisations de l’Asie Orientale, Paris	60123637	Centre de Recherche sur les Civilisations de l’Asie Orientale (CRCAO), Paris	0.9534625892455924	False
+60117282	GITAM university, Visakhapatnam	60026146	GITAM University, Visakhapatnam	1.0	False
+60119506	Department of Civil Engineering, Kyoto	60120275	Department of Civil Engineering, Kyoto	1.0	False
+60120970	Department of Organization of Educational and Educational Work, Yekaterinburg	60120927	Department of the Organization of Educational Work, Yekaterinburg	1.0	False
+60120359	Department of Child Development and Family Studies, Seoul	60119997	Department of Child Development and Family Studies, Seoul	1.0	False
+60120275	Department of Civil Engineering, Kyoto	60119506	Department of Civil Engineering, Kyoto	1.0	False
+60120409	Department of Women's, Gender, and Sexuality Studies, New Brunswick	60278417	Department of Women's, Gender, and Sexuality Studies, New Brunswick	1.0	False
+60119997	Department of Child Development and Family Studies, Seoul	60120359	Department of Child Development and Family Studies, Seoul	1.0	False
+60120927	Department of the Organization of Educational Work, Yekaterinburg	60120970	Department of Organization of Educational and Educational Work, Yekaterinburg	1.0	False
+60116832	Leibniz Association, Berlin	60008523	Leibniz Association, Berlin	1.0	False
+60116832	Leibniz-Gemeinschaft, Berlin	60008523	Leibniz-Gemeinschaft, Berlin	1.0	False
+60116832	Leibniz-Gemeinschaft, Berlin	60008523	Leibniz Gemeinschaft, Berlin	1.0	False
+60116996	Regional Engineering College, Hamirpur	60070891	Regional Engineering College Hamirpur, Hamirpur	1.0	False

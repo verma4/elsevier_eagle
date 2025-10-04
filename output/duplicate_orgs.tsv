@@ -1,0 +1,1077 @@
+	set1_id	set1_country	set1_city	set1_orgvisibility	set2_id	set2_country	set2_city	set2_orgvisibility	set1_orgname_with_city	set2_orgname_with_city	similarity
+0	60311368	Germany	Leipzig	true	60308992	Germany	Leipzig	true	AMP Therapeutics GmbH, Leipzig	AMP-Therapeutics GmbH, Leipzig	1.0
+1	60308992	Germany	Leipzig	true	60311368	Germany	Leipzig	true	AMP-Therapeutics GmbH, Leipzig	AMP Therapeutics GmbH, Leipzig	1.0
+2	60076426	India	Pune	true	60288449	India	Pune	false	College of Engineering, Pune	College of Engineering, Pune, Pune	1.0
+3	60197143	Qatar	Doha	true	60310371	Qatar	Doha	true	College of Law, Doha	College of Law, Doha	1.0
+4	60288614	France	Palaiseau	true	60019904	France	Palaiseau	true	École Nationale Supérieure de Techniques Avancées, Palaiseau	École Nationale Supérieure de Techniques Avancées, Palaiseau	1.0
+5	60310371	Qatar	Doha	true	60197143	Qatar	Doha	true	College of Law, Doha	College of Law, Doha	1.0
+6	60288449	India	Pune	false	60076426	India	Pune	true	College of Engineering, Pune, Pune	College of Engineering, Pune	1.0
+7	60274958	Egypt	Cairo	true	60274403	Egypt	Cairo	true	College of Commerce, Cairo	College of Commerce, Cairo	1.0
+8	60276437	Egypt	Cairo	true	60274995	Egypt	Cairo	true	College of Media, Cairo	College of Media, Cairo	1.0
+9	60274982	Egypt	Cairo	true	60217037	Egypt	Cairo	true	College of Education, Cairo	College of Education, Cairo	1.0
+10	60274403	Egypt	Cairo	true	60274958	Egypt	Cairo	true	College of Commerce, Cairo	College of Commerce, Cairo	1.0
+11	60274995	Egypt	Cairo	true	60276437	Egypt	Cairo	true	College of Media, Cairo	College of Media, Cairo	1.0
+12	60275990	Egypt	Cairo	true	60217117	Egypt	Cairo	true	College of Nursing, Cairo	College of Nursing, Cairo	1.0
+13	60139515	United States	Boston	true	60141202	United States	Boston	true	College of Engineering, Boston	College of Engineering, Boston	1.0
+14	60141202	United States	Boston	true	60139515	United States	Boston	true	College of Engineering, Boston	College of Engineering, Boston	1.0
+15	60029533	Saudi Arabia	Riyadh	true	60218948	Saudi Arabia	Riyadh	true	College of Medicine, Riyadh	College of Medicine-Riyadh, Riyadh	1.0
+16	60029533	Saudi Arabia	Riyadh	true	60231076	Saudi Arabia	Riyadh	true	College of Medicine, Riyadh	College of Medicine, Riyadh	1.0
+17	60019904	France	Palaiseau	true	60288614	France	Palaiseau	true	École Nationale Supérieure de Techniques Avancées, Palaiseau	École Nationale Supérieure de Techniques Avancées, Palaiseau	1.0
+18	60212089	Taiwan	Taipei	true	60211443	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+19	60212089	Taiwan	Taipei	true	60211610	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+20	60212089	Taiwan	Taipei	true	60238182	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+21	60217037	Egypt	Cairo	true	60274982	Egypt	Cairo	true	College of Education, Cairo	College of Education, Cairo	1.0
+22	60218948	Saudi Arabia	Riyadh	true	60029533	Saudi Arabia	Riyadh	true	College of Medicine-Riyadh, Riyadh	College of Medicine, Riyadh	1.0
+23	60218948	Saudi Arabia	Riyadh	true	60231076	Saudi Arabia	Riyadh	true	College of Medicine-Riyadh, Riyadh	College of Medicine, Riyadh	1.0
+24	60211443	Taiwan	Taipei	true	60212089	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+25	60211443	Taiwan	Taipei	true	60211610	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+26	60211443	Taiwan	Taipei	true	60238182	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+27	60211610	Taiwan	Taipei	true	60212089	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+28	60211610	Taiwan	Taipei	true	60211443	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+29	60211610	Taiwan	Taipei	true	60238182	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+30	60238182	Taiwan	Taipei	true	60212089	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+31	60238182	Taiwan	Taipei	true	60211443	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+32	60238182	Taiwan	Taipei	true	60211610	Taiwan	Taipei	true	College of Management, Taipei	College of Management, Taipei	1.0
+33	60231076	Saudi Arabia	Riyadh	true	60029533	Saudi Arabia	Riyadh	true	College of Medicine, Riyadh	College of Medicine, Riyadh	1.0
+34	60231076	Saudi Arabia	Riyadh	true	60218948	Saudi Arabia	Riyadh	true	College of Medicine, Riyadh	College of Medicine-Riyadh, Riyadh	1.0
+35	60217117	Egypt	Cairo	true	60275990	Egypt	Cairo	true	College of Nursing, Cairo	College of Nursing, Cairo	1.0
+36	60033353	United Kingdom	Derby	true	60172936	United Kingdom	Derby	false	Derbyshire Healthcare NHS Foundation Trust, Derby	Derbyshire Healthcare and NHS Foundation Trust, Derby	1.0
+37	60172936	United Kingdom	Derby	false	60033353	United Kingdom	Derby	true	Derbyshire Healthcare and NHS Foundation Trust, Derby	Derbyshire Healthcare NHS Foundation Trust, Derby	1.0
+38	60014636	Japan	Tokyo	true	60310505	Japan	Tokyo	true	Kyowa Hakko Kirin Co., Ltd, Tokyo	Kyowa Hakko Kirin Co Ltd, Tokyo	1.0
+39	60310505	Japan	Tokyo	true	60014636	Japan	Tokyo	true	Kyowa Hakko Kirin Co Ltd, Tokyo	Kyowa Hakko Kirin Co., Ltd, Tokyo	1.0
+40	60070603	Pakistan	Islamabad	true	60279516	Pakistan	Islamabad	true	National University of Computer and Emerging Sciences Islamabad, Islamabad	National University of Computer and Emerging Sciences, Islamabad	1.0
+41	60032544	Japan	Tokyo	true	60023832	Japan	Tokyo	false	National Hospital Tokyo Medical Center, Tokyo	National Hospital Medical Center, Tokyo	1.0
+42	60160819	United States	Albany	true	60021209	United States	Albany	true	National Energy Technology Laboratory, Albany	National Energy Technology Laboratory, Albany, Albany	1.0
+43	60010471	Japan	Tsukuba	false	60031513	Japan	Tsukuba	true	National Institute of Agrobiological Resources, Tsukuba	National Institute of Agrobiological Resources, Tsukuba	1.0
+44	60320585	United States	San Diego	true	60323884	United States	San Diego	true	NAT Diagnostics, Inc., San Diego	Nat Diagnostics, Inc., San Diego	1.0
+45	60288614	France	Palaiseau	true	60019904	France	Palaiseau	true	National School of Advanced Techniques, Palaiseau	National School of Advanced Techniques, Palaiseau	1.0
+46	60279516	Pakistan	Islamabad	true	60070603	Pakistan	Islamabad	true	National University of Computer and Emerging Sciences, Islamabad	National University of Computer and Emerging Sciences Islamabad, Islamabad	1.0
+47	60323890	United States	Boca Raton	true	60297063	United States	Boca Raton	true	Nature's Best Defense, LLC, Boca Raton	Nature's Best Defense LLC, Boca Raton	1.0
+48	60297063	United States	Boca Raton	true	60323890	United States	Boca Raton	true	Nature's Best Defense LLC, Boca Raton	Nature's Best Defense, LLC, Boca Raton	1.0
+49	60323884	United States	San Diego	true	60320585	United States	San Diego	true	Nat Diagnostics, Inc., San Diego	NAT Diagnostics, Inc., San Diego	1.0
+50	60031513	Japan	Tsukuba	true	60010471	Japan	Tsukuba	false	National Institute of Agrobiological Resources, Tsukuba	National Institute of Agrobiological Resources, Tsukuba	1.0
+51	60023832	Japan	Tokyo	false	60032544	Japan	Tokyo	true	National Hospital Medical Center, Tokyo	National Hospital Tokyo Medical Center, Tokyo	1.0
+52	60019904	France	Palaiseau	true	60288614	France	Palaiseau	true	National School of Advanced Techniques, Palaiseau	National School of Advanced Techniques, Palaiseau	1.0
+53	60021209	United States	Albany	true	60160819	United States	Albany	true	National Energy Technology Laboratory, Albany, Albany	National Energy Technology Laboratory, Albany	1.0
+54	60313044	China	Chengdu	true	60310453	China	Chengdu	true	Chengdu Haiguang Integrated Circuit Design Co., Ltd, Chengdu	Chengdu Haiguang Integrated Circuit Design Co Ltd., Chengdu	1.0
+55	60310453	China	Chengdu	true	60313044	China	Chengdu	true	Chengdu Haiguang Integrated Circuit Design Co Ltd., Chengdu	Chengdu Haiguang Integrated Circuit Design Co., Ltd, Chengdu	1.0
+56	60322033	United States	New Haven	true	60308779	United States	New Haven	true	Kolltan Pharmaceuticals, Inc., New Haven	Kolltan Pharmaceuticals Inc., New Haven	1.0
+57	60308779	United States	New Haven	true	60322033	United States	New Haven	true	Kolltan Pharmaceuticals Inc., New Haven	Kolltan Pharmaceuticals, Inc., New Haven	1.0
+58	60297205	United States	Waltham	true	60314879	United States	Waltham	true	Oxigene, Inc., Waltham	OxiGene, Inc., Waltham	1.0
+59	60314879	United States	Waltham	true	60297205	United States	Waltham	true	OxiGene, Inc., Waltham	Oxigene, Inc., Waltham	1.0
+60	60321696	United States	Sylmar	false	60308897	United States	Sylmar	true	Pacesetter, Inc., Sylmar	​Pacesetter, Inc., Sylmar	1.0
+61	60308897	United States	Sylmar	true	60321696	United States	Sylmar	false	​Pacesetter, Inc., Sylmar	Pacesetter, Inc., Sylmar	1.0
+62	60119405	Switzerland	Stans	true	60298317	Switzerland	Stans	true	ROSEN Swiss AG, Stans	Rosen Swiss AG, Stans	1.0
+63	60298317	Switzerland	Stans	true	60119405	Switzerland	Stans	true	Rosen Swiss AG, Stans	ROSEN Swiss AG, Stans	1.0
+64	60007843	United States	Albuquerque	true	60014682	United States	Albuquerque	true	Sandia National Laboratories, Albuquerque	Sandia National Laboratories, Albuquerque	1.0
+65	60014682	United States	Albuquerque	true	60007843	United States	Albuquerque	true	Sandia National Laboratories, Albuquerque	Sandia National Laboratories, Albuquerque	1.0
+66	60300181	China	Shanghai	true	60299680	China	Shanghai	true	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	Tezign (Shanghai) Information Technology Co., Ltd., Shanghai	1.0
+67	60300181	China	Shanghai	true	60299680	China	Shanghai	true	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	Tezign (Shanghai) Information And Technology Co., Ltd., Shanghai	1.0
+68	60299680	China	Shanghai	true	60300181	China	Shanghai	true	Tezign (Shanghai) Information Technology Co., Ltd., Shanghai	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	1.0
+69	60299680	China	Shanghai	true	60300181	China	Shanghai	true	Tezign (Shanghai) Information And Technology Co., Ltd., Shanghai	Tezign (Shanghai) Information Technology Co., Ltd, Shanghai	1.0
+70	60120751	United Kingdom	Cambridge	true	60008136	United States	Cambridge	false	Cambridge Neuroscience, Cambridge	Cambridge NeuroScience, Inc., Cambridge	1.0
+71	60008136	United States	Cambridge	false	60120751	United Kingdom	Cambridge	true	Cambridge NeuroScience, Inc., Cambridge	Cambridge Neuroscience, Cambridge	1.0
+72	60319179	United States	Newark	true	60294290	United States	Newark	true	CymaBay Therapeutics, Inc, Newark	CymaBay Therapeutics Inc., Newark	1.0
+73	60294290	United States	Newark	true	60319179	United States	Newark	true	CymaBay Therapeutics Inc., Newark	CymaBay Therapeutics, Inc, Newark	1.0
+74	60202203	Egypt	Beni Suef	true	60276313	Egypt	Beni Suef	true	Faculty of Medicine, Beni Suef	Faculty of Medicine, Beni Suef	1.0
+75	60199560	Lebanon	Beirut	false	60199550	Lebanon	Beirut	true	Faculty of Medicine, Beirut	Faculty of Medicine, Beirut	1.0
+76	60199550	Lebanon	Beirut	true	60199560	Lebanon	Beirut	false	Faculty of Medicine, Beirut	Faculty of Medicine, Beirut	1.0
+77	60199406	Colombia	Bogota	true	60054312	Colombia	Bogota	true	Facultad de Medicina, Bogota	Facultad de Medicina, Bogota	1.0
+78	60199406	Colombia	Bogota	true	60054312	Colombia	Bogota	true	Faculty of Medicine, Bogota	Faculty of Medicine, Bogota	1.0
+79	60054312	Colombia	Bogota	true	60199406	Colombia	Bogota	true	Facultad de Medicina, Bogota	Facultad de Medicina, Bogota	1.0
+80	60054312	Colombia	Bogota	true	60199406	Colombia	Bogota	true	Faculty of Medicine, Bogota	Faculty of Medicine, Bogota	1.0
+81	60020436	Egypt	Cairo	true	60015323	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+82	60020436	Egypt	Cairo	true	60274270	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+83	60020436	Egypt	Cairo	true	60024697	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+84	60016246	Egypt	Alexandria	true	60273047	Egypt	Alexandria	true	Faculty of Pharmacy, Alexandria	Faculty of Pharmacy, Alexandria	1.0
+85	60024697	Egypt	Cairo	true	60015323	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+86	60024697	Egypt	Cairo	true	60274270	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+87	60024697	Egypt	Cairo	true	60020436	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+88	60172622	Japan	Tokyo	true	60002354	Japan	Tokyo	true	Faculty of Medicine, Tokyo	Faculty of Medicine, Tokyo	1.0
+89	60171695	Australia	Melbourne	true	60176044	Australia	Melbourne	true	Faculty of Law and Business, Melbourne	Faculty of Business and Law, Melbourne	1.0
+90	60176044	Australia	Melbourne	true	60171695	Australia	Melbourne	true	Faculty of Business and Law, Melbourne	Faculty of Law and Business, Melbourne	1.0
+91	60161456	Japan	Tokyo	true	60170405	Japan	Tokyo 	true	Faculty of Business Administration, Tokyo	Faculty of Business Administration, Tokyo 	1.0
+92	60170405	Japan	Tokyo 	true	60161456	Japan	Tokyo	true	Faculty of Business Administration, Tokyo 	Faculty of Business Administration, Tokyo	1.0
+93	60002354	Japan	Tokyo	true	60172622	Japan	Tokyo	true	Faculty of Medicine, Tokyo	Faculty of Medicine, Tokyo	1.0
+94	60008708	Egypt	Alexandria	true	60273121	Egypt	Alexandria	true	Faculty of Engineering, Alexandria	Faculty of Engineering, Alexandria	1.0
+95	60009418	Chile	Santiago	true	60212030	Chile	Santiago	true	Facultad de Medicina, Santiago	Facultad de Medicina, Santiago	1.0
+96	60002575	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+97	60002575	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+98	60002575	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+99	60002575	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+100	60002575	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+101	60002575	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+102	60002575	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+103	60015323	Egypt	Cairo	true	60274270	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+104	60015323	Egypt	Cairo	true	60020436	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+105	60015323	Egypt	Cairo	true	60024697	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+106	60007226	Egypt	Mansoura	true	60273567	Egypt	Mansoura	true	Faculty of Medicine, Mansoura	Faculty of Medicine, Mansoura	1.0
+107	60004782	Egypt	Cairo	true	60273709	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+108	60004782	Egypt	Cairo	true	60273712	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+109	60004782	Egypt	Cairo	true	60273371	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+110	60004782	Egypt	Cairo	true	60274265	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+111	60004782	Egypt	Cairo	true	60216981	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+112	60274070	Egypt	Beni Suef	true	60218499	Egypt	Beni Suef	true	Faculty of Pharmacy, Beni Suef	Faculty of Pharmacy, Beni Suef	1.0
+113	60273297	Egypt	Suez	true	60274485	Egypt	Suez	true	Faculty of Science, Suez	Faculty of Science, Suez	1.0
+114	60273763	Egypt	6th October	true	60275801	Egypt	6th October	true	Faculty of Mass Communication, 6th October	Faculty of Mass Communication, 6th October	1.0
+115	60274385	Egypt	Alexandria	true	60273103	Egypt	Alexandria	true	Faculty of Dentistry, Alexandria	Faculty of Dentistry, Alexandria	1.0
+116	60275946	Egypt	Asyut	true	60273145	Egypt	Asyut	true	Faculty of Pharmacy, Asyut	Faculty of Pharmacy, Asyut	1.0
+117	60271373	Algeria	Constantine	true	60271535	Algeria	Constantine	true	Faculty of Medicine, Constantine	Faculty of Medicine of Constantine, Constantine	1.0
+118	60276437	Egypt	Cairo	true	60275850	Egypt	Cairo	true	Faculty of Mass Communication, Cairo	Faculty of Mass Communication, Cairo	1.0
+119	60276437	Egypt	Cairo	true	60274995	Egypt	Cairo	true	Faculty of Mass Communication, Cairo	Faculty of Mass Communication, Cairo	1.0
+120	60273304	Egypt	Suez	true	60274479	Egypt	Suez	true	Faculty of Dentistry, Suez	Faculty of Dentistry, Suez	1.0
+121	60273464	Egypt	6th October	true	60273778	Egypt	6th October	true	Faculty of Engineering, 6th October	Faculty of Engineering, 6th October	1.0
+122	60273464	Egypt	6th October	true	60273591	Egypt	6th October	true	Faculty of Engineering, 6th October	Faculty of Engineering, 6th October	1.0
+123	60273777	Egypt	6th October	true	60273392	Egypt	6th October	true	Faculty of Pharmacy, 6th October	Faculty of Pharmacy, 6th October	1.0
+124	60273777	Egypt	6th October	true	60273761	Egypt	6th October	true	Faculty of Pharmacy, 6th October	Faculty of Pharmacy, 6th October	1.0
+125	60274485	Egypt	Suez	true	60273297	Egypt	Suez	true	Faculty of Science, Suez	Faculty of Science, Suez	1.0
+126	60274263	Egypt	Cairo	true	60273369	Egypt	Cairo	true	Faculty of Computer Science, Cairo	Faculty of Computer Science, Cairo	1.0
+127	60273390	Egypt	6th October	true	60273773	Egypt	6th October	true	Faculty of Dentistry, 6th October	Faculty of Dentistry, 6th October	1.0
+128	60273390	Egypt	6th October	true	60273582	Egypt	6th October	true	Faculty of Dentistry, 6th October	Faculty of Dentistry, 6th October	1.0
+129	60274473	Egypt	Suez	true	60273581	Egypt	Suez	true	Faculty of Arts, Suez	Faculty of the Arts, Suez	1.0
+130	60273709	Egypt	Cairo	true	60004782	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+131	60273709	Egypt	Cairo	true	60273712	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+132	60273709	Egypt	Cairo	true	60273371	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+133	60273709	Egypt	Cairo	true	60274265	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+134	60273709	Egypt	Cairo	true	60216981	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+135	60278283	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+136	60278283	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+137	60278283	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+138	60278283	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+139	60278283	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+140	60278283	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+141	60278283	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+142	60273758	Egypt	Cairo	true	60274978	Egypt	Cairo	true	Faculty of Languages and Translation, Cairo	Faculty of Languages ​​and Translation, Cairo	1.0
+143	60276313	Egypt	Beni Suef	true	60202203	Egypt	Beni Suef	true	Faculty of Medicine, Beni Suef	Faculty of Medicine, Beni Suef	1.0
+144	60273369	Egypt	Cairo	true	60274263	Egypt	Cairo	true	Faculty of Computer Science, Cairo	Faculty of Computer Science, Cairo	1.0
+145	60275850	Egypt	Cairo	true	60276437	Egypt	Cairo	true	Faculty of Mass Communication, Cairo	Faculty of Mass Communication, Cairo	1.0
+146	60275850	Egypt	Cairo	true	60274995	Egypt	Cairo	true	Faculty of Mass Communication, Cairo	Faculty of Mass Communication, Cairo	1.0
+147	60276326	Egypt	El Shorouk	true	60273161	Egypt	El Shorouk	true	Faculty of Media and Mass Communication, El Shorouk	Faculty of Communication and Mass Media, El Shorouk	1.0
+148	60274488	Egypt	Suez	true	60273295	Egypt	Suez	true	Faculty of Engineering, Suez	Faculty of Engineering, Suez	1.0
+149	60273392	Egypt	6th October	true	60273777	Egypt	6th October	true	Faculty of Pharmacy, 6th October	Faculty of Pharmacy, 6th October	1.0
+150	60273392	Egypt	6th October	true	60273761	Egypt	6th October	true	Faculty of Pharmacy, 6th October	Faculty of Pharmacy, 6th October	1.0
+151	60274105	Egypt	6th October	true	60273393	Egypt	6th October	true	Faculty of Physical Therapy, 6th October	Faculty of Physical Therapy, 6th October	1.0
+152	60274105	Egypt	6th October	true	60278271	Egypt	6th October	true	Faculty of Physical Therapy, 6th October	Faculty of Physical therapy, 6th October	1.0
+153	60273712	Egypt	Cairo	true	60004782	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+154	60273712	Egypt	Cairo	true	60273709	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+155	60273712	Egypt	Cairo	true	60273371	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+156	60273712	Egypt	Cairo	true	60274265	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+157	60273712	Egypt	Cairo	true	60216981	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+158	60275801	Egypt	6th October	true	60273763	Egypt	6th October	true	Faculty of Mass Communication, 6th October	Faculty of Mass Communication, 6th October	1.0
+159	60273393	Egypt	6th October	true	60274105	Egypt	6th October	true	Faculty of Physical Therapy, 6th October	Faculty of Physical Therapy, 6th October	1.0
+160	60273393	Egypt	6th October	true	60278271	Egypt	6th October	true	Faculty of Physical Therapy, 6th October	Faculty of Physical therapy, 6th October	1.0
+161	60273103	Egypt	Alexandria	true	60274385	Egypt	Alexandria	true	Faculty of Dentistry, Alexandria	Faculty of Dentistry, Alexandria	1.0
+162	60274269	Egypt	Cairo	true	60273710	Egypt	Cairo	true	Faculty of Physical Therapy, Cairo	Faculty of Physical Therapy, Cairo	1.0
+163	60274269	Egypt	Cairo	true	60273023	Egypt	Cairo	true	Faculty of Physical Therapy, Cairo	Faculty of Physical Therapy, Cairo	1.0
+164	60273602	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+165	60273602	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+166	60273602	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+167	60273602	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+168	60273602	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+169	60273602	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+170	60273602	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+171	60273371	Egypt	Cairo	true	60004782	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+172	60273371	Egypt	Cairo	true	60273709	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+173	60273371	Egypt	Cairo	true	60273712	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+174	60273371	Egypt	Cairo	true	60274265	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+175	60273371	Egypt	Cairo	true	60216981	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+176	60274976	Egypt	Cairo	true	60217062	Egypt	Cairo	true	Faculty of Agriculture, Cairo	Faculty of Agriculture, Cairo	1.0
+177	60273669	Egypt	Mansoura	true	60231617	Egypt	Mansoura	true	Faculty of Engineering, Mansoura	Faculty of Engineering, Mansoura	1.0
+178	60273778	Egypt	6th October	true	60273464	Egypt	6th October	true	Faculty of Engineering, 6th October	Faculty of Engineering, 6th October	1.0
+179	60273778	Egypt	6th October	true	60273591	Egypt	6th October	true	Faculty of Engineering, 6th October	Faculty of Engineering, 6th October	1.0
+180	60273710	Egypt	Cairo	true	60274269	Egypt	Cairo	true	Faculty of Physical Therapy, Cairo	Faculty of Physical Therapy, Cairo	1.0
+181	60273710	Egypt	Cairo	true	60273023	Egypt	Cairo	true	Faculty of Physical Therapy, Cairo	Faculty of Physical Therapy, Cairo	1.0
+182	60274477	Egypt	Suez	true	60273300	Egypt	Suez	true	Faculty of Medicine, Suez	Faculty of Medicine, Suez	1.0
+183	60273773	Egypt	6th October	true	60273390	Egypt	6th October	true	Faculty of Dentistry, 6th October	Faculty of Dentistry, 6th October	1.0
+184	60273773	Egypt	6th October	true	60273582	Egypt	6th October	true	Faculty of Dentistry, 6th October	Faculty of Dentistry, 6th October	1.0
+185	60273331	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+186	60273331	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+187	60273331	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+188	60273331	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+189	60273331	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+190	60273331	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+191	60273331	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+192	60274264	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+193	60274264	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+194	60274264	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+195	60274264	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+196	60274264	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+197	60274264	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+198	60274264	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+199	60273761	Egypt	6th October	true	60273777	Egypt	6th October	true	Faculty of Pharmacy, 6th October	Faculty of Pharmacy, 6th October	1.0
+200	60273761	Egypt	6th October	true	60273392	Egypt	6th October	true	Faculty of Pharmacy, 6th October	Faculty of Pharmacy, 6th October	1.0
+201	60274982	Egypt	Cairo	true	60217037	Egypt	Cairo	true	Faculty of Education, Cairo	Faculty of Education, Cairo	1.0
+202	60271535	Algeria	Constantine	true	60271373	Algeria	Constantine	true	Faculty of Medicine of Constantine, Constantine	Faculty of Medicine, Constantine	1.0
+203	60274995	Egypt	Cairo	true	60276437	Egypt	Cairo	true	Faculty of Mass Communication, Cairo	Faculty of Mass Communication, Cairo	1.0
+204	60274995	Egypt	Cairo	true	60275850	Egypt	Cairo	true	Faculty of Mass Communication, Cairo	Faculty of Mass Communication, Cairo	1.0
+205	60249933	Italy	Rome	true	60212168	Italy	Rome	true	Facoltà di Economia, Rome	Facoltà di Economia, Rome	1.0
+206	60249933	Italy	Rome	true	60212168	Italy	Rome	true	Faculty of Economics, Rome	Faculty of Economics, Rome	1.0
+207	60275914	Egypt	6th October	true	60275800	Egypt	6th October	true	Faculty of Languages and Translation, 6th October	Faculty of Languages and Translation, 6th October	1.0
+208	60273666	Egypt	Mansoura	true	60231631	Egypt	Mansoura	true	Faculty of Pharmacy, Mansoura	Faculty of Pharmacy, Mansoura	1.0
+209	60274478	Egypt	Suez	true	60273306	Egypt	Suez	true	Faculty of Physical Therapy, Suez	Faculty of Physical Therapy, Suez	1.0
+210	60278271	Egypt	6th October	true	60274105	Egypt	6th October	true	Faculty of Physical therapy, 6th October	Faculty of Physical Therapy, 6th October	1.0
+211	60278271	Egypt	6th October	true	60273393	Egypt	6th October	true	Faculty of Physical therapy, 6th October	Faculty of Physical Therapy, 6th October	1.0
+212	60273121	Egypt	Alexandria	true	60008708	Egypt	Alexandria	true	Faculty of Engineering, Alexandria	Faculty of Engineering, Alexandria	1.0
+213	60243207	Egypt	Cairo	true	60274267	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+214	60243207	Egypt	Cairo	true	60274950	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+215	60243207	Egypt	Cairo	true	60217011	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+216	60273023	Egypt	Cairo	true	60274269	Egypt	Cairo	true	Faculty of Physical Therapy, Cairo	Faculty of Physical Therapy, Cairo	1.0
+217	60273023	Egypt	Cairo	true	60273710	Egypt	Cairo	true	Faculty of Physical Therapy, Cairo	Faculty of Physical Therapy, Cairo	1.0
+218	60275800	Egypt	6th October	true	60275914	Egypt	6th October	true	Faculty of Languages and Translation, 6th October	Faculty of Languages and Translation, 6th October	1.0
+219	60273567	Egypt	Mansoura	true	60007226	Egypt	Mansoura	true	Faculty of Medicine, Mansoura	Faculty of Medicine, Mansoura	1.0
+220	60274955	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+221	60274955	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+222	60274955	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+223	60274955	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+224	60274955	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+225	60274955	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+226	60274955	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+227	60274270	Egypt	Cairo	true	60015323	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+228	60274270	Egypt	Cairo	true	60020436	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+229	60274270	Egypt	Cairo	true	60024697	Egypt	Cairo	true	Faculty of Medicine, Cairo	Faculty of Medicine, Cairo	1.0
+230	60273145	Egypt	Asyut	true	60275946	Egypt	Asyut	true	Faculty of Pharmacy, Asyut	Faculty of Pharmacy, Asyut	1.0
+231	60274978	Egypt	Cairo	true	60273758	Egypt	Cairo	true	Faculty of Languages ​​and Translation, Cairo	Faculty of Languages and Translation, Cairo	1.0
+232	60274071	Egypt	Beni Suef	true	60218563	Egypt	Beni Suef	true	Faculty of Physical Therapy, Beni Suef	Faculty of Physical Therapy, Beni Suef	1.0
+233	60273047	Egypt	Alexandria	true	60016246	Egypt	Alexandria	true	Faculty of Pharmacy, Alexandria	Faculty of Pharmacy, Alexandria	1.0
+234	60273306	Egypt	Suez	true	60274478	Egypt	Suez	true	Faculty of Physical Therapy, Suez	Faculty of Physical Therapy, Suez	1.0
+235	60274479	Egypt	Suez	true	60273304	Egypt	Suez	true	Faculty of Dentistry, Suez	Faculty of Dentistry, Suez	1.0
+236	60273370	Egypt	Cairo	true	60274267	Egypt	Cairo	true	Faculty of Oral and Dental Medicine, Cairo	Faculty of Oral and Dental Medicine, Cairo	1.0
+237	60275990	Egypt	Cairo	true	60274268	Egypt	Cairo	true	Faculty of Nursing, Cairo	Faculty of Nursing, Cairo	1.0
+238	60275990	Egypt	Cairo	true	60217117	Egypt	Cairo	true	Faculty of Nursing, Cairo	Faculty of Nursing, Cairo	1.0
+239	60274267	Egypt	Cairo	true	60273370	Egypt	Cairo	true	Faculty of Oral and Dental Medicine, Cairo	Faculty of Oral and Dental Medicine, Cairo	1.0
+240	60274267	Egypt	Cairo	true	60243207	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+241	60274267	Egypt	Cairo	true	60274950	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+242	60274267	Egypt	Cairo	true	60217011	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+243	60273581	Egypt	Suez	true	60274473	Egypt	Suez	true	Faculty of the Arts, Suez	Faculty of Arts, Suez	1.0
+244	60273295	Egypt	Suez	true	60274488	Egypt	Suez	true	Faculty of Engineering, Suez	Faculty of Engineering, Suez	1.0
+245	60274066	Egypt	Beni Suef	true	60218526	Egypt	Beni Suef	true	Faculty of Engineering, Beni Suef	Faculty of Engineering, Beni Suef	1.0
+246	60273591	Egypt	6th October	true	60273464	Egypt	6th October	true	Faculty of Engineering, 6th October	Faculty of Engineering, 6th October	1.0
+247	60273591	Egypt	6th October	true	60273778	Egypt	6th October	true	Faculty of Engineering, 6th October	Faculty of Engineering, 6th October	1.0
+248	60274265	Egypt	Cairo	true	60004782	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+249	60274265	Egypt	Cairo	true	60273709	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+250	60274265	Egypt	Cairo	true	60273712	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+251	60274265	Egypt	Cairo	true	60273371	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+252	60274265	Egypt	Cairo	true	60216981	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+253	60278293	Egypt	Mansoura	true	60231702	Egypt	Mansoura	true	Faculty of Arts, Mansoura	Faculty of Arts, Mansoura	1.0
+254	60273300	Egypt	Suez	true	60274477	Egypt	Suez	true	Faculty of Medicine, Suez	Faculty of Medicine, Suez	1.0
+255	60274951	Egypt	Cairo	true	60216969	Egypt	Cairo	true	Faculty of Science, Cairo	Faculty of Science, Cairo	1.0
+256	60273161	Egypt	El Shorouk	true	60276326	Egypt	El Shorouk	true	Faculty of Communication and Mass Media, El Shorouk	Faculty of Media and Mass Communication, El Shorouk	1.0
+257	60273705	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+258	60273705	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+259	60273705	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+260	60273705	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+261	60273705	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+262	60273705	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+263	60273705	Egypt	Cairo	true	60216991	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+264	60274950	Egypt	Cairo	true	60243207	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+265	60274950	Egypt	Cairo	true	60274267	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+266	60274950	Egypt	Cairo	true	60217011	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+267	60274268	Egypt	Cairo	true	60275990	Egypt	Cairo	true	Faculty of Nursing, Cairo	Faculty of Nursing, Cairo	1.0
+268	60274268	Egypt	Cairo	true	60217117	Egypt	Cairo	true	Faculty of Nursing, Cairo	Faculty of Nursing, Cairo	1.0
+269	60273582	Egypt	6th October	true	60273390	Egypt	6th October	true	Faculty of Dentistry, 6th October	Faculty of Dentistry, 6th October	1.0
+270	60273582	Egypt	6th October	true	60273773	Egypt	6th October	true	Faculty of Dentistry, 6th October	Faculty of Dentistry, 6th October	1.0
+271	60241529	Sweden	Orebro	false	60221948	Sweden	Orebro	true	Faculty of Business, Science and Engineering, Orebro	Faculty of Business, Science and Engineering, Orebro	1.0
+272	60218499	Egypt	Beni Suef	true	60274070	Egypt	Beni Suef	true	Faculty of Pharmacy, Beni Suef	Faculty of Pharmacy, Beni Suef	1.0
+273	60216981	Egypt	Cairo	true	60004782	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+274	60216981	Egypt	Cairo	true	60273709	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+275	60216981	Egypt	Cairo	true	60273712	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+276	60216981	Egypt	Cairo	true	60273371	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+277	60216981	Egypt	Cairo	true	60274265	Egypt	Cairo	true	Faculty of Pharmacy, Cairo	Faculty of Pharmacy, Cairo	1.0
+278	60231617	Egypt	Mansoura	true	60273669	Egypt	Mansoura	true	Faculty of Engineering, Mansoura	Faculty of Engineering, Mansoura	1.0
+279	60231631	Egypt	Mansoura	true	60273666	Egypt	Mansoura	true	Faculty of Pharmacy, Mansoura	Faculty of Pharmacy, Mansoura	1.0
+280	60217037	Egypt	Cairo	true	60274982	Egypt	Cairo	true	Faculty of Education, Cairo	Faculty of Education, Cairo	1.0
+281	60231702	Egypt	Mansoura	true	60278293	Egypt	Mansoura	true	Faculty of Arts, Mansoura	Faculty of Arts, Mansoura	1.0
+282	60212168	Italy	Rome	true	60249933	Italy	Rome	true	Facoltà di Economia, Rome	Facoltà di Economia, Rome	1.0
+283	60212168	Italy	Rome	true	60249933	Italy	Rome	true	Faculty of Economics, Rome	Faculty of Economics, Rome	1.0
+284	60216969	Egypt	Cairo	true	60274951	Egypt	Cairo	true	Faculty of Science, Cairo	Faculty of Science, Cairo	1.0
+285	60218563	Egypt	Beni Suef	true	60274071	Egypt	Beni Suef	true	Faculty of Physical Therapy, Beni Suef	Faculty of Physical Therapy, Beni Suef	1.0
+286	60222522	Spain	Barcelona	true	60226627	Spain	Barcelona	true	Facultat d'Economia i Empresa, Barcelona	Facultat d'Economia i Empresa, Barcelona	1.0
+287	60222522	Spain	Barcelona	true	60226627	Spain	Barcelona	true	Faculty of Economics and Business, Barcelona	Faculty of Economics and Business, Barcelona	1.0
+288	60222522	Spain	Barcelona	true	60227731	Spain	Barcelona	true	Faculty of Economics and Business, Barcelona	Faculty of Economics and Business, Barcelona	1.0
+289	60226627	Spain	Barcelona	true	60222522	Spain	Barcelona	true	Facultat d'Economia i Empresa, Barcelona	Facultat d'Economia i Empresa, Barcelona	1.0
+290	60226627	Spain	Barcelona	true	60222522	Spain	Barcelona	true	Faculty of Economics and Business, Barcelona	Faculty of Economics and Business, Barcelona	1.0
+291	60226627	Spain	Barcelona	true	60227731	Spain	Barcelona	true	Faculty of Economics and Business, Barcelona	Faculty of Economics and Business, Barcelona	1.0
+292	60217011	Egypt	Cairo	true	60243207	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+293	60217011	Egypt	Cairo	true	60274267	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+294	60217011	Egypt	Cairo	true	60274950	Egypt	Cairo	true	Faculty of Dentistry, Cairo	Faculty of Dentistry, Cairo	1.0
+295	60218526	Egypt	Beni Suef	true	60274066	Egypt	Beni Suef	true	Faculty of Engineering, Beni Suef	Faculty of Engineering, Beni Suef	1.0
+296	60227731	Spain	Barcelona	true	60222522	Spain	Barcelona	true	Faculty of Economics and Business, Barcelona	Faculty of Economics and Business, Barcelona	1.0
+297	60227731	Spain	Barcelona	true	60226627	Spain	Barcelona	true	Faculty of Economics and Business, Barcelona	Faculty of Economics and Business, Barcelona	1.0
+298	60221948	Sweden	Orebro	true	60241529	Sweden	Orebro	false	Faculty of Business, Science and Engineering, Orebro	Faculty of Business, Science and Engineering, Orebro	1.0
+299	60216991	Egypt	Cairo	true	60002575	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+300	60216991	Egypt	Cairo	true	60278283	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+301	60216991	Egypt	Cairo	true	60273602	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+302	60216991	Egypt	Cairo	true	60273331	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+303	60216991	Egypt	Cairo	true	60274264	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+304	60216991	Egypt	Cairo	true	60274955	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+305	60216991	Egypt	Cairo	true	60273705	Egypt	Cairo	true	Faculty of Engineering, Cairo	Faculty of Engineering, Cairo	1.0
+306	60217062	Egypt	Cairo	true	60274976	Egypt	Cairo	true	Faculty of Agriculture, Cairo	Faculty of Agriculture, Cairo	1.0
+307	60212030	Chile	Santiago	true	60009418	Chile	Santiago	true	Facultad de Medicina, Santiago	Facultad de Medicina, Santiago	1.0
+308	60217117	Egypt	Cairo	true	60275990	Egypt	Cairo	true	Faculty of Nursing, Cairo	Faculty of Nursing, Cairo	1.0
+309	60217117	Egypt	Cairo	true	60274268	Egypt	Cairo	true	Faculty of Nursing, Cairo	Faculty of Nursing, Cairo	1.0
+310	60003277	Canada	Nanaimo	false	60101614	Canada	Nanaimo	true	Malaspina University College, Nanaimo	Malaspina University-College, Nanaimo	1.0
+311	60101614	Canada	Nanaimo	true	60003277	Canada	Nanaimo	false	Malaspina University-College, Nanaimo	Malaspina University College, Nanaimo	1.0
+312	60111610	United States	Hershey	false	60101686	United States	Hershey	true	Penn State Hershey Cancer Institute, Hershey	Penn State Cancer Institute, Hershey	1.0
+313	60101686	United States	Hershey	true	60111610	United States	Hershey	false	Penn State Cancer Institute, Hershey	Penn State Hershey Cancer Institute, Hershey	1.0
+314	60012469	United States	Chicago	true	60015579	United States	Chicago	true	Saint Xavier University, Chicago	Saint Xavier University Chicago, Chicago	1.0
+315	60015579	United States	Chicago	true	60012469	United States	Chicago	true	Saint Xavier University Chicago, Chicago	Saint Xavier University, Chicago	1.0
+316	60030300	Sweden	Stockholm	false	60111257	Sweden	Stockholm	true	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	1.0
+317	60111257	Sweden	Stockholm	true	60030300	Sweden	Stockholm	false	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	Sophiahemmet Queen Sophia Hospital Sweden, Stockholm	1.0
+318	60312533	Germany	Uberlingen	true	60303884	Germany	Uberlingen	true	Bodenseewerk Gerätetechnik GmbH, Uberlingen	Bodenseewerk Gerätetechnik Gmbh, Uberlingen	1.0
+319	60303885	Germany	Uberlingen	true	60072364	Germany	Uberlingen	true	Bodenseewerk Perkin-Elmer Gmbh, Uberlingen	Bodenseewerk Perkin-Elmer GmbH, Uberlingen	1.0
+320	60303884	Germany	Uberlingen	true	60312533	Germany	Uberlingen	true	Bodenseewerk Gerätetechnik Gmbh, Uberlingen	Bodenseewerk Gerätetechnik GmbH, Uberlingen	1.0
+321	60072364	Germany	Uberlingen	true	60303885	Germany	Uberlingen	true	Bodenseewerk Perkin-Elmer GmbH, Uberlingen	Bodenseewerk Perkin-Elmer Gmbh, Uberlingen	1.0
+322	60295380	China	Suzhou	true	60298518	China	Suzhou	true	CGeneTech (Suzhou, China) Co., Ltd., Suzhou	Cgenetech (Suzhou, China) Co., Ltd., Suzhou	1.0
+323	60298518	China	Suzhou	true	60295380	China	Suzhou	true	Cgenetech (Suzhou, China) Co., Ltd., Suzhou	CGeneTech (Suzhou, China) Co., Ltd., Suzhou	1.0
+324	60300495	Israel	Rehovot	true	60295546	Israel	Rehovot	true	FuturaGene Israel Ltd., Rehovot	Futuragene Israel Ltd., Rehovot	1.0
+325	60295546	Israel	Rehovot	true	60300495	Israel	Rehovot	true	Futuragene Israel Ltd., Rehovot	FuturaGene Israel Ltd., Rehovot	1.0
+326	60018219	Iran	Tehran	true	60013786	Iran	Tehran	false	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	1.0
+327	60013786	Iran	Tehran	false	60018219	Iran	Tehran	true	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	Infectious Diseases and Tropical Medicine Research Center Joundishapour, Tehran	1.0
+328	60321535	Canada	Thetford Mines	true	60322681	Canada	Thetford Mines	true	Mécanique Analytique Inc, Thetford Mines	Mécanique Analytique Inc., Thetford Mines	1.0
+329	60322681	Canada	Thetford Mines	true	60321535	Canada	Thetford Mines	true	Mécanique Analytique Inc., Thetford Mines	Mécanique Analytique Inc, Thetford Mines	1.0
+330	60022958	Sweden	Sundsvall	true	60106597	Sweden	Sundsvall	true	Mid Sweden University, Sundsvall	Mid Sweden University, Sundsvall, Sundsvall	1.0
+331	60106597	Sweden	Sundsvall	true	60022958	Sweden	Sundsvall	true	Mid Sweden University, Sundsvall, Sundsvall	Mid Sweden University, Sundsvall	1.0
+332	60291713	Morocco	Casablanca	false	60170292	Morocco	Casablanca	true	Mohammed VI University of Health Sciences, Casablanca	Mohammed VI University of Sciences and Health, Casablanca	1.0
+333	60291713	Morocco	Casablanca	false	60170292	Morocco	Casablanca	true	Mohammed VI University of Health Sciences (UM6SS), Casablanca	Mohammed VI University of Sciences and Health - UM6SS, Casablanca	1.0
+334	60170292	Morocco	Casablanca	true	60291713	Morocco	Casablanca	false	Mohammed VI University of Sciences and Health - UM6SS, Casablanca	Mohammed VI University of Health Sciences (UM6SS), Casablanca	1.0
+335	60170292	Morocco	Casablanca	true	60291713	Morocco	Casablanca	false	Mohammed VI University of Sciences and Health, Casablanca	Mohammed VI University of Health Sciences, Casablanca	1.0
+336	60297639	Canada	Toronto	true	60311110	Canada	Toronto	true	NoNO Inc., Toronto	Nono Inc., Toronto	1.0
+337	60311110	Canada	Toronto	true	60297639	Canada	Toronto	true	Nono Inc., Toronto	NoNO Inc., Toronto	1.0
+338	60018670	United States	Cranbury	true	60307965	United States	Cranbury	true	Princeton Lightwave, Inc., Cranbury	Princeton Lightwave Inc, Cranbury	1.0
+339	60307965	United States	Cranbury	true	60018670	United States	Cranbury	true	Princeton Lightwave Inc, Cranbury	Princeton Lightwave, Inc., Cranbury	1.0
+340	60304726	United States	Suwanee	true	60303357	United States	Suwanee	true	Verifiber Technologies, Inc., Suwanee	Verifiber Technologies, Suwanee	1.0
+341	60311722	United States	Washington, D.C.	true	60315146	United States	Washington, D.C.	true	Verizon's Patent and Licensing Portfolio, Inc., Washington, D.C.	Verizon's Patent and Licensing Portfolio, Washington, D.C.	1.0
+342	60315146	United States	Washington, D.C.	true	60311722	United States	Washington, D.C.	true	Verizon's Patent and Licensing Portfolio, Washington, D.C.	Verizon's Patent and Licensing Portfolio, Inc., Washington, D.C.	1.0
+343	60303357	United States	Suwanee	true	60304726	United States	Suwanee	true	Verifiber Technologies, Suwanee	Verifiber Technologies, Inc., Suwanee	1.0
+344	60278464	China	Weinan	false	60089927	China	Weinan	false	Weinan Teachers University, Weinan	Weinan Teachers University, Weinan	1.0
+345	60089927	China	Weinan	false	60278464	China	Weinan	false	Weinan Teachers University, Weinan	Weinan Teachers University, Weinan	1.0
+346	60309377	China	Xi'an	true	60310744	China	Xi'an	true	Xi'an Shenxin Kechuang Information Technology Co., Ltd., Xi'an	Xi'an Shenxin Kechuang Information Technology Co., Ltd, Xi'an	1.0
+347	60310744	China	Xi'an	true	60309377	China	Xi'an	true	Xi'an Shenxin Kechuang Information Technology Co., Ltd, Xi'an	Xi'an Shenxin Kechuang Information Technology Co., Ltd., Xi'an	1.0
+348	60309376	China	Xi'an	true	60310746	China	Xi'an	true	Xi'an Xiangteng Microelectronics Technology Co., Ltd., Xi'an	Xi'an Xiangteng Microelectronics Technology Co.,LTD, Xi'an	1.0
+349	60310746	China	Xi'an	true	60309376	China	Xi'an	true	Xi'an Xiangteng Microelectronics Technology Co.,LTD, Xi'an	Xi'an Xiangteng Microelectronics Technology Co., Ltd., Xi'an	1.0
+350	60297862	United States	Fremont	true	60008581	United States	Fremont	true	Abgenix Inc, Fremont	Abgenix, Inc., Fremont	1.0
+351	60008581	United States	Fremont	true	60297862	United States	Fremont	true	Abgenix, Inc., Fremont	Abgenix Inc, Fremont	1.0
+352	60074310	United Arab Emirates	Abu Dhabi	true	60288001	United Arab Emirates	Abu Dhabi	true	Higher Colleges of Technology Abu Dhabi, Abu Dhabi	Higher Colleges of Technology, Abu Dhabi	1.0
+353	60288001	United Arab Emirates	Abu Dhabi	true	60074310	United Arab Emirates	Abu Dhabi	true	Higher Colleges of Technology, Abu Dhabi	Higher Colleges of Technology Abu Dhabi, Abu Dhabi	1.0
+354	60319409	South Korea	Icheon	true	60094599	South Korea	Icheon	false	Hyundai Electronics Industries Co Ltd, Icheon	Hyundai Electronics Industries Co., Ltd., Icheon	1.0
+355	60094599	South Korea	Icheon	false	60319409	South Korea	Icheon	true	Hyundai Electronics Industries Co., Ltd., Icheon	Hyundai Electronics Industries Co Ltd, Icheon	1.0
+356	60303011	China	Liuzhou	true	60301838	China	Liuzhou	true	Liuzhou Taiqi Mechanical and Electrical Engineering Co.,Ltd., Liuzhou	Liuzhou Taiqi mechanical and Electrical Engineering Co.,Ltd., Liuzhou	1.0
+357	60301838	China	Liuzhou	true	60303011	China	Liuzhou	true	Liuzhou Taiqi mechanical and Electrical Engineering Co.,Ltd., Liuzhou	Liuzhou Taiqi Mechanical and Electrical Engineering Co.,Ltd., Liuzhou	1.0
+358	60297599	United States	Ipswich	true	60028507	United States	Ipswich	true	New England Biolabs, Inc., Ipswich	New England Biolabs, Ipswich	1.0
+359	60162076	United Kingdom	Newcastle	true	60180326	Australia	Newcastle	true	Newcastle Business School, Newcastle	Newcastle Business School, Newcastle	1.0
+360	60180326	Australia	Newcastle	true	60162076	United Kingdom	Newcastle	true	Newcastle Business School, Newcastle	Newcastle Business School, Newcastle	1.0
+361	60028507	United States	Ipswich	true	60297599	United States	Ipswich	true	New England Biolabs, Ipswich	New England Biolabs, Inc., Ipswich	1.0
+362	60308895	United States	Santa Clara	true	60311133	United States	Santa Clara	true	Optical Biosystems, Santa Clara	Optical Biosystems Inc., Santa Clara	1.0
+363	60311133	United States	Santa Clara	true	60308895	United States	Santa Clara	true	Optical Biosystems Inc., Santa Clara	Optical Biosystems, Santa Clara	1.0
+364	60033183	United States	Stamford	true	60300590	United States	Stamford	true	Philip Morris International, Stamford	Philip Morris International Inc., Stamford	1.0
+365	60300590	United States	Stamford	true	60033183	United States	Stamford	true	Philip Morris International Inc., Stamford	Philip Morris International, Stamford	1.0
+366	60029867	United States	Chicago	false	60009535	United States	Chicago	true	Roosevelt University Chicago, Chicago	Roosevelt University, Chicago	1.0
+367	60009535	United States	Chicago	true	60029867	United States	Chicago	false	Roosevelt University, Chicago	Roosevelt University Chicago, Chicago	1.0
+368	60297815	United States	Seattle	true	60294283	United States	Seattle	true	Viral Logic Systems Technology Corp, Seattle	Viral Logic Systems Technology Corp., Seattle	1.0
+369	60294283	United States	Seattle	true	60297815	United States	Seattle	true	Viral Logic Systems Technology Corp., Seattle	Viral Logic Systems Technology Corp, Seattle	1.0
+370	60318458	United States	Chapel Hill	true	60304262	United States	Chapel Hill	true	Apex Bioscience, Chapel Hill	Apex Bioscience Inc., Chapel Hill	1.0
+371	60304262	United States	Chapel Hill	true	60318458	United States	Chapel Hill	true	Apex Bioscience Inc., Chapel Hill	Apex Bioscience, Chapel Hill	1.0
+372	60313578	United States	San Francisco	true	60112729	United States	San Francisco	true	Chan Zuckerberg Biohub San Francisco, San Francisco	Chan Zuckerberg Biohub, San Francisco	1.0
+373	60112729	United States	San Francisco	true	60313578	United States	San Francisco	true	Chan Zuckerberg Biohub, San Francisco	Chan Zuckerberg Biohub San Francisco, San Francisco	1.0
+374	60026461	United States	Bremerton	true	60091808	United States	Bremerton	true	Diagnostic Specialties Laboratory - Bremerton, Bremerton	Diagnostic Specialties Laboratory, Inc., Bremerton	1.0
+375	60091808	United States	Bremerton	true	60026461	United States	Bremerton	true	Diagnostic Specialties Laboratory, Inc., Bremerton	Diagnostic Specialties Laboratory - Bremerton, Bremerton	1.0
+376	60010328	Brazil	Santa Luiza	true	60004200	Brazil	Santa Luiza	true	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Escola de Medicina, Santa Luiza	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Santa Luiza	0.9534625892455924
+377	60004200	Brazil	Santa Luiza	true	60010328	Brazil	Santa Luiza	true	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Santa Luiza	Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria, Escola de Medicina, Santa Luiza	0.9534625892455924
+378	60304553	United States	Austin	true	60327420	United States	Austin	true	Faeth Therapeutics, Inc., Austin	Faeth Therapeutics Inc., Austin	1.0
+379	60327420	United States	Austin	true	60304553	United States	Austin	true	Faeth Therapeutics Inc., Austin	Faeth Therapeutics, Inc., Austin	1.0
+380	60292314	Italy	Bergamo	true	60292667	Italy	Bergamo	true	Idea Bioprocess Technology SRLS, Bergamo	IDEA BIOPROCESS TECHNOLOGY srls, Bergamo	1.0
+381	60292667	Italy	Bergamo	true	60292314	Italy	Bergamo	true	IDEA BIOPROCESS TECHNOLOGY srls, Bergamo	Idea Bioprocess Technology SRLS, Bergamo	1.0
+382	60138445	United States	Bloomington	true	60021121	United States	Bloomington	true	Indiana University, Bloomington	Indiana University Bloomington, Bloomington	1.0
+383	60021121	United States	Bloomington	true	60138445	United States	Bloomington	true	Indiana University Bloomington, Bloomington	Indiana University, Bloomington	1.0
+384	60302970	China	Shangrao	true	60302258	China	Shangrao	true	Jiangxi Haoze Optical Film Technology Co.,Ltd., Shangrao	Jiangxi Haoze Optical Film Technology Co.,Ltd, Shangrao	1.0
+385	60302258	China	Shangrao	true	60302970	China	Shangrao	true	Jiangxi Haoze Optical Film Technology Co.,Ltd, Shangrao	Jiangxi Haoze Optical Film Technology Co.,Ltd., Shangrao	1.0
+386	60296831	Canada	Laval	true	60298655	Canada	Laval	true	Klox Technologies, Inc., Laval	Klox Technologies Inc., Laval	1.0
+387	60298655	Canada	Laval	true	60296831	Canada	Laval	true	Klox Technologies Inc., Laval	Klox Technologies, Inc., Laval	1.0
+388	60009742	United States	Burlington	true	60000856	United States	Burlington	false	Medical Center Hospital of Vermont, Burlington	Medical Center Hospital of Vermont, Burlington	1.0
+389	60000856	United States	Burlington	false	60009742	United States	Burlington	true	Medical Center Hospital of Vermont, Burlington	Medical Center Hospital of Vermont, Burlington	1.0
+390	60298229	United States	Newport Beach	true	60298228	United States	Newport Beach	true	Miradry, Inc., Newport Beach	Miradry, Inc, Newport Beach	1.0
+391	60298228	United States	Newport Beach	true	60298229	United States	Newport Beach	true	Miradry, Inc, Newport Beach	Miradry, Inc., Newport Beach	1.0
+392	60288452	United States	Austin	true	60150620	United States	Austin	false	Oden Institute for Computational Engineering and Sciences, Austin	Oden Institute for Computational Engineering & Sciences, Austin	1.0
+393	60150620	United States	Austin	false	60288452	United States	Austin	true	Oden Institute for Computational Engineering & Sciences, Austin	Oden Institute for Computational Engineering and Sciences, Austin	1.0
+394	60304667	United States	Norristown	false	60304081	United States	Norristown	true	Rheogene Inc, Norristown	RheoGene, Inc., Norristown	1.0
+395	60304081	United States	Norristown	true	60304667	United States	Norristown	false	RheoGene, Inc., Norristown	Rheogene Inc, Norristown	1.0
+396	60327208	Germany	Planegg	true	60327239	Germany	Planegg	true	TOPLAB GmbH, Planegg	TOPLAB, GmbH, Planegg	1.0
+397	60327239	Germany	Planegg	true	60327208	Germany	Planegg	true	TOPLAB, GmbH, Planegg	TOPLAB GmbH, Planegg	1.0
+398	60079364	United States	Houston	true	60315237	United States	Houston	true	Waste Management, Inc., Houston	Waste Management, Houston	1.0
+399	60315237	United States	Houston	true	60079364	United States	Houston	true	Waste Management, Houston	Waste Management, Inc., Houston	1.0
+400	60032936	Argentina	Cordoba	true	60031142	Spain	Cordoba	true	Hospital Universitario Reina Sofia, Cordoba, Cordoba	Hospital Universitario Reina Sofia, Cordoba	1.0
+401	60301410	United States	Lake Forest	true	60314905	United States	Lake Forest	true	Hospira, Inc., Lake Forest	Hospira Inc., Lake Forest	1.0
+402	60314905	United States	Lake Forest	true	60301410	United States	Lake Forest	true	Hospira Inc., Lake Forest	Hospira, Inc., Lake Forest	1.0
+403	60031142	Spain	Cordoba	true	60032936	Argentina	Cordoba	true	Hospital Universitario Reina Sofia, Cordoba	Hospital Universitario Reina Sofia, Cordoba, Cordoba	1.0
+404	60016890	Spain	Madrid	true	60013823	Spain	Madrid	true	Hospital Materno-Infantil, Madrid	Hospital Materno Infantil, Madrid	1.0
+405	60013823	Spain	Madrid	true	60016890	Spain	Madrid	true	Hospital Materno Infantil, Madrid	Hospital Materno-Infantil, Madrid	1.0
+406	60118769	Singapore	Singapore	true	60118932	Singapore	Singapore	true	Institute of Advanced Studies, Singapore	Institute of Advanced Studies, Singapore	1.0
+407	60119909	France	Paris	true	60257001	France	Paris	true	Institut de Physique, Paris	Institut de Physique, Paris	1.0
+408	60118932	Singapore	Singapore	true	60118769	Singapore	Singapore	true	Institute of Advanced Studies, Singapore	Institute of Advanced Studies, Singapore	1.0
+409	60134947	China	Shanghai	false	60073625	China	Shanghai	true	Institute of Fine Chemicals, Shanghai	Institute of Fine Chemicals, Shanghai	1.0
+410	60073625	China	Shanghai	true	60134947	China	Shanghai	false	Institute of Fine Chemicals, Shanghai	Institute of Fine Chemicals, Shanghai	1.0
+411	60068653	Spain	Madrid	false	60028902	Spain	Madrid	true	Instituto de Plasticos y Caucho, Madrid	Instituto de Plasticos y Caucho, Madrid	1.0
+412	60068653	Spain	Madrid	false	60028902	Spain	Madrid	true	Instituto de Ciencia y Tecnología de Polímeros, Madrid	Instituto de Ciencia y Tecnología de Polímeros, Madrid	1.0
+413	60080841	Sweden	Gothenburg	false	60055712	Sweden	Gothenburg	false	Institutionen för fysik, Gothenburg	Institutionen för fysik, Gothenburg	1.0
+414	60034460	Argentina	Nueve de Julio	true	60053606	Argentina	Nueve de Julio	false	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio, Nueve de Julio	1.0
+415	60053606	Argentina	Nueve de Julio	false	60034460	Argentina	Nueve de Julio	true	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio, Nueve de Julio	Instituto Superior Experimental de Tecnologia Alimentaria, Nueve de Julio	1.0
+416	60055712	Sweden	Gothenburg	false	60080841	Sweden	Gothenburg	false	Institutionen för fysik, Gothenburg	Institutionen för fysik, Gothenburg	1.0
+417	60028902	Spain	Madrid	true	60068653	Spain	Madrid	false	Instituto de Plasticos y Caucho, Madrid	Instituto de Plasticos y Caucho, Madrid	1.0
+418	60028902	Spain	Madrid	true	60068653	Spain	Madrid	false	Instituto de Ciencia y Tecnología de Polímeros, Madrid	Instituto de Ciencia y Tecnología de Polímeros, Madrid	1.0
+419	60026540	Not Define (xd)		true	60017421	Not Define (xd)		true	Institute of Molecular Genetics, 	Institute for Molecular Genetics, 	1.0
+420	60017421	Not Define (xd)		true	60026540	Not Define (xd)		true	Institute for Molecular Genetics, 	Institute of Molecular Genetics, 	1.0
+421	60023967	Not Define (xd)		true	60009820	Not Define (xd)		true	Institute for Protein Research, 	Institute of Protein Research, 	1.0
+422	60022266	Not Define (xd)		true	60014779	Not Define (xd)		true	Institute for Immunology, 	Institute of Immunology, 	1.0
+423	60019347	United States	San Antonio	true	60003064	United States	San Antonio	false	Institute for Drug Development, San Antonio	Institute for Drug Development San Antonio, San Antonio	1.0
+424	60239575	Greece	Athens	false	60104215	Greece	Athens	true	Institute of Communication and Computer Systems, Athens	Institute of Communication and Computer Systems, Athens	1.0
+425	60104215	Greece	Athens	true	60239575	Greece	Athens	false	Institute of Communication and Computer Systems, Athens	Institute of Communication and Computer Systems, Athens	1.0
+426	60107722	Armenia	Yerevan	true	60107723	Armenia	Yerevan	true	Institute of Zoology of the Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	Institute of Hydroecology and Ichthyology of Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	0.9574271077563381
+427	60107723	Armenia	Yerevan	true	60107722	Armenia	Yerevan	true	Institute of Hydroecology and Ichthyology of Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	Institute of Zoology of the Scientific Center of Zoology and Hydroecology of the National Academy of Sciences of the Republic of Armenia, Yerevan	0.9574271077563381
+428	60009820	Not Define (xd)		true	60023967	Not Define (xd)		true	Institute of Protein Research, 	Institute for Protein Research, 	1.0
+429	60003064	United States	San Antonio	false	60019347	United States	San Antonio	true	Institute for Drug Development San Antonio, San Antonio	Institute for Drug Development, San Antonio	1.0
+430	60004073	Not Define (xd)		true	60001507	Not Define (xd)		true	Institute of Genetics, 	Institute for Genetics, 	1.0
+431	60014779	Not Define (xd)		true	60022266	Not Define (xd)		true	Institute of Immunology, 	Institute for Immunology, 	1.0
+432	60001507	Not Define (xd)		true	60004073	Not Define (xd)		true	Institute for Genetics, 	Institute of Genetics, 	1.0
+433	60257001	France	Paris	true	60119909	France	Paris	true	Institut de Physique, Paris	Institut de Physique, Paris	1.0
+434	60176071	United Kingdom	Kettering	true	60176061	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+435	60176071	United Kingdom	Kettering	true	60176062	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+436	60176071	United Kingdom	Kettering	true	60176063	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+437	60176061	United Kingdom	Kettering	false	60176071	United Kingdom	Kettering	true	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+438	60176061	United Kingdom	Kettering	false	60176062	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+439	60176061	United Kingdom	Kettering	false	60176063	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+440	60176062	United Kingdom	Kettering	false	60176071	United Kingdom	Kettering	true	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+441	60176062	United Kingdom	Kettering	false	60176061	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+442	60176062	United Kingdom	Kettering	false	60176063	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+443	60176063	United Kingdom	Kettering	false	60176071	United Kingdom	Kettering	true	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+444	60176063	United Kingdom	Kettering	false	60176061	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+445	60176063	United Kingdom	Kettering	false	60176062	United Kingdom	Kettering	false	Northamptonshire Healthcare NHS Foundation Trust, Kettering	Northamptonshire Healthcare NHS Foundation Trust, Kettering	1.0
+446	60304143	Germany	Munich	true	60304697	Germany	Munich	true	SPINNER GmbH, Munich	Spinner GmbH, Munich	1.0
+447	60304697	Germany	Munich	true	60304143	Germany	Munich	true	Spinner GmbH, Munich	SPINNER GmbH, Munich	1.0
+448	60075463	United States	Jersey City	true	60313385	United States	Jersey City	true	Alpha Metals, Inc., Jersey City	Alpha Metals Inc, Jersey City	1.0
+449	60313385	United States	Jersey City	true	60075463	United States	Jersey City	true	Alpha Metals Inc, Jersey City	Alpha Metals, Inc., Jersey City	1.0
+450	60306356	Czech Republic	Prague	true	60305137	Czech Republic	Prague	true	Honeywell, Spol. S R.O., Prague	Honeywell, spol. s r.o., Prague	1.0
+451	60305137	Czech Republic	Prague	true	60306356	Czech Republic	Prague	true	Honeywell, spol. s r.o., Prague	Honeywell, Spol. S R.O., Prague	1.0
+452	60021054	Germany	Dortmund	true	60267653	Germany	Dortmund	true	International School of Management ISM Dortmund, Dortmund	International School of Management (ISM), Dortmund	1.0
+453	60021054	Germany	Dortmund	true	60267653	Germany	Dortmund	true	International School of Management ISM, Dortmund, Dortmund	International School of Management (ISM), Dortmund	1.0
+454	60012870	Germany	Bonn	true	60010691	Germany	Bonn	false	International Max Planck Research School on Moduli Spaces, Bonn	International Max Planck Research School for Moduli Spaces, Bonn	1.0
+455	60010691	Germany	Bonn	false	60012870	Germany	Bonn	true	International Max Planck Research School for Moduli Spaces, Bonn	International Max Planck Research School on Moduli Spaces, Bonn	1.0
+456	60105800	United States	Sunnyvale	true	60299544	United States	Sunnyvale	true	Intuitive Surgical, Sunnyvale	Intuitive Surgical, Inc., Sunnyvale	1.0
+457	60070034	Belgium	Leuven	true	60070007	Belgium	Leuven	false	Interuniversity Microelectronics Centre, Leuven	Interuniversity Microelectronics Centre, Leuven	1.0
+458	60070007	Belgium	Leuven	false	60070034	Belgium	Leuven	true	Interuniversity Microelectronics Centre, Leuven	Interuniversity Microelectronics Centre, Leuven	1.0
+459	60267653	Germany	Dortmund	true	60021054	Germany	Dortmund	true	International School of Management (ISM), Dortmund	International School of Management ISM Dortmund, Dortmund	1.0
+460	60267653	Germany	Dortmund	true	60021054	Germany	Dortmund	true	International School of Management (ISM), Dortmund	International School of Management ISM, Dortmund, Dortmund	1.0
+461	60302653	United Kingdom	London	true	60294485	United Kingdom	London	true	IntraBio Ltd, London	Intrabio Ltd, London	1.0
+462	60294485	United Kingdom	London	true	60302653	United Kingdom	London	true	Intrabio Ltd, London	IntraBio Ltd, London	1.0
+463	60299544	United States	Sunnyvale	true	60105800	United States	Sunnyvale	true	Intuitive Surgical, Inc., Sunnyvale	Intuitive Surgical, Sunnyvale	1.0
+464	60303405	Canada	Toronto	true	60320452	Canada	Toronto	true	Interface Biologics, Toronto	Interface Biologics, Inc., Toronto	1.0
+465	60320452	Canada	Toronto	true	60303405	Canada	Toronto	true	Interface Biologics, Inc., Toronto	Interface Biologics, Toronto	1.0
+466	60138287	China	Lanzhou	true	60298098	China	Lanzhou	true	Lanzhou Institute of Biological Products Co., Ltd, Lanzhou	Lanzhou Institute of Biological Products Co., Ltd., Lanzhou	1.0
+467	60298098	China	Lanzhou	true	60138287	China	Lanzhou	true	Lanzhou Institute of Biological Products Co., Ltd., Lanzhou	Lanzhou Institute of Biological Products Co., Ltd, Lanzhou	1.0
+468	60004394	United States	Santa Clara	true	60320696	United States	Santa Clara	true	Symyx Technologies, Santa Clara	Symyx Technologies, Inc, Santa Clara	1.0
+469	60320696	United States	Santa Clara	true	60004394	United States	Santa Clara	true	Symyx Technologies, Inc, Santa Clara	Symyx Technologies, Santa Clara	1.0
+470	60295346	United States	Seattle	true	60312359	United States	Seattle	true	Atossa Genetics, Inc., Seattle	Atossa Genetics, Inc, Seattle	1.0
+471	60312359	United States	Seattle	true	60295346	United States	Seattle	true	Atossa Genetics, Inc, Seattle	Atossa Genetics, Inc., Seattle	1.0
+472	60305934	United Kingdom	London	true	60312947	United Kingdom	London	true	Catexel Technologies Limited, London	CATEXEL Technologies Limited, London	1.0
+473	60312947	United Kingdom	London	true	60305934	United Kingdom	London	true	CATEXEL Technologies Limited, London	Catexel Technologies Limited, London	1.0
+474	60181988	France	Palaiseau	true	60271329	France	Palaiseau	false	Département Traitement de l’Information et Systèmes, Palaiseau	Département Traitement de l’Information et Systèmes DTIS Palaiseau, Palaiseau	0.9534625892455924
+475	60271329	France	Palaiseau	false	60181988	France	Palaiseau	true	Département Traitement de l’Information et Systèmes DTIS Palaiseau, Palaiseau	Département Traitement de l’Information et Systèmes, Palaiseau	0.9534625892455924
+476	60340799	Czech Republic	Prague	true	60294098	Czech Republic	Prague	true	GeneSpector s.r.o., Prague	Genespector s.r.o., Prague	1.0
+477	60313236	New Zealand	Auckland	true	60100563	New Zealand	Auckland	true	Genesis Research and Development Corporation Ltd, Auckland	Genesis Research & Development Corporation Ltd, Auckland	1.0
+478	60313224	United States	Redwood City	true	60303293	United States	Redwood City	true	Genelabs Technologies Inc., Redwood City	Genelabs Technologies, Inc., Redwood City	1.0
+479	60294098	Czech Republic	Prague	true	60340799	Czech Republic	Prague	true	Genespector s.r.o., Prague	GeneSpector s.r.o., Prague	1.0
+480	60303293	United States	Redwood City	true	60313224	United States	Redwood City	true	Genelabs Technologies, Inc., Redwood City	Genelabs Technologies Inc., Redwood City	1.0
+481	60313238	United States	Cambridge	true	60000104	United States	Cambridge	false	Genetics Institute, Inc., Cambridge	Genetics Institute - Cambridge, Cambridge	1.0
+482	60100563	New Zealand	Auckland	true	60313236	New Zealand	Auckland	true	Genesis Research & Development Corporation Ltd, Auckland	Genesis Research and Development Corporation Ltd, Auckland	1.0
+483	60000104	United States	Cambridge	false	60313238	United States	Cambridge	true	Genetics Institute - Cambridge, Cambridge	Genetics Institute, Inc., Cambridge	1.0
+484	60021778	Italy	Bari	true	60113709	Austria	Bari	false	Istituto Di Genetica Vegetale, Bari, Bari	Istituto di Genetica Vegetale, Bari, Bari	1.0
+485	60113709	Austria	Bari	false	60021778	Italy	Bari	true	Istituto di Genetica Vegetale, Bari, Bari	Istituto Di Genetica Vegetale, Bari, Bari	1.0
+486	60105237	India	Chennai	true	60111563	India	Chennai	false	Vels University, Chennai	Vels University, Chennai	1.0
+487	60111563	India	Chennai	false	60105237	India	Chennai	true	Vels University, Chennai	Vels University, Chennai	1.0
+488	60319177	United States	Research Triangle Park	true	60112111	United States	Research Triangle Park	true	AgBiome, Inc, Research Triangle Park	AgBiome, Inc., Research Triangle Park	1.0
+489	60112111	United States	Research Triangle Park	true	60319177	United States	Research Triangle Park	true	AgBiome, Inc., Research Triangle Park	AgBiome, Inc, Research Triangle Park	1.0
+490	60287929	Poland	Wrocław	false	60117470	Poland	Wroclaw	false	Agricultural University of Wroclaw, Wrocław	Agricultural University of Wrocław, Wroclaw	1.0
+491	60117470	Poland	Wroclaw	false	60287929	Poland	Wrocław	false	Agricultural University of Wrocław, Wroclaw	Agricultural University of Wroclaw, Wrocław	1.0
+492	60014198	New Zealand	Lincoln	true	60015346	New Zealand	Lincoln	true	AgResearch Lincoln, Lincoln	AgResearch, Lincoln	1.0
+493	60015346	New Zealand	Lincoln	true	60014198	New Zealand	Lincoln	true	AgResearch, Lincoln	AgResearch Lincoln, Lincoln	1.0
+494	60294515	United States	North Kansas City	true	60006853	United States	North Kansas City	true	Cerner Corporation,, North Kansas City	Cerner Corporation, North Kansas City	1.0
+495	60006853	United States	North Kansas City	true	60294515	United States	North Kansas City	true	Cerner Corporation, North Kansas City	Cerner Corporation,, North Kansas City	1.0
+496	60300574	United States	Willmar	true	60298642	United States	Willmar	true	Epitopix LLC, Willmar	Epitopix, LLC, Willmar	1.0
+497	60298642	United States	Willmar	true	60300574	United States	Willmar	true	Epitopix, LLC, Willmar	Epitopix LLC, Willmar	1.0
+498	60303400	United States	Cambridge	true	60304292	United States	Cambridge	true	Good Start Genetics, Inc., Cambridge	Good Start Genetics Inc., Cambridge	1.0
+499	60304292	United States	Cambridge	true	60303400	United States	Cambridge	true	Good Start Genetics Inc., Cambridge	Good Start Genetics, Inc., Cambridge	1.0
+500	60319496	United States	Morrisville	true	60310855	United States	Morrisville	true	Locus Biosciences, Inc, Morrisville	Locus Biosciences, Inc., Morrisville	1.0
+501	60310855	United States	Morrisville	true	60319496	United States	Morrisville	true	Locus Biosciences, Inc., Morrisville	Locus Biosciences, Inc, Morrisville	1.0
+502	60013823	Spain	Madrid	true	60016890	Spain	Madrid	true	Maternal and child Hospital, Madrid	Maternal and child Hospital, Madrid	1.0
+503	60016890	Spain	Madrid	true	60013823	Spain	Madrid	true	Maternal and child Hospital, Madrid	Maternal and child Hospital, Madrid	1.0
+504	60305223	United States	Pittsburgh	false	60312079	United States	Pittsburgh	true	Plextronics, Inc., Pittsburgh	Plextronics, Pittsburgh	1.0
+505	60312079	United States	Pittsburgh	true	60305223	United States	Pittsburgh	false	Plextronics, Pittsburgh	Plextronics, Inc., Pittsburgh	1.0
+506	60304702	United States	Eden Prairie	true	60082837	United States	Eden Prairie	true	Surmodics, Inc., Eden Prairie	SurModics, Inc., Eden Prairie	1.0
+507	60082837	United States	Eden Prairie	true	60304702	United States	Eden Prairie	true	SurModics, Inc., Eden Prairie	Surmodics, Inc., Eden Prairie	1.0
+508	60234358	Israel	Ramat Gan	false	60106789	Israel	Ramat Gan	false	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	1.0
+509	60106789	Israel	Ramat Gan	false	60234358	Israel	Ramat Gan	false	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	Bar Ilan's Institute for Nanotechnology and Advanced Materials, Ramat Gan	1.0
+510	60295418	United States	Pittsburgh	true	60011920	United States	Pittsburgh	true	Cellomics Inc., Pittsburgh	Cellomics, Inc., Pittsburgh	1.0
+511	60011920	United States	Pittsburgh	true	60295418	United States	Pittsburgh	true	Cellomics, Inc., Pittsburgh	Cellomics Inc., Pittsburgh	1.0
+512	60109552	Italy	Lecce	true	60105809	Italy	Lecce	true	CNR-Nanotec, Lecce, Lecce	CNR-Nanotec, Lecce	1.0
+513	60105809	Italy	Lecce	true	60109552	Italy	Lecce	true	CNR-Nanotec, Lecce	CNR-Nanotec, Lecce, Lecce	1.0
+514	60301725	United States	Sarasota	true	60294221	United States	Sarasota	true	DNAPrint Genomics Inc., Sarasota	DNAPrint Genomics, Inc., Sarasota	1.0
+515	60294221	United States	Sarasota	true	60301725	United States	Sarasota	true	DNAPrint Genomics, Inc., Sarasota	DNAPrint Genomics Inc., Sarasota	1.0
+516	60327361	United States	Boston	true	60312793	United States	Boston	true	Embark Veterinary, Inc., Boston	Embark Veterinary, Inc, Boston	1.0
+517	60312793	United States	Boston	true	60327361	United States	Boston	true	Embark Veterinary, Inc, Boston	Embark Veterinary, Inc., Boston	1.0
+518	60313210	United States	Waltham	true	60028414	United States	Waltham	false	GelTex Pharmaceuticals Inc., Waltham	GelTex Pharmaceuticals, Inc., Waltham	1.0
+519	60028414	United States	Waltham	false	60313210	United States	Waltham	true	GelTex Pharmaceuticals, Inc., Waltham	GelTex Pharmaceuticals Inc., Waltham	1.0
+520	60122480	United States	Brentwood	true	60298582	United States	Brentwood	true	LifePoint Health, Inc., Brentwood	Lifepoint Health, Inc, Brentwood	1.0
+521	60304625	United States	Ivyland	true	60295040	United States	Ivyland	true	Lifelens Technologies, Inc., Ivyland	LifeLens Technologies, Inc, Ivyland	1.0
+522	60298582	United States	Brentwood	true	60122480	United States	Brentwood	true	Lifepoint Health, Inc, Brentwood	LifePoint Health, Inc., Brentwood	1.0
+523	60295040	United States	Ivyland	true	60304625	United States	Ivyland	true	LifeLens Technologies, Inc, Ivyland	Lifelens Technologies, Inc., Ivyland	1.0
+524	60298252	United States	Greenwood Village	true	60098680	United States	Greenwood Village	true	Molycorp Minerals LLC, Greenwood Village	Molycorp Minerals, LLC, Greenwood Village	1.0
+525	60098680	United States	Greenwood Village	true	60298252	United States	Greenwood Village	true	Molycorp Minerals, LLC, Greenwood Village	Molycorp Minerals LLC, Greenwood Village	1.0
+526	60314692	United States	New York	true	60318203	United States	New York	true	Multex.com, Inc., New York	Multex Com Inc, New York	1.0
+527	60318203	United States	New York	true	60314692	United States	New York	true	Multex Com Inc, New York	Multex.com, Inc., New York	1.0
+528	60116396	Germany	Berlin	true	60309027	Germany	Berlin	true	nanofluor GmbH, Berlin	Nanofluor GmbH, Berlin	1.0
+529	60309027	Germany	Berlin	true	60116396	Germany	Berlin	true	Nanofluor GmbH, Berlin	nanofluor GmbH, Berlin	1.0
+530	60311263	United States	Pasadena	true	60308889	United States	Pasadena	true	Nanostream Inc., Pasadena	Nanostream, Inc., Pasadena	1.0
+531	60318217	United States	Troy	true	60295099	United States	Troy	true	NanoPharmaceuticals LLC, Troy	Nanopharmaceuticals LLC, Troy	1.0
+532	60311252	China	Nanchang	true	60300139	China	Nanchang	true	Nanchang Virtual Reality Institute Co., Ltd., Nanchang	Nanchang Institute of Virtual Reality Co., Ltd., Nanchang	1.0
+533	60308889	United States	Pasadena	true	60311263	United States	Pasadena	true	Nanostream, Inc., Pasadena	Nanostream Inc., Pasadena	1.0
+534	60295099	United States	Troy	true	60318217	United States	Troy	true	Nanopharmaceuticals LLC, Troy	NanoPharmaceuticals LLC, Troy	1.0
+535	60300139	China	Nanchang	true	60311252	China	Nanchang	true	Nanchang Institute of Virtual Reality Co., Ltd., Nanchang	Nanchang Virtual Reality Institute Co., Ltd., Nanchang	1.0
+536	60117303	India	Chandigarh	false	60022458	India	Chandigarh	true	PEC University of Technology, Chandigarh	PEC University of Technology, Chandigarh	1.0
+537	60022458	India	Chandigarh	true	60117303	India	Chandigarh	false	PEC University of Technology, Chandigarh	PEC University of Technology, Chandigarh	1.0
+538	60304082	United Kingdom	Oldbury	true	60302358	United Kingdom	Oldbury	false	Rhodia Consumer Specialties Ltd., Oldbury	Rhodia Consumer Specialties Ltd, Oldbury	1.0
+539	60317654	United States	Collegeville	true	60011531	United States	Collegeville	false	Rhone-Poulenc Rorer, Collegeville	Rhone-Poulenc Rorer Inc, Collegeville	1.0
+540	60302358	United Kingdom	Oldbury	false	60304082	United Kingdom	Oldbury	true	Rhodia Consumer Specialties Ltd, Oldbury	Rhodia Consumer Specialties Ltd., Oldbury	1.0
+541	60011531	United States	Collegeville	false	60317654	United States	Collegeville	true	Rhone-Poulenc Rorer Inc, Collegeville	Rhone-Poulenc Rorer, Collegeville	1.0
+542	60311937	United Kingdom	London	true	60297968	United Kingdom	London	true	Thorn EMI Plc, London	Thorn EMI plc, London	1.0
+543	60297968	United Kingdom	London	true	60311937	United Kingdom	London	true	Thorn EMI plc, London	Thorn EMI Plc, London	1.0
+544	60311718	Japan	Chigasaki	true	60091368	Japan	Chigasaki	true	Ulvac-Phi, Chigasaki	ULVAC-PHI, Inc., Chigasaki	1.0
+545	60091368	Japan	Chigasaki	true	60311718	Japan	Chigasaki	true	ULVAC-PHI, Inc., Chigasaki	Ulvac-Phi, Chigasaki	1.0
+546	60159943	Japan	Tokyo	true	60159885	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+547	60159943	Japan	Tokyo	true	60159972	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+548	60159943	Japan	Tokyo	true	60162039	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+549	60159943	Japan	Tokyo	true	60159892	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+550	60159885	Japan	Tokyo	true	60159943	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+551	60159885	Japan	Tokyo	true	60159972	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+552	60159885	Japan	Tokyo	true	60162039	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+553	60159885	Japan	Tokyo	true	60159892	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+554	60170393	Japan	Tokyo	true	60175937	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+555	60170393	Japan	Tokyo	true	60165540	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+556	60170393	Japan	Tokyo	true	60172623	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+557	60170393	Japan	Tokyo	true	60178602	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+558	60170393	Japan	Tokyo	true	60165243	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+559	60165287	Japan	Sapporo	true	60171692	Japan	Sapporo	true	Graduate School of Medicine, Sapporo	Graduate School of Medicine, Sapporo	1.0
+560	60175937	Japan	Tokyo	true	60170393	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+561	60175937	Japan	Tokyo	true	60165540	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+562	60175937	Japan	Tokyo	true	60172623	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+563	60175937	Japan	Tokyo	true	60178602	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+564	60175937	Japan	Tokyo	true	60165243	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+565	60165540	Japan	Tokyo	true	60170393	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+566	60165540	Japan	Tokyo	true	60175937	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+567	60165540	Japan	Tokyo	true	60172623	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+568	60165540	Japan	Tokyo	true	60178602	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+569	60165540	Japan	Tokyo	true	60165243	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+570	60171692	Japan	Sapporo	true	60165287	Japan	Sapporo	true	Graduate School of Medicine, Sapporo	Graduate School of Medicine, Sapporo	1.0
+571	60171739	Japan	Kyoto	true	60119317	Japan	Kyoto	true	Graduate School of Medicine, Kyoto	Graduate School of Medicine, Kyoto	1.0
+572	60172623	Japan	Tokyo	true	60170393	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+573	60172623	Japan	Tokyo	true	60175937	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+574	60172623	Japan	Tokyo	true	60165540	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+575	60172623	Japan	Tokyo	true	60178602	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+576	60172623	Japan	Tokyo	true	60165243	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+577	60159972	Japan	Tokyo	true	60159943	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+578	60159972	Japan	Tokyo	true	60159885	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+579	60159972	Japan	Tokyo	true	60162039	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+580	60159972	Japan	Tokyo	true	60159892	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+581	60178602	Japan	Tokyo	true	60170393	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+582	60178602	Japan	Tokyo	true	60175937	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+583	60178602	Japan	Tokyo	true	60165540	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+584	60178602	Japan	Tokyo	true	60172623	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+585	60178602	Japan	Tokyo	true	60165243	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+586	60162039	Japan	Tokyo	true	60159943	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+587	60162039	Japan	Tokyo	true	60159885	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+588	60162039	Japan	Tokyo	true	60159972	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+589	60162039	Japan	Tokyo	true	60159892	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+590	60159892	Japan	Tokyo	true	60159943	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+591	60159892	Japan	Tokyo	true	60159885	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+592	60159892	Japan	Tokyo	true	60159972	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+593	60159892	Japan	Tokyo	true	60162039	Japan	Tokyo	true	Graduate School of Business Administration, Tokyo	Graduate School of Business Administration, Tokyo	1.0
+594	60165243	Japan	Tokyo	true	60170393	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+595	60165243	Japan	Tokyo	true	60175937	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+596	60165243	Japan	Tokyo	true	60165540	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+597	60165243	Japan	Tokyo	true	60172623	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+598	60165243	Japan	Tokyo	true	60178602	Japan	Tokyo	true	Graduate School of Medicine, Tokyo	Graduate School of Medicine, Tokyo	1.0
+599	60119317	Japan	Kyoto	true	60171739	Japan	Kyoto	true	Graduate School of Medicine, Kyoto	Graduate School of Medicine, Kyoto	1.0
+600	60120844	South Korea	Seoul	true	60211547	South Korea	Seoul	true	Graduate School of Business, Seoul	Graduate School of Business, Seoul	1.0
+601	60117268	Canada	Edmonton	false	60025926	Canada	Edmonton	true	Grant MacEwan College, Edmonton	Grant MacEwan College, Edmonton	1.0
+602	60009695	Not Define (xd)		true	60028150	Not Define (xd)		true	Graduate School of Engineering Science, 	Graduate School of Science and Engineering, 	1.0
+603	60025926	Canada	Edmonton	true	60117268	Canada	Edmonton	false	Grant MacEwan College, Edmonton	Grant MacEwan College, Edmonton	1.0
+604	60028150	Not Define (xd)		true	60009695	Not Define (xd)		true	Graduate School of Science and Engineering, 	Graduate School of Engineering Science, 	1.0
+605	60211547	South Korea	Seoul	true	60211700	South Korea	Seoul	true	Graduate School of Business Administration, Seoul	Graduate School of Business Administration, Seoul	1.0
+606	60211547	South Korea	Seoul	true	60120844	South Korea	Seoul	true	Graduate School of Business, Seoul	Graduate School of Business, Seoul	1.0
+607	60211700	South Korea	Seoul	true	60211547	South Korea	Seoul	true	Graduate School of Business Administration, Seoul	Graduate School of Business Administration, Seoul	1.0
+608	60071078	Sri Lanka	Colombo	false	60071074	Sri Lanka	Colombo	true	University of Sri Lanka, Colombo	University of Colombo, Sri Lanka, Colombo	1.0
+609	60072939	United States Virgin Islands	St. Croix	true	60073269	United States Virgin Islands	St. Croix	true	University of the Virgin Islands, St. Croix	University of the Virgin Islands St. Croix, St. Croix	1.0
+610	60073269	United States Virgin Islands	St. Croix	true	60072939	United States Virgin Islands	St. Croix	true	University of the Virgin Islands St. Croix, St. Croix	University of the Virgin Islands, St. Croix	1.0
+611	60072941	Fiji	Suva	true	60072022	Fiji	Suva	true	University of the South Pacific Suva, Suva	University of the South Pacific, Suva	1.0
+612	60072022	Fiji	Suva	true	60072941	Fiji	Suva	true	University of the South Pacific, Suva	University of the South Pacific Suva, Suva	1.0
+613	60069401	Indonesia	Bandar Lampung	true	60270040	Indonesia	Bandar Lampung	true	Universitas Lampung, Bandar Lampung	Universitas Bandar Lampung, Bandar Lampung	1.0
+614	60071074	Sri Lanka	Colombo	true	60071078	Sri Lanka	Colombo	false	University of Colombo, Sri Lanka, Colombo	University of Sri Lanka, Colombo	1.0
+615	60032588	United States	Reno	true	60007885	United States	Reno	true	University Nevada Cooperative Extension Reno, Reno	University of Nevada Cooperative Extension, Reno	1.0
+616	60172309	United Kingdom	Derby	true	60172939	United Kingdom	Derby	false	University Hospitals of Derby and Burton NHS Foundation Trust, Derby	University Hospitals and Derby and Burton NHS Foundation Trust, Derby	1.0
+617	60172939	United Kingdom	Derby	false	60172309	United Kingdom	Derby	true	University Hospitals and Derby and Burton NHS Foundation Trust, Derby	University Hospitals of Derby and Burton NHS Foundation Trust, Derby	1.0
+618	60170292	Morocco	Casablanca	true	60291713	Morocco	Casablanca	false	Université Mohammed VI des Sciences et de la Santé (UM6SS), Casablanca	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	1.0
+619	60170292	Morocco	Casablanca	true	60291713	Morocco	Casablanca	false	Université Mohammed VI des Sciences et de la Santé, Casablanca	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	0.9534625892455924
+620	60138276	France	Clermont-Ferrand	true	60004135	France	Clermont-Ferrand	false	University of Clermont Auvergne, Clermont-Ferrand	University of Auvergne, Clermont-Ferrand	1.0
+621	60279331	Indonesia	Padang	true	60289933	Indonesia	Padang	false	Universitas Islam Negeri Imam Bonjol Padang, Padang	Universitas Islam Negeri Imam Bonjol, Padang	1.0
+622	60279331	Indonesia	Padang	true	60289933	Indonesia	Padang	false	Universitas Islam Negeri Imam Bonjol Padang, Padang	Universitas Islam Negeri Imam Bonjol Padang, Padang	1.0
+623	60270040	Indonesia	Bandar Lampung	true	60069401	Indonesia	Bandar Lampung	true	Universitas Bandar Lampung, Bandar Lampung	Universitas Lampung, Bandar Lampung	1.0
+624	60118536	Oman	Muscat	true	60281124	Oman	Muscat	true	University of Technology and Applied Sciences Muscat, Muscat	University of Technology and Applied Sciences, Muscat	1.0
+625	60118536	Oman	Muscat	true	60281124	Oman	Muscat	true	University of Technology and Applied Sciences-Muscat, Muscat	University of Technology and Applied Sciences, Muscat	1.0
+626	60304214	United States	Atlanta	true	60031233	United States	Atlanta	true	United Parcel Service Inc, Atlanta	United Parcel Service, Atlanta	1.0
+627	60289933	Indonesia	Padang	false	60279331	Indonesia	Padang	true	Universitas Islam Negeri Imam Bonjol, Padang	Universitas Islam Negeri Imam Bonjol Padang, Padang	1.0
+628	60289933	Indonesia	Padang	false	60279331	Indonesia	Padang	true	Universitas Islam Negeri Imam Bonjol Padang, Padang	Universitas Islam Negeri Imam Bonjol Padang, Padang	1.0
+629	60281124	Oman	Muscat	true	60118536	Oman	Muscat	true	University of Technology and Applied Sciences, Muscat	University of Technology and Applied Sciences Muscat, Muscat	1.0
+630	60281124	Oman	Muscat	true	60118536	Oman	Muscat	true	University of Technology and Applied Sciences, Muscat	University of Technology and Applied Sciences-Muscat, Muscat	1.0
+631	60291713	Morocco	Casablanca	false	60170292	Morocco	Casablanca	true	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	Université Mohammed VI des Sciences et de la Santé (UM6SS), Casablanca	1.0
+632	60291713	Morocco	Casablanca	false	60170292	Morocco	Casablanca	true	Université Mohammed VI des Sciences et de la Santé – UM6SS, Casablanca	Université Mohammed VI des Sciences et de la Santé, Casablanca	0.9534625892455924
+633	60280861	Germany	Landau	false	60280751	Germany	Koblenz	false	University of Koblenz-Landau Landau Campus, Landau	University of Koblenz-Landau Koblenz Campus, Koblenz	1.0
+634	60280861	Germany	Landau	false	60280751	Germany	Koblenz	false	Universität Koblenz-Landau Landau Campus, Landau	Universität Koblenz-Landau Koblenz Campus, Koblenz	1.0
+635	60280026	United States	Reno	false	60006873	United States	Reno	true	University of Nevada School of Medicine, Reno	University of Nevada, Reno School of Medicine, Reno	1.0
+636	60280751	Germany	Koblenz	false	60280861	Germany	Landau	false	University of Koblenz-Landau Koblenz Campus, Koblenz	University of Koblenz-Landau Landau Campus, Landau	1.0
+637	60280751	Germany	Koblenz	false	60280861	Germany	Landau	false	Universität Koblenz-Landau Koblenz Campus, Koblenz	Universität Koblenz-Landau Landau Campus, Landau	1.0
+638	60009742	United States	Burlington	true	60000856	United States	Burlington	false	University of Vermont Medical Center, Burlington	University of Vermont Medical Center, Burlington	1.0
+639	60007572	Chile	Osorno	true	60029954	Chile	Osorno	false	Universidad de Los Lagos, Osorno	Universidad de Los Lagos, Osorno, Osorno	1.0
+640	60007885	United States	Reno	true	60032588	United States	Reno	true	University of Nevada Cooperative Extension, Reno	University Nevada Cooperative Extension Reno, Reno	1.0
+641	60012683	Chile	Concepcion	false	60023195	Chile	Concepcion	true	Universidad del Bio Bio, Concepcion, Concepcion	Universidad del Bio Bio, Concepcion	1.0
+642	60006873	United States	Reno	true	60280026	United States	Reno	false	University of Nevada, Reno School of Medicine, Reno	University of Nevada School of Medicine, Reno	1.0
+643	60000856	United States	Burlington	false	60009742	United States	Burlington	true	University of Vermont Medical Center, Burlington	University of Vermont Medical Center, Burlington	1.0
+644	60004135	France	Clermont-Ferrand	false	60138276	France	Clermont-Ferrand	true	University of Auvergne, Clermont-Ferrand	University of Clermont Auvergne, Clermont-Ferrand	1.0
+645	60012464	Chile	Santiago	true	60023383	Chile	Santiago	true	Universidad de Chile, Santiago	Universidad de Santiago de Chile, Santiago	1.0
+646	60012464	Chile	Santiago	true	60023383	Chile	Santiago	true	University of Chile, Santiago	University of Santiago, Chile, Santiago	1.0
+647	60023383	Chile	Santiago	true	60012464	Chile	Santiago	true	Universidad de Santiago de Chile, Santiago	Universidad de Chile, Santiago	1.0
+648	60023383	Chile	Santiago	true	60012464	Chile	Santiago	true	University of Santiago, Chile, Santiago	University of Chile, Santiago	1.0
+649	60017053	United States	Missoula	true	60022355	United States	Missoula	true	University of Montana Missoula, Missoula	University of Montana, Missoula	1.0
+650	60023195	Chile	Concepcion	true	60012683	Chile	Concepcion	false	Universidad del Bio Bio, Concepcion	Universidad del Bio Bio, Concepcion, Concepcion	1.0
+651	60029954	Chile	Osorno	false	60007572	Chile	Osorno	true	Universidad de Los Lagos, Osorno, Osorno	Universidad de Los Lagos, Osorno	1.0
+652	60031233	United States	Atlanta	true	60304214	United States	Atlanta	true	United Parcel Service, Atlanta	United Parcel Service Inc, Atlanta	1.0
+653	60022355	United States	Missoula	true	60017053	United States	Missoula	true	University of Montana, Missoula	University of Montana Missoula, Missoula	1.0
+654	60071963	Azerbaijan	Baku	false	60071962	Azerbaijan	Baku	true	Azerbaijan Medical University, Baku	Azerbaijan Medical University, Baku	1.0
+655	60071962	Azerbaijan	Baku	true	60071963	Azerbaijan	Baku	false	Azerbaijan Medical University, Baku	Azerbaijan Medical University, Baku	1.0
+656	60312460	United States	Pittsboro	true	60310831	United States	Pittsboro	true	Biolex Therapeutics, Inc., Pittsboro	Biolex Therapeutics Inc, Pittsboro	1.0
+657	60298943	China	Guangzhou	true	60311427	China	Guangzhou	true	Bio-Thera Solutions, Ltd., Guangzhou	Bio-Thera Solutions Ltd., Guangzhou	1.0
+658	60310831	United States	Pittsboro	true	60312460	United States	Pittsboro	true	Biolex Therapeutics Inc, Pittsboro	Biolex Therapeutics, Inc., Pittsboro	1.0
+659	60297305	Portugal	Cantanhede	true	60307500	Portugal	Cantanhede	true	Biomimetx S.A., Cantanhede	BioMimetx S.A., Cantanhede	1.0
+660	60311427	China	Guangzhou	true	60298943	China	Guangzhou	true	Bio-Thera Solutions Ltd., Guangzhou	Bio-Thera Solutions, Ltd., Guangzhou	1.0
+661	60309689	Germany	Potsdam	true	60294915	Germany	Potsdam	true	Biotx.ai, GmbH, Potsdam	biotx.ai GmbH, Potsdam	1.0
+662	60307500	Portugal	Cantanhede	true	60297305	Portugal	Cantanhede	true	BioMimetx S.A., Cantanhede	Biomimetx S.A., Cantanhede	1.0
+663	60294915	Germany	Potsdam	true	60309689	Germany	Potsdam	true	biotx.ai GmbH, Potsdam	Biotx.ai, GmbH, Potsdam	1.0
+664	60306625	Germany	Weil am Rhein	false	60300443	Germany	Weil am Rhein	true	Conductix-Wampfler GmbH, Weil am Rhein	Conductix-Wampfler Gmbh, Weil am Rhein	1.0
+665	60341931	Netherlands	Amsterdam	true	60328239	Netherlands	Amsterdam	true	Confocal NL, Amsterdam	Confocal.nl, Amsterdam	1.0
+666	60300443	Germany	Weil am Rhein	true	60306625	Germany	Weil am Rhein	false	Conductix-Wampfler Gmbh, Weil am Rhein	Conductix-Wampfler GmbH, Weil am Rhein	1.0
+667	60328239	Netherlands	Amsterdam	true	60341931	Netherlands	Amsterdam	true	Confocal.nl, Amsterdam	Confocal NL, Amsterdam	1.0
+668	60109328	Iran	Tehran	true	60112585	Iran	Tehran	true	Endocrine Research Center, Tehran	Endocrine Research Center, Tehran	1.0
+669	60112585	Iran	Tehran	true	60109328	Iran	Tehran	true	Endocrine Research Center, Tehran	Endocrine Research Center, Tehran	1.0
+670	60306853	South Korea	Anyang	true	60298861	South Korea	Anyang	true	HaplnScience Inc, Anyang	Haplnscience Inc., Anyang	1.0
+671	60298861	South Korea	Anyang	true	60306853	South Korea	Anyang	true	Haplnscience Inc., Anyang	HaplnScience Inc, Anyang	1.0
+672	60070557	Kenya	Nairobi	true	60120514	Kenya	Nairobi	true	Save the Elephants Nairobi, Nairobi	Save the Elephants, Nairobi	1.0
+673	60120514	Kenya	Nairobi	true	60070557	Kenya	Nairobi	true	Save the Elephants, Nairobi	Save the Elephants Nairobi, Nairobi	1.0
+674	60310540	China	Qufu	true	60311292	China	Qufu	true	Shandong Donghong Pipe Industry Co., Ltd., Qufu	Shandong Donghong Pipe Industry Co., Ltd, Qufu	1.0
+675	60311292	China	Qufu	true	60310540	China	Qufu	true	Shandong Donghong Pipe Industry Co., Ltd, Qufu	Shandong Donghong Pipe Industry Co., Ltd., Qufu	1.0
+676	60309318	China	Shanghai	true	60311297	China	Shanghai	true	Shanghai Weipu Chemical Technology Service Co., Ltd., Shanghai	Shanghai WEIPU Chemical Technology Service Co., Ltd., Shanghai	1.0
+677	60311297	China	Shanghai	true	60309318	China	Shanghai	true	Shanghai WEIPU Chemical Technology Service Co., Ltd., Shanghai	Shanghai Weipu Chemical Technology Service Co., Ltd., Shanghai	1.0
+678	60297217	United States	Walnut Creek	true	60298690	United States	Walnut Creek	true	Sloiron Inc, Walnut Creek	Sloiron, Inc., Walnut Creek	1.0
+679	60298690	United States	Walnut Creek	true	60297217	United States	Walnut Creek	true	Sloiron, Inc., Walnut Creek	Sloiron Inc, Walnut Creek	1.0
+680	60118054	Netherlands	Delft	true	60118239	Netherlands	Delft	false	TU Delft Library, Delft	TU Delft Library., Delft	1.0
+681	60118239	Netherlands	Delft	false	60118054	Netherlands	Delft	true	TU Delft Library., Delft	TU Delft Library, Delft	1.0
+682	60300433	China	Chongqing	true	60306643	China	Chongqing	true	Chongqing Genrix Biopharmaceutical Co Ltd, Chongqing	Chongqing Genrix Biopharmaceutical Co., Ltd, Chongqing	1.0
+683	60301684	China	Chongqing	true	60302178	China	Chongqing	true	Chongqing Ruiyun Technology co., ltd., Chongqing	Chongqing Ruiyun Technology Co., Ltd., Chongqing	1.0
+684	60306643	China	Chongqing	true	60300433	China	Chongqing	true	Chongqing Genrix Biopharmaceutical Co., Ltd, Chongqing	Chongqing Genrix Biopharmaceutical Co Ltd, Chongqing	1.0
+685	60302178	China	Chongqing	true	60301684	China	Chongqing	true	Chongqing Ruiyun Technology Co., Ltd., Chongqing	Chongqing Ruiyun Technology co., ltd., Chongqing	1.0
+686	60004715	United States	Redlands	true	60297983	United States	Redlands	true	ESRI, Redlands	Esri, Redlands	1.0
+687	60297983	United States	Redlands	true	60004715	United States	Redlands	true	Esri, Redlands	ESRI, Redlands	1.0
+688	60078277	United States	Southfield	true	60293654	United States	Southfield	true	Federal-Mogul Corporation, Southfield	Federal Mogul Corporation, Southfield	1.0
+689	60293654	United States	Southfield	true	60078277	United States	Southfield	true	Federal Mogul Corporation, Southfield	Federal-Mogul Corporation, Southfield	1.0
+690	60112357	United States	New York	false	60318509	United States	New York	true	L3 Technologies, Inc., New York	L3 Technologies, New York	1.0
+691	60318509	United States	New York	true	60112357	United States	New York	false	L3 Technologies, New York	L3 Technologies, Inc., New York	1.0
+692	60295571	United States	San Jose	true	60319064	United States	San Jose	true	Light Field Lab, Inc., San Jose	Light Field Lab, San Jose	1.0
+693	60319064	United States	San Jose	true	60295571	United States	San Jose	true	Light Field Lab, San Jose	Light Field Lab, Inc., San Jose	1.0
+694	60073346	France	Chatillon	true	60106223	France	Chatillon	false	Microstructure Study Laboratory, Chatillon	Microstructure Study Laboratory, Chatillon	1.0
+695	60106223	France	Chatillon	false	60073346	France	Chatillon	true	Microstructure Study Laboratory, Chatillon	Microstructure Study Laboratory, Chatillon	1.0
+696	60296916	China	Nanjing	true	60311155	China	Nanjing	true	PharmaBlock Sciences (Nanjing), Inc., Nanjing	PharmaBlock Sciences (Nanjing) Inc., Nanjing	1.0
+697	60311155	China	Nanjing	true	60296916	China	Nanjing	true	PharmaBlock Sciences (Nanjing) Inc., Nanjing	PharmaBlock Sciences (Nanjing), Inc., Nanjing	1.0
+698	60136555	United States	Providence	false	60021025	United States	Providence	true	Providence VA Medical Center, Providence	Providence VA Medical Center, Providence	1.0
+699	60118653	United Kingdom	Cambridge	true	60303079	United Kingdom	Cambridge	true	PROWLER.io Limited, Cambridge	Prowler.io Limited, Cambridge	1.0
+700	60021025	United States	Providence	true	60136555	United States	Providence	false	Providence VA Medical Center, Providence	Providence VA Medical Center, Providence	1.0
+701	60310692	United States	Reno	true	60309297	United States	Reno	true	ProThera, Reno	ProThera, Inc., Reno	1.0
+702	60309297	United States	Reno	true	60310692	United States	Reno	true	ProThera, Inc., Reno	ProThera, Reno	1.0
+703	60303079	United Kingdom	Cambridge	true	60118653	United Kingdom	Cambridge	true	Prowler.io Limited, Cambridge	PROWLER.io Limited, Cambridge	1.0
+704	60295335	United States	Kirkland	true	60090415	United States	Kirkland	true	ProteoTech Inc, Kirkland	ProteoTech, Inc., Kirkland	1.0
+705	60090415	United States	Kirkland	true	60295335	United States	Kirkland	true	ProteoTech, Inc., Kirkland	ProteoTech Inc, Kirkland	1.0
+706	60311282	China	Shanghai	true	60309302	China	Shanghai	true	Rajax Network Technology Co., Ltd., Shanghai	Rajax Network Technology Co., Ltd, Shanghai	1.0
+707	60309302	China	Shanghai	true	60311282	China	Shanghai	true	Rajax Network Technology Co., Ltd, Shanghai	Rajax Network Technology Co., Ltd., Shanghai	1.0
+708	60262981	China	Wuhan	true	60100208	China	Wuhan	false	Wuhan University of Engineering Science, Wuhan	Wuhan University of Science and Engineering, Wuhan	1.0
+709	60100208	China	Wuhan	false	60262981	China	Wuhan	true	Wuhan University of Science and Engineering, Wuhan	Wuhan University of Engineering Science, Wuhan	1.0
+710	60295438	United States	Bothell	true	60303365	United States	Bothell	true	Alder Biopharmaceuticals Inc., Bothell	Alder BioPharmaceuticals Inc, Bothell	1.0
+711	60303365	United States	Bothell	true	60295438	United States	Bothell	true	Alder BioPharmaceuticals Inc, Bothell	Alder Biopharmaceuticals Inc., Bothell	1.0
+712	60115000	United States	Greenwood Village	true	60296662	United States	Greenwood Village	true	American Medical Response, Inc., Greenwood Village	American Medical Response, Greenwood Village	1.0
+713	60296662	United States	Greenwood Village	true	60115000	United States	Greenwood Village	true	American Medical Response, Greenwood Village	American Medical Response, Inc., Greenwood Village	1.0
+714	60311416	China	Beijing	true	60308854	China	Beijing	true	Beijing Jingdong Qianshi Technology Co., Ltd., Beijing	Beijing Jingdong Qianshi Technology Co.,Ltd, Beijing	1.0
+715	60311417	China	Beijing	true	60299836	China	Beijing	true	Beijing Sankuai Online Technology Co., Ltd., Beijing	Beijing Sankuai Online Technology Co.,Ltd., Beijing	1.0
+716	60308854	China	Beijing	true	60311416	China	Beijing	true	Beijing Jingdong Qianshi Technology Co.,Ltd, Beijing	Beijing Jingdong Qianshi Technology Co., Ltd., Beijing	1.0
+717	60299836	China	Beijing	true	60311417	China	Beijing	true	Beijing Sankuai Online Technology Co.,Ltd., Beijing	Beijing Sankuai Online Technology Co., Ltd., Beijing	1.0
+718	60279372	Germany	Berlin	false	60028498	Germany	Berlin	true	Berlin University of Applied Sciences, Berlin	Berlin University of Applied Sciences, Berlin	1.0
+719	60028498	Germany	Berlin	true	60279372	Germany	Berlin	false	Berlin University of Applied Sciences, Berlin	Berlin University of Applied Sciences, Berlin	1.0
+720	60001499	Germany	Bremen	true	60111807	Germany	Bremen	false	Hochschule für Künste Bremen, Bremen	Hochschule für Künste, Bremen	1.0
+721	60111807	Germany	Bremen	false	60001499	Germany	Bremen	true	Hochschule für Künste, Bremen	Hochschule für Künste Bremen, Bremen	1.0
+722	60001588	Australia	North Sydney	false	60082306	Australia	North Sydney	true	NSW Health, North Sydney	NSW Health, North Sydney	1.0
+723	60082306	Australia	North Sydney	true	60001588	Australia	North Sydney	false	NSW Health, North Sydney	NSW Health, North Sydney	1.0
+724	60311501	United States	Denver	true	60309007	United States	Denver	true	RavenBrick LLC, Denver	Ravenbrick LLC, Denver	1.0
+725	60309007	United States	Denver	true	60311501	United States	Denver	true	Ravenbrick LLC, Denver	RavenBrick LLC, Denver	1.0
+726	60323772	China	Changsha	true	60320060	China	Changsha	true	State Grid Hunan Electric Power Co., Ltd., Changsha	State Grid Hunan Electric Power Co Ltd, Changsha	1.0
+727	60320060	China	Changsha	true	60323772	China	Changsha	true	State Grid Hunan Electric Power Co Ltd, Changsha	State Grid Hunan Electric Power Co., Ltd., Changsha	1.0
+728	60082437	Greece	Arta	true	60022692	Greece	Arta	true	Technological Educational Institute of Epirus, Arta	Technological Educational Institute of Epirus, Arta	1.0
+729	60022692	Greece	Arta	true	60082437	Greece	Arta	true	Technological Educational Institute of Epirus, Arta	Technological Educational Institute of Epirus, Arta	1.0
+730	60150236	United States	Athens	false	60134793	United States	Athens	true	Terry College of Business, Athens	Terry College of Business, Athens	1.0
+731	60134793	United States	Athens	true	60150236	United States	Athens	false	Terry College of Business, Athens	Terry College of Business, Athens	1.0
+732	60299831	Canada	Toronto	true	60310275	Canada	Toronto	false	AntlerA Therapeutics Inc., Toronto	Antlera Therapeutics Inc., Toronto	1.0
+733	60310275	Canada	Toronto	false	60299831	Canada	Toronto	true	Antlera Therapeutics Inc., Toronto	AntlerA Therapeutics Inc., Toronto	1.0
+734	60314712	United States	Lakewood	true	60313145	United States	Lakewood	true	COBE Laboratories, Inc, Lakewood	COBE Laboratories, Inc., Lakewood	1.0
+735	60313145	United States	Lakewood	true	60314712	United States	Lakewood	true	COBE Laboratories, Inc., Lakewood	COBE Laboratories, Inc, Lakewood	1.0
+736	60297112	United States	Oakland	true	60296846	United States	Oakland	true	Fabric Genomics, Inc., Oakland	Fabric Genomics Inc., Oakland	1.0
+737	60296846	United States	Oakland	true	60297112	United States	Oakland	true	Fabric Genomics Inc., Oakland	Fabric Genomics, Inc., Oakland	1.0
+738	60189588	Australia	Canberra	true	60189937	Australia	Canberra	true	The Canberra Business School, Canberra	The School of Business, Canberra	1.0
+739	60189937	Australia	Canberra	true	60189588	Australia	Canberra	true	The School of Business, Canberra	The Canberra Business School, Canberra	1.0
+740	60157982	Pakistan	Peshawar	false	60064800	Pakistan	Peshawar	true	The University of Agriculture, Peshawar, Peshawar	The University of Agriculture, Peshawar, Peshawar	1.0
+741	60064800	Pakistan	Peshawar	true	60157982	Pakistan	Peshawar	false	The University of Agriculture, Peshawar, Peshawar	The University of Agriculture, Peshawar, Peshawar	1.0
+742	60284770	Japan	Tokyo	false	60172569	Japan	Tokyo	false	Tokyo Medical and Dental University Medical Hospital, Tokyo	Tokyo Medical and Dental University, Dental Hospital, Tokyo	1.0
+743	60284770	Japan	Tokyo	false	60172569	Japan	Tokyo	false	Tokyo Medical and Dental University Medical Hospital, Tokyo	Tokyo Medical and Dental University Dental Hospital, Tokyo	1.0
+744	60284770	Japan	Tokyo	false	60283921	Japan	Tokyo	false	Tokyo Medical and Dental University Medical Hospital, Tokyo	Tokyo Medical and Dental University Hospital, Tokyo	1.0
+745	60283921	Japan	Tokyo	false	60172569	Japan	Tokyo	false	Tokyo Medical and Dental University Hospital, Tokyo	Tokyo Medical and Dental University, Dental Hospital, Tokyo	1.0
+746	60283921	Japan	Tokyo	false	60172569	Japan	Tokyo	false	Tokyo Medical and Dental University Hospital, Tokyo	Tokyo Medical and Dental University Dental Hospital, Tokyo	1.0
+747	60283921	Japan	Tokyo	false	60284770	Japan	Tokyo	false	Tokyo Medical and Dental University Hospital, Tokyo	Tokyo Medical and Dental University Medical Hospital, Tokyo	1.0
+748	60172569	Japan	Tokyo	false	60284770	Japan	Tokyo	false	Tokyo Medical and Dental University, Dental Hospital, Tokyo	Tokyo Medical and Dental University Medical Hospital, Tokyo	1.0
+749	60172569	Japan	Tokyo	false	60283921	Japan	Tokyo	false	Tokyo Medical and Dental University, Dental Hospital, Tokyo	Tokyo Medical and Dental University Hospital, Tokyo	1.0
+750	60172569	Japan	Tokyo	false	60284770	Japan	Tokyo	false	Tokyo Medical and Dental University Dental Hospital, Tokyo	Tokyo Medical and Dental University Medical Hospital, Tokyo	1.0
+751	60172569	Japan	Tokyo	false	60283921	Japan	Tokyo	false	Tokyo Medical and Dental University Dental Hospital, Tokyo	Tokyo Medical and Dental University Hospital, Tokyo	1.0
+752	60295444	United States	Watertown	true	60090419	United States	Watertown	true	Ambergen Inc., Watertown	AmberGen, Inc., Watertown	1.0
+753	60090419	United States	Watertown	true	60295444	United States	Watertown	true	AmberGen, Inc., Watertown	Ambergen Inc., Watertown	1.0
+754	60296678	United States	San Diego	true	60312338	United States	San Diego	true	Astute Medical, San Diego	Astute Medical Inc., San Diego	1.0
+755	60312338	United States	San Diego	true	60296678	United States	San Diego	true	Astute Medical Inc., San Diego	Astute Medical, San Diego	1.0
+756	60304501	United States	Los Angeles	true	60313576	United States	Los Angeles	true	CytRx Corporation, Los Angeles	Cytrx Corporation, Los Angeles	1.0
+757	60313576	United States	Los Angeles	true	60304501	United States	Los Angeles	true	Cytrx Corporation, Los Angeles	CytRx Corporation, Los Angeles	1.0
+758	60030997	United States	Rindge	true	60010765	United States	Rindge	true	Franklin Pierce College, Rindge	Franklin Pierce College Rindge, Rindge	1.0
+759	60010765	United States	Rindge	true	60030997	United States	Rindge	true	Franklin Pierce College Rindge, Rindge	Franklin Pierce College, Rindge	1.0
+760	60295047	United States	Sturgis	true	60299119	United States	Sturgis	true	Maggie's Pearl LLC, Sturgis	Maggie's Pearl, LLC, Sturgis	1.0
+761	60299119	United States	Sturgis	true	60295047	United States	Sturgis	true	Maggie's Pearl, LLC, Sturgis	Maggie's Pearl LLC, Sturgis	1.0
+762	60317570	United States	Round Rock	true	60318193	United States	Round Rock	false	Monolith Semiconductor Inc., Round Rock	Monolith Semiconductor, Round Rock	1.0
+763	60318193	United States	Round Rock	false	60317570	United States	Round Rock	true	Monolith Semiconductor, Round Rock	Monolith Semiconductor Inc., Round Rock	1.0
+764	60323912	United States	Sunnyvale	true	60320594	United States	Sunnyvale	true	Network Appliance, Inc., Sunnyvale	Network Appliance, inc., Sunnyvale	1.0
+765	60323916	United States	New Canaan	true	60320596	Canada	New Canaan	true	Network-1 Technologies, Inc., New Canaan	Network-1 Technologies Inc, New Canaan	1.0
+766	60320596	Canada	New Canaan	true	60323916	United States	New Canaan	true	Network-1 Technologies Inc, New Canaan	Network-1 Technologies, Inc., New Canaan	1.0
+767	60320594	United States	Sunnyvale	true	60323912	United States	Sunnyvale	true	Network Appliance, inc., Sunnyvale	Network Appliance, Inc., Sunnyvale	1.0
+768	60298785	United States	Irvine	true	60298786	United States	Irvine	true	Tensor Biosciences Inc., Irvine	Tensor Biosciences, Inc., Irvine	1.0
+769	60298786	United States	Irvine	true	60298785	United States	Irvine	true	Tensor Biosciences, Inc., Irvine	Tensor Biosciences Inc., Irvine	1.0
+770	60313596	Canada	Toronto	true	60324607	Canada	Toronto	true	1149336 Ontario Inc., Toronto	1149336 Ontario Inc, Toronto	1.0
+771	60324607	Canada	Toronto	true	60313596	Canada	Toronto	true	1149336 Ontario Inc, Toronto	1149336 Ontario Inc., Toronto	1.0
+772	60033080	United States	Long Beach	true	60029378	United States	Long Beach	true	Cal State, Long Beach	Cal State Long Beach, Long Beach	1.0
+773	60029378	United States	Long Beach	true	60033080	United States	Long Beach	true	Cal State Long Beach, Long Beach	Cal State, Long Beach	1.0
+774	60315126	United States	Princeton	true	60022340	United States	Princeton	false	David Sarnoff Research Center, Inc., Princeton	David Sarnoff Research Center, Princeton	1.0
+775	60022340	United States	Princeton	false	60315126	United States	Princeton	true	David Sarnoff Research Center, Princeton	David Sarnoff Research Center, Inc., Princeton	1.0
+776	60023439	United States	Reno	true	60003678	United States	Reno	true	Desert Research Institute, Reno	Desert Research Institute Reno, Reno	1.0
+777	60003678	United States	Reno	true	60023439	United States	Reno	true	Desert Research Institute Reno, Reno	Desert Research Institute, Reno	1.0
+778	60310782	United States	Durham	true	60298485	United States	Durham	true	Physcient Inc, Durham	Physcient, Inc., Durham	1.0
+779	60298485	United States	Durham	true	60310782	United States	Durham	true	Physcient, Inc., Durham	Physcient Inc, Durham	1.0
+780	60303234	United States	New York	true	60298280	United States	New York	true	Rasna Research, Inc., New York	Rasna Research Inc, New York	1.0
+781	60298280	United States	New York	true	60303234	United States	New York	true	Rasna Research Inc, New York	Rasna Research, Inc., New York	1.0
+782	60310542	China	Shenzhen	true	60309322	China	Shenzhen	true	Shenzhen Grand Powersource Co. Ltd, Shenzhen	Shenzhen Grand Powersource Co.,Ltd, Shenzhen	1.0
+783	60299749	China	Shenzhen	true	60309324	China	Shenzhen	true	Shenzhen Sensetime Technology Co., Ltd., Shenzhen	Shenzhen SenseTime Technology Co. Ltd, Shenzhen	1.0
+784	60299648	China	Shenzhen	true	60301329	China	Shenzhen	true	Shenzhen Niou Technology Co., Ltd., Shenzhen	Shenzhen Niou Technology Co., Ltd, Shenzhen	1.0
+785	60309322	China	Shenzhen	true	60310542	China	Shenzhen	true	Shenzhen Grand Powersource Co.,Ltd, Shenzhen	Shenzhen Grand Powersource Co. Ltd, Shenzhen	1.0
+786	60301329	China	Shenzhen	true	60299648	China	Shenzhen	true	Shenzhen Niou Technology Co., Ltd, Shenzhen	Shenzhen Niou Technology Co., Ltd., Shenzhen	1.0
+787	60309324	China	Shenzhen	true	60299749	China	Shenzhen	true	Shenzhen SenseTime Technology Co. Ltd, Shenzhen	Shenzhen Sensetime Technology Co., Ltd., Shenzhen	1.0
+788	60316378	United States	Ithaca	true	60099773	United States	Ithaca	true	Syracuse Bioanalytical, Ithaca	Syracuse Bioanalytical Inc., Ithaca	1.0
+789	60099773	United States	Ithaca	true	60316378	United States	Ithaca	true	Syracuse Bioanalytical Inc., Ithaca	Syracuse Bioanalytical, Ithaca	1.0
+790	60298779	United Kingdom	Cardiff	true	60311900	United Kingdom	Cardiff	true	Telonostix Ltd, Cardiff	TeloNostiX Ltd, Cardiff	1.0
+791	60311900	United Kingdom	Cardiff	true	60298779	United Kingdom	Cardiff	true	TeloNostiX Ltd, Cardiff	Telonostix Ltd, Cardiff	1.0
+792	60281541	Greece	Corfu	true	60281551	Greece	Corfu	true	Τμήμα Τουρισμού, Corfu	Τμημα Τεχνων Ηχου & Εικονας, Corfu	1.0
+793	60281541	Greece	Corfu	true	60281552	Greece	Corfu	true	Τμήμα Τουρισμού, Corfu	Τμήμα Μουσικών Σπουδών, Corfu	1.0
+794	60281541	Greece	Corfu	true	60281526	Greece	Corfu	true	Τμήμα Τουρισμού, Corfu	Σχολή Οικονομικών Επιστημών, Corfu	1.0
+795	60302705	United States	Redwood City	true	60297030	United States	Redwood City	true	Corcept Therapeutics Incorporated, Redwood City	Corcept Therapeutics, Incorporated, Redwood City	1.0
+796	60281551	Greece	Corfu	true	60281541	Greece	Corfu	true	Τμημα Τεχνων Ηχου & Εικονας, Corfu	Τμήμα Τουρισμού, Corfu	1.0
+797	60281551	Greece	Corfu	true	60281552	Greece	Corfu	true	Τμημα Τεχνων Ηχου & Εικονας, Corfu	Τμήμα Μουσικών Σπουδών, Corfu	1.0
+798	60281551	Greece	Corfu	true	60281526	Greece	Corfu	true	Τμημα Τεχνων Ηχου & Εικονας, Corfu	Σχολή Οικονομικών Επιστημών, Corfu	1.0
+799	60281552	Greece	Corfu	true	60281541	Greece	Corfu	true	Τμήμα Μουσικών Σπουδών, Corfu	Τμήμα Τουρισμού, Corfu	1.0
+800	60281552	Greece	Corfu	true	60281551	Greece	Corfu	true	Τμήμα Μουσικών Σπουδών, Corfu	Τμημα Τεχνων Ηχου & Εικονας, Corfu	1.0
+801	60281552	Greece	Corfu	true	60281526	Greece	Corfu	true	Τμήμα Μουσικών Σπουδών, Corfu	Σχολή Οικονομικών Επιστημών, Corfu	1.0
+802	60297030	United States	Redwood City	true	60302705	United States	Redwood City	true	Corcept Therapeutics, Incorporated, Redwood City	Corcept Therapeutics Incorporated, Redwood City	1.0
+803	60281526	Greece	Corfu	true	60281541	Greece	Corfu	true	Σχολή Οικονομικών Επιστημών, Corfu	Τμήμα Τουρισμού, Corfu	1.0
+804	60281526	Greece	Corfu	true	60281551	Greece	Corfu	true	Σχολή Οικονομικών Επιστημών, Corfu	Τμημα Τεχνων Ηχου & Εικονας, Corfu	1.0
+805	60281526	Greece	Corfu	true	60281552	Greece	Corfu	true	Σχολή Οικονομικών Επιστημών, Corfu	Τμήμα Μουσικών Σπουδών, Corfu	1.0
+806	60313585	South Korea	Seoul	true	60093580	South Korea	Seoul	true	Daewoong Pharmaceutical Co.,Ltd., Seoul	Daewoong Pharmaceutical Co., Ltd., Seoul	1.0
+807	60093580	South Korea	Seoul	true	60313585	South Korea	Seoul	true	Daewoong Pharmaceutical Co., Ltd., Seoul	Daewoong Pharmaceutical Co.,Ltd., Seoul	1.0
+808	60302188	China	Beijing	true	60293855	China	Beijing 	true	Datang Mobile Communications Equipment Co., Ltd, Beijing	Datang Mobile Communications Equipment Co., Ltd., Beijing 	1.0
+809	60293855	China	Beijing 	true	60302188	China	Beijing	true	Datang Mobile Communications Equipment Co., Ltd., Beijing 	Datang Mobile Communications Equipment Co., Ltd, Beijing	1.0
+810	60312817	United States	Rochester Hills	true	60019291	United States	Rochester Hills	true	Energy Conversion Devices, Inc., Rochester Hills	Energy Conversion Devices Inc, Rochester Hills	1.0
+811	60019291	United States	Rochester Hills	true	60312817	United States	Rochester Hills	true	Energy Conversion Devices Inc, Rochester Hills	Energy Conversion Devices, Inc., Rochester Hills	1.0
+812	60331497	Spain	Barcelona	true	60331041	Spain	Barcelona	true	Eodyne Systems S.L., Barcelona	Eodyne Systems S.L, Barcelona	1.0
+813	60331041	Spain	Barcelona	true	60331497	Spain	Barcelona	true	Eodyne Systems S.L, Barcelona	Eodyne Systems S.L., Barcelona	1.0
+814	60279331	Indonesia	Padang	true	60289933	Indonesia	Padang	false	Imam Bonjol State Islamic University Padang, Padang	Imam Bonjol Padang State Islamic University, Padang	1.0
+815	60289933	Indonesia	Padang	false	60279331	Indonesia	Padang	true	Imam Bonjol Padang State Islamic University, Padang	Imam Bonjol State Islamic University Padang, Padang	1.0
+816	60308780	United States	Boston	true	60298649	United States	Boston	true	Inozyme Pharma, Boston	Inozyme Pharma, Inc., Boston	1.0
+817	60298649	United States	Boston	true	60308780	United States	Boston	true	Inozyme Pharma, Inc., Boston	Inozyme Pharma, Boston	1.0
+818	60302067	South Korea	Jeju	true	60306687	South Korea	Jeju	true	Reviresco Co.,Ltd., Jeju	Reviresco Co., Ltd., Jeju	1.0
+819	60306687	South Korea	Jeju	true	60302067	South Korea	Jeju	true	Reviresco Co., Ltd., Jeju	Reviresco Co.,Ltd., Jeju	1.0
+820	60303434	United Kingdom	London	true	60306972	United Kingdom	London	true	Small Pharma Ltd., London	Small Pharma Ltd, London	1.0
+821	60306972	United Kingdom	London	true	60303434	United Kingdom	London	true	Small Pharma Ltd, London	Small Pharma Ltd., London	1.0
+822	60315679	China	Yining	true	60328589	China	Yining	true	Yili Chuanning Biotechnology Co., Ltd., Yining	Yili Chuanning Biotechnology Co Ltd, Yining	1.0
+823	60328589	China	Yining	true	60315679	China	Yining	true	Yili Chuanning Biotechnology Co Ltd, Yining	Yili Chuanning Biotechnology Co., Ltd., Yining	1.0
+824	60304371	United States	Santa Clara	true	60024780	United States	Santa Clara	true	Agilent Technologies, Inc., Santa Clara	Agilent Technologies, Santa Clara	1.0
+825	60024780	United States	Santa Clara	true	60304371	United States	Santa Clara	true	Agilent Technologies, Santa Clara	Agilent Technologies, Inc., Santa Clara	1.0
+826	60300515	Germany	Hennigsdorf	true	60299301	Germany	Hennigsdorf	true	B.R.A.H.M.S GmbH, Hennigsdorf	B·R·A·H·M·S GmbH, Hennigsdorf	1.0
+827	60299301	Germany	Hennigsdorf	true	60300515	Germany	Hennigsdorf	true	B·R·A·H·M·S GmbH, Hennigsdorf	B.R.A.H.M.S GmbH, Hennigsdorf	1.0
+828	60008787	United States	St. Louis	true	60300203	United States	St. Louis	true	Emerson Electric, St. Louis	Emerson Electric Co., St. Louis	1.0
+829	60300203	United States	St. Louis	true	60008787	United States	St. Louis	true	Emerson Electric Co., St. Louis	Emerson Electric, St. Louis	1.0
+830	60301273	China	Hangzhou	true	60299800	China	Hangzhou	true	Hangzhou Jianpei Technology Co., Ltd., Hangzhou	Hangzhou Jianpei Technology Co., Ltd, Hangzhou	1.0
+831	60299800	China	Hangzhou	true	60301273	China	Hangzhou	true	Hangzhou Jianpei Technology Co., Ltd, Hangzhou	Hangzhou Jianpei Technology Co., Ltd., Hangzhou	1.0
+832	60115293	Russia	Saint Petersburg (ex Leningrad)	false	60015662	Russia	Saint Petersburg (ex Leningrad)	true	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	1.0
+833	60070949	Russia	Saint Petersburg (ex Leningrad)	false	60069093	Russia	Saint Petersburg (ex Leningrad)	false	Lensovet Leningrad Technological Institute, Saint Petersburg (ex Leningrad)	Lensovet Technological Institute, Saint Petersburg (ex Leningrad)	1.0
+834	60069093	Russia	Saint Petersburg (ex Leningrad)	false	60070949	Russia	Saint Petersburg (ex Leningrad)	false	Lensovet Technological Institute, Saint Petersburg (ex Leningrad)	Lensovet Leningrad Technological Institute, Saint Petersburg (ex Leningrad)	1.0
+835	60015662	Russia	Saint Petersburg (ex Leningrad)	true	60115293	Russia	Saint Petersburg (ex Leningrad)	false	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	Leningrad State Pedagogical Institute, Saint Petersburg (ex Leningrad)	1.0
+836	60138508	United States	Gaithersburg	true	60322604	United States	Gaithersburg	true	Novavax, Inc., Gaithersburg	Novavax Inc, Gaithersburg	1.0
+837	60079818	United States	Atlanta	true	60295134	United States	Atlanta	true	Novelis, Atlanta	Novelis Inc., Atlanta	1.0
+838	60079818	United States	Atlanta	true	60295134	United States	Atlanta	true	Novelis, Inc., Atlanta	Novelis Inc., Atlanta	1.0
+839	60074646	United States	San Diego	false	60297650	United States	San Diego	true	NovaCardia Inc., San Diego	NovaCardia, Inc., San Diego	1.0
+840	60295134	United States	Atlanta	true	60079818	United States	Atlanta	true	Novelis Inc., Atlanta	Novelis, Atlanta	1.0
+841	60295134	United States	Atlanta	true	60079818	United States	Atlanta	true	Novelis Inc., Atlanta	Novelis, Inc., Atlanta	1.0
+842	60322598	United States	New York	true	60327454	United States	New York	true	Novita Pharmaceuticals, Inc., New York	Novita Pharmaceuticals, Inc, New York	1.0
+843	60322604	United States	Gaithersburg	true	60138508	United States	Gaithersburg	true	Novavax Inc, Gaithersburg	Novavax, Inc., Gaithersburg	1.0
+844	60327454	United States	New York	true	60322598	United States	New York	true	Novita Pharmaceuticals, Inc, New York	Novita Pharmaceuticals, Inc., New York	1.0
+845	60297657	United States	Franklinton	true	60299342	United States	Franklinton	true	Novozymes North America Inc, Franklinton	Novozymes North America, Inc., Franklinton	1.0
+846	60299342	United States	Franklinton	true	60297657	United States	Franklinton	true	Novozymes North America, Inc., Franklinton	Novozymes North America Inc, Franklinton	1.0
+847	60297650	United States	San Diego	true	60074646	United States	San Diego	false	NovaCardia, Inc., San Diego	NovaCardia Inc., San Diego	1.0
+848	60068701	South Korea	Icheon	false	60107918	South Korea	Icheon	true	SK Hynix Inc, Icheon	SK Hynix Inc., Icheon	1.0
+849	60107918	South Korea	Icheon	true	60068701	South Korea	Icheon	false	SK Hynix Inc., Icheon	SK Hynix Inc, Icheon	1.0
+850	60298995	United States	Mountain View	true	60114282	United States	Mountain View	false	Edison Pharmaceuticals Inc., Mountain View	Edison Pharmaceuticals, Inc., Mountain View	1.0
+851	60114282	United States	Mountain View	false	60298995	United States	Mountain View	true	Edison Pharmaceuticals, Inc., Mountain View	Edison Pharmaceuticals Inc., Mountain View	1.0
+852	60071652	Uzbekistan	Fergana	false	60225433	Uzbekistan	Fergana	false	Fergana Polytechnic Institute, Fergana	Fergana Polytechnic Institute, Fergana	1.0
+853	60225433	Uzbekistan	Fergana	false	60071652	Uzbekistan	Fergana	false	Fergana Polytechnic Institute, Fergana	Fergana Polytechnic Institute, Fergana	1.0
+854	60027633	United States	McMinnville	true	60012675	United States	McMinnville	true	Linfield College McMinnville, McMinnville	Linfield College, McMinnville	1.0
+855	60171760	United Kingdom	Lincoln	true	60172938	United Kingdom	Lincoln	false	Lincolnshire Partnership NHS Foundation Trust, Lincoln	Lincolnshire Partnership and NHS Foundation Trust, Lincoln	1.0
+856	60171759	United Kingdom	Lincoln	true	60172937	United Kingdom	Lincoln	false	Lincolnshire Community Health Services NHS Trust, Lincoln	Lincolnshire Community and Health Services NHS Trust, Lincoln	1.0
+857	60172937	United Kingdom	Lincoln	false	60171759	United Kingdom	Lincoln	true	Lincolnshire Community and Health Services NHS Trust, Lincoln	Lincolnshire Community Health Services NHS Trust, Lincoln	1.0
+858	60170158	United States	Lincoln	true	60006625	New Zealand	Lincoln	true	Lincoln University, Lincoln	Lincoln University, Lincoln	1.0
+859	60170158	United States	Lincoln	true	60005619	New Zealand	Lincoln	false	Lincoln College, Lincoln	Lincoln College, Lincoln	1.0
+860	60172938	United Kingdom	Lincoln	false	60171760	United Kingdom	Lincoln	true	Lincolnshire Partnership and NHS Foundation Trust, Lincoln	Lincolnshire Partnership NHS Foundation Trust, Lincoln	1.0
+861	60006625	New Zealand	Lincoln	true	60170158	United States	Lincoln	true	Lincoln University, Lincoln	Lincoln University, Lincoln	1.0
+862	60012675	United States	McMinnville	true	60027633	United States	McMinnville	true	Linfield College, McMinnville	Linfield College McMinnville, McMinnville	1.0
+863	60005619	New Zealand	Lincoln	false	60170158	United States	Lincoln	true	Lincoln College, Lincoln	Lincoln College, Lincoln	1.0
+864	60342738	Japan	Tokyo	false	60322545	Japan	Tokyo	true	Nisshinbo Industries, Inc., Tokyo	Nisshinbo Industries Inc, Tokyo	1.0
+865	60322545	Japan	Tokyo	true	60342738	Japan	Tokyo	false	Nisshinbo Industries Inc, Tokyo	Nisshinbo Industries, Inc., Tokyo	1.0
+866	60112336	India	Bhopal	true	60112414	India	Bhopal	true	People's University, Bhopal, Bhopal	People‘s University, Bhopal	1.0
+867	60112414	India	Bhopal	true	60112336	India	Bhopal	true	People‘s University, Bhopal	People's University, Bhopal, Bhopal	1.0
+868	60309298	United States	Palo Alto	true	60313351	United States	Palo Alto	true	PsiQuantum, Corp., Palo Alto	PsiQuantum, corp., Palo Alto	1.0
+869	60313351	United States	Palo Alto	true	60309298	United States	Palo Alto	true	PsiQuantum, corp., Palo Alto	PsiQuantum, Corp., Palo Alto	1.0
+870	60306724	United States	San Diego	true	60299241	United States	San Diego	true	Sun Genomics Inc., San Diego	Sun Genomics, Inc., San Diego	1.0
+871	60299241	United States	San Diego	true	60306724	United States	San Diego	true	Sun Genomics, Inc., San Diego	Sun Genomics Inc., San Diego	1.0
+872	60295604	United States	Chicago	true	60294511	United States	Chicago	true	Tempus Labs, Chicago	Tempus Labs, Inc., Chicago	1.0
+873	60294511	United States	Chicago	true	60295604	United States	Chicago	true	Tempus Labs, Inc., Chicago	Tempus Labs, Chicago	1.0
+874	60304205	United States	Boston	true	60001344	United States	Boston	true	Tufts Medical Center, Inc., Boston	Tufts Medical Center, Boston	1.0
+875	60001344	United States	Boston	true	60304205	United States	Boston	true	Tufts Medical Center, Boston	Tufts Medical Center, Inc., Boston	1.0
+876	60023149	Germany	Riedstadt	true	60027097	Germany	Riedstadt	true	Zentrum für Soziale Psychiatrie PhilippsHospital Riedstadt, Riedstadt	Zentrum für Soziale Psychiatrie PhilippsHospital, Riedstadt	1.0
+877	60027097	Germany	Riedstadt	true	60023149	Germany	Riedstadt	true	Zentrum für Soziale Psychiatrie PhilippsHospital, Riedstadt	Zentrum für Soziale Psychiatrie PhilippsHospital Riedstadt, Riedstadt	1.0
+878	60294203	Canada	Toronto	true	60310027	Canada	Toronto	true	Cyclica Inc., Toronto	Cyclica, Toronto	1.0
+879	60310027	Canada	Toronto	true	60294203	Canada	Toronto	true	Cyclica, Toronto	Cyclica Inc., Toronto	1.0
+880	60002637	Ukraine	Kharkiv	true	60073873	Ukraine	Kharkiv	false	Kharkiv Pharmaceutical Institute, Kharkiv	Kharkiv Pharmaceutical Institute, Kharkiv	1.0
+881	60073873	Ukraine	Kharkiv	false	60002637	Ukraine	Kharkiv	true	Kharkiv Pharmaceutical Institute, Kharkiv	Kharkiv Pharmaceutical Institute, Kharkiv	1.0
+882	60297126	Japan	Izumi	true	60298159	Japan	Izumi	true	M Technique Co., Ltd., Izumi	M.Technique Co., Ltd., Izumi	1.0
+883	60298159	Japan	Izumi	true	60297126	Japan	Izumi	true	M.Technique Co., Ltd., Izumi	M Technique Co., Ltd., Izumi	1.0
+884	60077592	United States	Cambridge	true	60295095	United States	Cambridge	true	Momenta Pharmaceuticals, Inc., Cambridge	Momenta Pharmaceuticals Inc., Cambridge	1.0
+885	60295095	United States	Cambridge	true	60077592	United States	Cambridge	true	Momenta Pharmaceuticals Inc., Cambridge	Momenta Pharmaceuticals, Inc., Cambridge	1.0
+886	60298660	United States	Waltham	true	60294533	United States	Waltham	true	Neurostim Solutions, LLC, Waltham	Neurostim Solutions LLC, Waltham	1.0
+887	60294533	United States	Waltham	true	60298660	United States	Waltham	true	Neurostim Solutions LLC, Waltham	Neurostim Solutions, LLC, Waltham	1.0
+888	60224279	Iran	Tehran	true	60112243	Iran	Tehran	true	Neuroscience Research Center, Tehran	Neuroscience Research Center, Tehran	1.0
+889	60112243	Iran	Tehran	true	60224279	Iran	Tehran	true	Neuroscience Research Center, Tehran	Neuroscience Research Center, Tehran	1.0
+890	60302345	Israel	Yokneam	false	60306892	Israel	Yokneam	true	Rakuto Bio Technologies Ltd., Yokneam	Rakuto bio technologies ltd., Yokneam	1.0
+891	60306892	Israel	Yokneam	true	60302345	Israel	Yokneam	false	Rakuto bio technologies ltd., Yokneam	Rakuto Bio Technologies Ltd., Yokneam	1.0
+892	60206606	Iran	Tehran	true	60171619	Iran	Tehran	true	School of Allied Medical Sciences, Tehran	School of Allied Medical Sciences, Tehran	1.0
+893	60206586	Iran	Tehran	true	60171613	Iran	Tehran	true	School of Advanced Technologies in Medicine, Tehran	School of Advanced Technologies in Medicine, Tehran	1.0
+894	60199291	Iceland	Reykjavik	true	60199293	Iceland	Reykjavik	true	School of Social Sciences, Reykjavik	School of Social Sciences, Reykjavik	1.0
+895	60206605	Iran	Tehran	true	60171626	Iran	Tehran	true	School of Public Health, Tehran	School of Public Health, Tehran	1.0
+896	60206596	Iran	Tehran	true	60171627	Iran	Tehran	true	School of Nursing & Midwifery, Tehran	School of Nursing Midwifery, Tehran	1.0
+897	60206596	Iran	Tehran	true	60171627	Iran	Tehran	true	School of Nursing & Midwifery, Tehran	School of Nursing and Midwifery, Tehran	1.0
+898	60199293	Iceland	Reykjavik	true	60199291	Iceland	Reykjavik	true	School of Social Sciences, Reykjavik	School of Social Sciences, Reykjavik	1.0
+899	60199589	Hong Kong	Hong Kong	true	60183196	Hong Kong	Hong Kong	true	School of Chinese Medicine, Hong Kong	School of Chinese Medicine, Hong Kong	1.0
+900	60007790	Iran	Tehran	true	60025392	Iran	Tehran	true	School of Medicine, Tehran	School of Medicine, Tehran	1.0
+901	60135792	China	Xiamen	false	60122377	China	Xiamen	true	School of Medicine, Xiamen	School of Medicine, Xiamen	1.0
+902	60122377	China	Xiamen	true	60135792	China	Xiamen	false	School of Medicine, Xiamen	School of Medicine, Xiamen	1.0
+903	60171627	Iran	Tehran	true	60206596	Iran	Tehran	true	School of Nursing Midwifery, Tehran	School of Nursing & Midwifery, Tehran	1.0
+904	60171627	Iran	Tehran	true	60206596	Iran	Tehran	true	School of Nursing and Midwifery, Tehran	School of Nursing & Midwifery, Tehran	1.0
+905	60170811	United Kingdom	Cardiff	false	60170431	United Kingdom	Cardiff	true	School of Dentistry, Cardiff	School of Dentistry, Cardiff	1.0
+906	60171613	Iran	Tehran	true	60206586	Iran	Tehran	true	School of Advanced Technologies in Medicine, Tehran	School of Advanced Technologies in Medicine, Tehran	1.0
+907	60170431	United Kingdom	Cardiff	true	60170811	United Kingdom	Cardiff	false	School of Dentistry, Cardiff	School of Dentistry, Cardiff	1.0
+908	60171622	Iran	Tehran	true	60224281	Iran	Tehran	true	School of Persian Medicine, Tehran	School of Persian Medicine, Tehran	1.0
+909	60160411	United Kingdom	London	true	60177637	United Kingdom	London	true	School of Business and Management, London	School of Management & Business, London	1.0
+910	60183196	Hong Kong	Hong Kong	true	60199589	Hong Kong	Hong Kong	true	School of Chinese Medicine, Hong Kong	School of Chinese Medicine, Hong Kong	1.0
+911	60171619	Iran	Tehran	true	60206606	Iran	Tehran	true	School of Allied Medical Sciences, Tehran	School of Allied Medical Sciences, Tehran	1.0
+912	60171626	Iran	Tehran	true	60206605	Iran	Tehran	true	School of Public Health, Tehran	School of Public Health, Tehran	1.0
+913	60177637	United Kingdom	London	true	60160411	United Kingdom	London	true	School of Management & Business, London	School of Business and Management, London	1.0
+914	60246648	Germany	Berlin	true	60257233	Germany	Berlin	true	School of Business & Economics, Berlin	School of Business and Economics, Berlin	1.0
+915	60274374	Egypt	6th October	true	60273787	Egypt	6th October	true	School of Business Administration, 6th October	School of Business Administration, 6th October	1.0
+916	60257233	Germany	Berlin	true	60246648	Germany	Berlin	true	School of Business and Economics, Berlin	School of Business & Economics, Berlin	1.0
+917	60273787	Egypt	6th October	true	60274374	Egypt	6th October	true	School of Business Administration, 6th October	School of Business Administration, 6th October	1.0
+918	60088718	Chile	Santiago	true	60212030	Chile	Santiago	true	School of Medicine, Santiago	School of Medicine, Santiago	1.0
+919	60019559	Ireland	Dublin	true	60216192	Ireland	Dublin	true	School of Medicine, Dublin	School of Medicine, Dublin	1.0
+920	60025392	Iran	Tehran	true	60007790	Iran	Tehran	true	School of Medicine, Tehran	School of Medicine, Tehran	1.0
+921	60216192	Ireland	Dublin	true	60019559	Ireland	Dublin	true	School of Medicine, Dublin	School of Medicine, Dublin	1.0
+922	60224281	Iran	Tehran	true	60171622	Iran	Tehran	true	School of Persian Medicine, Tehran	School of Persian Medicine, Tehran	1.0
+923	60212030	Chile	Santiago	true	60088718	Chile	Santiago	true	School of Medicine, Santiago	School of Medicine, Santiago	1.0
+924	60309333	China	Beijing	true	60308909	China	Beijing	true	Sinopharm Weiqida Pharmaceutical Co Ltd, Beijing	Sinopharm Weiqida Pharmaceutical Co. Ltd, Beijing	1.0
+925	60308909	China	Beijing	true	60309333	China	Beijing	true	Sinopharm Weiqida Pharmaceutical Co. Ltd, Beijing	Sinopharm Weiqida Pharmaceutical Co Ltd, Beijing	1.0
+926	60318887	China	Luoyang	true	60324572	China	Luoyang	true	Sinosteel Luoyang Institute of Refractories Research Co., Ltd, Luoyang	Sinosteel Luoyang Institute of Refractories Research Co., Ltd., Luoyang	1.0
+927	60324572	China	Luoyang	true	60318887	China	Luoyang	true	Sinosteel Luoyang Institute of Refractories Research Co., Ltd., Luoyang	Sinosteel Luoyang Institute of Refractories Research Co., Ltd, Luoyang	1.0
+928	60318888	United States	Germantown	true	60324543	United States	Germantown	true	Sirnaomics, Inc, Germantown	Sirnaomics, Inc., Germantown	1.0
+929	60324543	United States	Germantown	true	60318888	United States	Germantown	true	Sirnaomics, Inc., Germantown	Sirnaomics, Inc, Germantown	1.0
+930	60030444	United States	Ogden	true	60022502	United States	Ogden	true	Weber State University Ogden, Ogden	Weber State University, Ogden	1.0
+931	60022502	United States	Ogden	true	60030444	United States	Ogden	true	Weber State University, Ogden	Weber State University Ogden, Ogden	1.0
+932	60107509	India	Surampalem	true	60259129	India	Surampalem	true	Aditya Pharmacy College, Surampalem, Surampalem	Aditya College of Pharmacy, Surampalem, Surampalem	1.0
+933	60107509	India	Surampalem	true	60259129	India	Surampalem	true	Aditya Pharmacy College, Surampalem, Surampalem	Aditya College of Pharmacy, Surampalem	1.0
+934	60259129	India	Surampalem	true	60107509	India	Surampalem	true	Aditya College of Pharmacy, Surampalem, Surampalem	Aditya Pharmacy College, Surampalem, Surampalem	1.0
+935	60259129	India	Surampalem	true	60107509	India	Surampalem	true	Aditya College of Pharmacy, Surampalem	Aditya Pharmacy College, Surampalem, Surampalem	1.0
+936	60253273	India	Surampalem	true	60281260	India	Surampalem	false	Aditya College of Engineering, Surampalem	Aditya Engineering College, Surampalem	1.0
+937	60281260	India	Surampalem	false	60253273	India	Surampalem	true	Aditya Engineering College, Surampalem	Aditya College of Engineering, Surampalem	1.0
+938	60024767	France	Toulouse	true	60210993	France	Toulouse	false	Centre d'Etudes Spatiales de la Biosphère, Toulouse	Centre d'Etudes Spatiales de la Biosphère, Toulouse	1.0
+939	60104563	Spain	Madrid	true	60271968	Spain	Madrid	false	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	1.0
+940	60104563	Spain	Madrid	true	60271968	Spain	Madrid	false	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y Nutrición, Madrid	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y la Nutrición, Madrid	1.0
+941	60136673	United States	Pittsburgh	true	60159101	United States	Pittsburgh	false	Center for the Neural Basis of Cognition, Pittsburgh	Center for the Neural Basis of Cognition, Pittsburgh	1.0
+942	60159101	United States	Pittsburgh	false	60136673	United States	Pittsburgh	true	Center for the Neural Basis of Cognition, Pittsburgh	Center for the Neural Basis of Cognition, Pittsburgh	1.0
+943	60271968	Spain	Madrid	false	60104563	Spain	Madrid	true	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	Center for Biomedical Research in Network-Physiopathology of Obesity and Nutrition, Madrid	1.0
+944	60271968	Spain	Madrid	false	60104563	Spain	Madrid	true	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y la Nutrición, Madrid	Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y Nutrición, Madrid	1.0
+945	60116924	Spain	Bellaterra	true	60003272	Spain	Bellaterra	false	Centre de Recerca Matemàtica, Bellaterra	Centre de Recerca Matemática, Bellaterra	1.0
+946	60123637	France	Paris	true	60120299	France	Paris	false	Centre de Recherche sur les Civilisations de l’Asie Orientale (CRCAO), Paris	Centre de Recherche sur les Civilisations de l’Asie Orientale, Paris	0.9534625892455924
+947	60121556	United States	La Jolla	true	60121570	United States	La Jolla	false	Center for Drug Discovery Innovation, La Jolla	Center for Drug Discovery Innovation, La Jolla	1.0
+948	60121570	United States	La Jolla	false	60121556	United States	La Jolla	true	Center for Drug Discovery Innovation, La Jolla	Center for Drug Discovery Innovation, La Jolla	1.0
+949	60120299	France	Paris	false	60123637	France	Paris	true	Centre de Recherche sur les Civilisations de l’Asie Orientale, Paris	Centre de Recherche sur les Civilisations de l’Asie Orientale (CRCAO), Paris	0.9534625892455924
+950	60210993	France	Toulouse	false	60024767	France	Toulouse	true	Centre d'Etudes Spatiales de la Biosphère, Toulouse	Centre d'Etudes Spatiales de la Biosphère, Toulouse	1.0
+951	60003272	Spain	Bellaterra	false	60116924	Spain	Bellaterra	true	Centre de Recerca Matemática, Bellaterra	Centre de Recerca Matemàtica, Bellaterra	1.0
+952	60295538	United States	Jupiter	true	60295201	United States	Jupiter	true	Curna Inc, Jupiter	Curna, Inc., Jupiter	1.0
+953	60295201	United States	Jupiter	true	60295538	United States	Jupiter	true	Curna, Inc., Jupiter	Curna Inc, Jupiter	1.0
+954	60021484	United States	Chicago	false	60138011	United States	Chicago	false	Department of Medicine, Chicago	Department of Medicine, Chicago	1.0
+955	60021484	United States	Chicago	false	60027147	United States	Chicago	true	Department of Medicine, Chicago	Department of Medicine, Chicago	1.0
+956	60016366	Not Define (xd)		true	60030976	Not Define (xd)		true	Department of Histology and Embryology, 	Department of Histology Embryology, 	1.0
+957	60021856	Not Define (xd)		true	60002444	Not Define (xd)		true	Department of Microbiology and Molecular Genetics, 	Department of Molecular Genetics and Microbiology, 	1.0
+958	60023570	United States	Lexington	false	60029425	United States	Lexington	false	Department of Plant and Soil Sciences, Lexington	Department of Plant and Soil Sciences, Lexington	1.0
+959	60031665	United States	Columbia	false	60014772	United States	Columbia	false	Department of Statistics, Columbia	Department of Statistics, Columbia	1.0
+960	60027147	United States	Chicago	true	60138011	United States	Chicago	false	Department of Medicine, Chicago	Department of Medicine, Chicago	1.0
+961	60027147	United States	Chicago	true	60021484	United States	Chicago	false	Department of Medicine, Chicago	Department of Medicine, Chicago	1.0
+962	60022516	Not Define (xd)		true	60008688	Not Define (xd)		true	Department of Engineering Materials, 	Department of Materials Engineering, 	1.0
+963	60030976	Not Define (xd)		true	60016366	Not Define (xd)		true	Department of Histology Embryology, 	Department of Histology and Embryology, 	1.0
+964	60023344	United States	Chicago	false	60013862	United States	Chicago	false	Department of Pharmacology, Chicago	Department of Pharmacology, Chicago	1.0
+965	60029425	United States	Lexington	false	60023570	United States	Lexington	false	Department of Plant and Soil Sciences, Lexington	Department of Plant and Soil Sciences, Lexington	1.0
+966	60104742	Not Define (xd)		true	60013047	Not Define (xd)		true	Department of Computer Engineering and Information Science, 	Department of Computer Science and Information Engineering, 	1.0
+967	60104743	Not Define (xd)		true	60033206	Not Define (xd)		true	Department of Electrical and Computer Engineering, 	Department of Electrical & Computer Engineering, 	1.0
+968	60008688	Not Define (xd)		true	60022516	Not Define (xd)		true	Department of Materials Engineering, 	Department of Engineering Materials, 	1.0
+969	60014772	United States	Columbia	false	60031665	United States	Columbia	false	Department of Statistics, Columbia	Department of Statistics, Columbia	1.0
+970	60013862	United States	Chicago	false	60023344	United States	Chicago	false	Department of Pharmacology, Chicago	Department of Pharmacology, Chicago	1.0
+971	60009281	United States	Chicago	false	60147441	United States	Chicago	false	Department of Surgery, Chicago	Department of Surgery, Chicago	1.0
+972	60009281	United States	Chicago	false	60032488	United States	Chicago	true	Department of Surgery, Chicago	Department of Surgery, Chicago	1.0
+973	60002444	Not Define (xd)		true	60021856	Not Define (xd)		true	Department of Molecular Genetics and Microbiology, 	Department of Microbiology and Molecular Genetics, 	1.0
+974	60013047	Not Define (xd)		true	60104742	Not Define (xd)		true	Department of Computer Science and Information Engineering, 	Department of Computer Engineering and Information Science, 	1.0
+975	60001220	Not Define (xd)		true	60079935	Not Define (xd)		true	Department of Industrial Chemistry, 	Department of Chemistry and Industrial Chemistry, 	1.0
+976	60280511	United States	Boston	true	60280411	United States	Boston	true	Department of Computer Science, Boston	Department of Computer Science, Boston	1.0
+977	60342514	China	Hangzhou	true	60342126	China	Hangzhou	true	Department of Nutrition and Food Science, Hangzhou	Department of Food Science and Nutrition, Hangzhou	1.0
+978	60280411	United States	Boston	true	60280511	United States	Boston	true	Department of Computer Science, Boston	Department of Computer Science, Boston	1.0
+979	60342126	China	Hangzhou	true	60342514	China	Hangzhou	true	Department of Food Science and Nutrition, Hangzhou	Department of Nutrition and Food Science, Hangzhou	1.0
+980	60138011	United States	Chicago	false	60021484	United States	Chicago	false	Department of Medicine, Chicago	Department of Medicine, Chicago	1.0
+981	60138011	United States	Chicago	false	60027147	United States	Chicago	true	Department of Medicine, Chicago	Department of Medicine, Chicago	1.0
+982	60147441	United States	Chicago	false	60032488	United States	Chicago	true	Department of Surgery, Chicago	Department of Surgery, Chicago	1.0
+983	60147441	United States	Chicago	false	60009281	United States	Chicago	false	Department of Surgery, Chicago	Department of Surgery, Chicago	1.0
+984	60119506	Japan	Kyoto	false	60120275	Japan	Kyoto	false	Department of Civil Engineering, Kyoto	Department of Civil Engineering, Kyoto	1.0
+985	60120970	Russia	Yekaterinburg	true	60120927	Russia	Yekaterinburg	true	Department of Organization of Educational and Educational Work, Yekaterinburg	Department of the Organization of Educational Work, Yekaterinburg	1.0
+986	60120359	South Korea	Seoul	true	60119997	South Korea	Seoul	true	Department of Child Development and Family Studies, Seoul	Department of Child Development and Family Studies, Seoul	1.0
+987	60120275	Japan	Kyoto	false	60119506	Japan	Kyoto	false	Department of Civil Engineering, Kyoto	Department of Civil Engineering, Kyoto	1.0
+988	60120409	United States	New Brunswick	false	60278417	United States	New Brunswick	true	Department of Women's, Gender, and Sexuality Studies, New Brunswick	Department of Women's, Gender, and Sexuality Studies, New Brunswick	1.0
+989	60119997	South Korea	Seoul	true	60120359	South Korea	Seoul	true	Department of Child Development and Family Studies, Seoul	Department of Child Development and Family Studies, Seoul	1.0
+990	60120927	Russia	Yekaterinburg	true	60120970	Russia	Yekaterinburg	true	Department of the Organization of Educational Work, Yekaterinburg	Department of Organization of Educational and Educational Work, Yekaterinburg	1.0
+991	60033206	Not Define (xd)		true	60104743	Not Define (xd)		true	Department of Electrical & Computer Engineering, 	Department of Electrical and Computer Engineering, 	1.0
+992	60081686	Not Define (xd)		false	60079521	Not Define (xd)		true	Department of Molecular and Developmental Biology, 	Department of Molecular Developmental Biology, 	1.0
+993	60032488	United States	Chicago	true	60147441	United States	Chicago	false	Department of Surgery, Chicago	Department of Surgery, Chicago	1.0
+994	60032488	United States	Chicago	true	60009281	United States	Chicago	false	Department of Surgery, Chicago	Department of Surgery, Chicago	1.0
+995	60079935	Not Define (xd)		true	60001220	Not Define (xd)		true	Department of Chemistry and Industrial Chemistry, 	Department of Industrial Chemistry, 	1.0
+996	60080841	Sweden	Gothenburg	false	60055712	Sweden	Gothenburg	false	Department of Physics, Gothenburg	Department of Physics, Gothenburg	1.0
+997	60079521	Not Define (xd)		true	60081686	Not Define (xd)		false	Department of Molecular Developmental Biology, 	Department of Molecular and Developmental Biology, 	1.0
+998	60055712	Sweden	Gothenburg	false	60080841	Sweden	Gothenburg	false	Department of Physics, Gothenburg	Department of Physics, Gothenburg	1.0
+999	60278417	United States	New Brunswick	true	60120409	United States	New Brunswick	false	Department of Women's, Gender, and Sexuality Studies, New Brunswick	Department of Women's, Gender, and Sexuality Studies, New Brunswick	1.0
+1000	60026146	India	Visakhapatnam	true	60117282	India	Visakhapatnam	false	GITAM University, Visakhapatnam	GITAM university, Visakhapatnam	1.0
+1001	60117282	India	Visakhapatnam	false	60026146	India	Visakhapatnam	true	GITAM university, Visakhapatnam	GITAM University, Visakhapatnam	1.0
+1002	60029684	United Kingdom	Ipswich	true	60160778	Australia	Ipswich	true	Ipswich Hospital, Ipswich	Ipswich Hospital, Ipswich	1.0
+1003	60160778	Australia	Ipswich	true	60029684	United Kingdom	Ipswich	true	Ipswich Hospital, Ipswich	Ipswich Hospital, Ipswich	1.0
+1004	60303155	China	Beijing	true	60301975	China	Beijing	true	Tus Cloud Control (Beijing) Technology Co., Ltd., Beijing	Tus Cloud Control (Beijing) Technology Ltd., Beijing	1.0
+1005	60301975	China	Beijing	true	60303155	China	Beijing	true	Tus Cloud Control (Beijing) Technology Ltd., Beijing	Tus Cloud Control (Beijing) Technology Co., Ltd., Beijing	1.0
+1006	60308926	China	Shanghai	true	60113424	China	Shanghai	true	AECC Commercial Aircraft Engine Co., Ltd., Shanghai	AECC Commercial Aircraft Engine Co., Ltd, Shanghai	1.0
+1007	60113424	China	Shanghai	true	60308926	China	Shanghai	true	AECC Commercial Aircraft Engine Co., Ltd, Shanghai	AECC Commercial Aircraft Engine Co., Ltd., Shanghai	1.0
+1008	60005618	Mexico	Mexicali	true	60027808	Mexico	Mexicali	false	Autonomous University of Baja California, Mexicali	Autonomous University of Baja California, Mexicali, Mexicali	1.0
+1009	60027808	Mexico	Mexicali	false	60005618	Mexico	Mexicali	true	Autonomous University of Baja California, Mexicali, Mexicali	Autonomous University of Baja California, Mexicali	1.0
+1010	60302826	United States	Philadelphia	true	60301685	United States	Philadelphia	true	Cira Discovery Sciences, Inc., Philadelphia	Cira Discovery Sciences, Philadelphia	1.0
+1011	60297102	United Kingdom	Edinburgh	true	60302631	United Kingdom	Edinburgh	true	Cirrus Logic International Semiconductor Ltd., Edinburgh	Cirrus Logic International Semiconductor Ltd, Edinburgh	1.0
+1012	60301685	United States	Philadelphia	true	60302826	United States	Philadelphia	true	Cira Discovery Sciences, Philadelphia	Cira Discovery Sciences, Inc., Philadelphia	1.0
+1013	60302631	United Kingdom	Edinburgh	true	60297102	United Kingdom	Edinburgh	true	Cirrus Logic International Semiconductor Ltd, Edinburgh	Cirrus Logic International Semiconductor Ltd., Edinburgh	1.0
+1014	60280335	Turkey	Istanbul	false	60085882	Turkey	Istanbul	false	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	1.0
+1015	60085882	Turkey	Istanbul	false	60280335	Turkey	Istanbul	false	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	GATA  Haydarpaşa Eğitim Hastanesi Komutanlığı, Istanbul	1.0
+1016	60298162	Australia	Sydney	true	60298597	Australia	Sydney	true	Macquarie Research Ltd., Sydney	Macquarie Research Ltd, Sydney	1.0
+1017	60298597	Australia	Sydney	true	60298162	Australia	Sydney	true	Macquarie Research Ltd, Sydney	Macquarie Research Ltd., Sydney	1.0
+1018	60292333	India	Namakkal	true	60097264	India	Namakkal	true	Paavai College of Engineering, Namakkal	Paavai Engineering College, Namakkal	1.0
+1019	60097264	India	Namakkal	true	60292333	India	Namakkal	true	Paavai Engineering College, Namakkal	Paavai College of Engineering, Namakkal	1.0
+1020	60328630	Austria	Vienna	true	60031851	Austria	Vienna	true	Research Institute for Molecular Pathology, Vienna	Research Institute of Molecular Pathology, Vienna, Vienna	1.0
+1021	60031851	Austria	Vienna	true	60328630	Austria	Vienna	true	Research Institute of Molecular Pathology, Vienna, Vienna	Research Institute for Molecular Pathology, Vienna	1.0
+1022	60295185	China	Chengdu	true	60294731	China	Chengdu	true	Sichuan Qiruike Technology Co., Ltd., Chengdu	Sichuan Qiruike Technology Co., Ltd, Chengdu	1.0
+1023	60294731	China	Chengdu	true	60295185	China	Chengdu	true	Sichuan Qiruike Technology Co., Ltd, Chengdu	Sichuan Qiruike Technology Co., Ltd., Chengdu	1.0
+1024	60310829	United States	Durham	false	60323760	United States	Durham	true	SonoVol, Inc., Durham	Sonovol, Inc., Durham	1.0
+1025	60323760	United States	Durham	true	60310829	United States	Durham	false	Sonovol, Inc., Durham	SonoVol, Inc., Durham	1.0
+1026	60274309	China	Shanghai	true	60308920	China	Shanghai	true	Transwarp. inc., Shanghai	Transwarp, Shanghai	1.0
+1027	60308920	China	Shanghai	true	60274309	China	Shanghai	true	Transwarp, Shanghai	Transwarp. inc., Shanghai	1.0
+1028	60302758	United States	Boca Raton	true	60302143	United States	Boca Raton	true	ACK Ventures Holdings LLC, Boca Raton	ACK Ventures Holdings, LLC, Boca Raton	1.0
+1029	60302143	United States	Boca Raton	true	60302758	United States	Boca Raton	true	ACK Ventures Holdings, LLC, Boca Raton	ACK Ventures Holdings LLC, Boca Raton	1.0
+1030	60294854	Taiwan	Zhubei	true	60294407	Taiwan	Zhubei	true	Asclepiumm Taiwan Co., Ltd, Zhubei	Asclepiumm Taiwan Co., Ltd., Zhubei	1.0
+1031	60294407	Taiwan	Zhubei	true	60294854	Taiwan	Zhubei	true	Asclepiumm Taiwan Co., Ltd., Zhubei	Asclepiumm Taiwan Co., Ltd, Zhubei	1.0
+1032	60274278	Taiwan	Tainan	false	60090106	Taiwan	Tainan	true	CTBC Business School, Tainan	CTBC Business School, Tainan	1.0
+1033	60090106	Taiwan	Tainan	true	60274278	Taiwan	Tainan	false	CTBC Business School, Tainan	CTBC Business School, Tainan	1.0
+1034	60116832	Germany	Berlin	false	60008523	Germany	Berlin	true	Leibniz Association, Berlin	Leibniz Association, Berlin	1.0
+1035	60116832	Germany	Berlin	false	60008523	Germany	Berlin	true	Leibniz-Gemeinschaft, Berlin	Leibniz Gemeinschaft, Berlin	1.0
+1036	60116832	Germany	Berlin	false	60008523	Germany	Berlin	true	Leibniz-Gemeinschaft, Berlin	Leibniz-Gemeinschaft, Berlin	1.0
+1037	60008523	Germany	Berlin	true	60116832	Germany	Berlin	false	Leibniz Gemeinschaft, Berlin	Leibniz-Gemeinschaft, Berlin	1.0
+1038	60008523	Germany	Berlin	true	60116832	Germany	Berlin	false	Leibniz Association, Berlin	Leibniz Association, Berlin	1.0
+1039	60008523	Germany	Berlin	true	60116832	Germany	Berlin	false	Leibniz-Gemeinschaft, Berlin	Leibniz-Gemeinschaft, Berlin	1.0
+1040	60303054	United States	Redmond	true	60301855	United States	Redmond	true	NeoPath Inc., Redmond	NeoPath Inc, Redmond	1.0
+1041	60301855	United States	Redmond	true	60303054	United States	Redmond	true	NeoPath Inc, Redmond	NeoPath Inc., Redmond	1.0
+1042	60320591	United States	San Jose	true	60323901	United States	San Jose	true	NEO Semiconductor, Inc., San Jose	NEO Semiconductor, San Jose	1.0
+1043	60323901	United States	San Jose	true	60320591	United States	San Jose	true	NEO Semiconductor, San Jose	NEO Semiconductor, Inc., San Jose	1.0
+1044	60070891	India	Hamirpur	false	60116996	India	Hamirpur	false	Regional Engineering College Hamirpur, Hamirpur	Regional Engineering College, Hamirpur	1.0
+1045	60116996	India	Hamirpur	false	60070891	India	Hamirpur	false	Regional Engineering College, Hamirpur	Regional Engineering College Hamirpur, Hamirpur	1.0
+1046	60311193	United States	San Francisco	true	60311303	United States	San Francisco	true	Siluria Technologies, Inc., San Francisco	Siluria Technologies, Inc, San Francisco	1.0
+1047	60311303	United States	San Francisco	true	60311193	United States	San Francisco	true	Siluria Technologies, Inc, San Francisco	Siluria Technologies, Inc., San Francisco	1.0
+1048	60086106	Poland	Warsaw	false	60088499	Poland	Warsaw	false	Wydział Biologii Uniwersytetu Warszawskiego, Warsaw	Wydział Biologii, Uniwersytetu Warszawskiego, Warsaw	1.0
+1049	60088499	Poland	Warsaw	false	60086106	Poland	Warsaw	false	Wydział Biologii, Uniwersytetu Warszawskiego, Warsaw	Wydział Biologii Uniwersytetu Warszawskiego, Warsaw	1.0
+1050	60016277	United States	Dayton	false	60019228	United States	Dayton	true	Air Force Research Laboratory - Dayton, Dayton	Air Force Research Laboratory, Dayton	1.0
+1051	60019228	United States	Dayton	true	60016277	United States	Dayton	false	Air Force Research Laboratory, Dayton	Air Force Research Laboratory - Dayton, Dayton	1.0
+1052	60295381	China	Tianjin	true	60294857	China	Tianjin	true	Asymchem Laboratories (Tianjin) Co., Ltd., Tianjin	Asymchem Laboratories (Tianjin) Co., Ltd, Tianjin	1.0
+1053	60294857	China	Tianjin	true	60295381	China	Tianjin	true	Asymchem Laboratories (Tianjin) Co., Ltd, Tianjin	Asymchem Laboratories (Tianjin) Co., Ltd., Tianjin	1.0
+1054	60069166	Greece	Heraklion	true	60019181	Greece	Heraklion	true	Foundation for Research and Technology - Hellas, Heraklion	Foundation for Research and Technology-Hellas, Heraklion	1.0
+1055	60019181	Greece	Heraklion	true	60069166	Greece	Heraklion	true	Foundation for Research and Technology-Hellas, Heraklion	Foundation for Research and Technology - Hellas, Heraklion	1.0
+1056	60319342	Ireland	Ringaskiddy	true	60294477	Ireland	Ringaskiddy	true	Hovione Scientia Limited, Ringaskiddy	Hovione Scientia Limited, Ringaskiddy	1.0
+1057	60294477	Ireland	Ringaskiddy	true	60319342	Ireland	Ringaskiddy	true	Hovione Scientia Limited, Ringaskiddy	Hovione Scientia Limited, Ringaskiddy	1.0
+1058	60303980	Germany	Jena	true	60087906	Germany	Jena	true	Jenoptik AG, Jena	JENOPTIK AG, Jena	1.0
+1059	60087906	Germany	Jena	true	60303980	Germany	Jena	true	JENOPTIK AG, Jena	Jenoptik AG, Jena	1.0
+1060	60297539	United States	New York	true	60297538	United States	New York	true	N-Gene Research Laboratories, Inc., New York	N-Gene Research Laboratories Inc., New York	1.0
+1061	60297538	United States	New York	true	60297539	United States	New York	true	N-Gene Research Laboratories Inc., New York	N-Gene Research Laboratories, Inc., New York	1.0
+1062	60295580	Japan	Tokyo	true	60324145	Japan	Tokyo	true	Oriciro Genomics, Inc., Tokyo	Oriciro Genomics Inc., Tokyo	1.0
+1063	60324145	Japan	Tokyo	true	60295580	Japan	Tokyo	true	Oriciro Genomics Inc., Tokyo	Oriciro Genomics, Inc., Tokyo	1.0
+1064	60299548	United States	San Jose	true	60098319	United States	San Jose	false	PayPal, Inc., San Jose	PayPal, San Jose	1.0
+1065	60098319	United States	San Jose	false	60299548	United States	San Jose	true	PayPal, San Jose	PayPal, Inc., San Jose	1.0
+1066	60302064	United States	Plano	true	60294539	United States	Plano	true	Reata Pharmaceuticals, Inc., Plano	Reata Pharmaceuticals, Inc, Plano	1.0
+1067	60294539	United States	Plano	true	60302064	United States	Plano	true	Reata Pharmaceuticals, Inc, Plano	Reata Pharmaceuticals, Inc., Plano	1.0
+1068	60007080	United States	Springfield	true	60100747	United States	Springfield	true	St. John's Hospital, Springfield	St. John's Hospital, Springfield	1.0
+1069	60100747	United States	Springfield	true	60007080	United States	Springfield	true	St. John's Hospital, Springfield	St. John's Hospital, Springfield	1.0
+1070	60340177	Japan	Kariya	false	60107322	Japan	Kariya	true	Toyoda Automatic Loom Works, Ltd., Kariya	Toyoda Automatic Loom Works, Ltd., Kariya	1.0
+1071	60107322	Japan	Kariya	true	60340177	Japan	Kariya	false	Toyoda Automatic Loom Works, Ltd., Kariya	Toyoda Automatic Loom Works, Ltd., Kariya	1.0
+1072	60015574	United States	Knoxville	true	60016429	United States	Knoxville	true	UT Knoxville, Knoxville	UT, Knoxville	1.0
+1073	60016429	United States	Knoxville	true	60015574	United States	Knoxville	true	UT, Knoxville	UT Knoxville, Knoxville	1.0
+1074	60300550	Finland	Helsinki	true	60018778	Finland	Helsinki	true	Valio Ltd, Helsinki	Valio Ltd., Helsinki	1.0
+1075	60018778	Finland	Helsinki	true	60300550	Finland	Helsinki	true	Valio Ltd., Helsinki	Valio Ltd, Helsinki	1.0

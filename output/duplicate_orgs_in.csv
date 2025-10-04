@@ -1,0 +1,21 @@
+set1_id	set1_orgname	set2_id	set2_orgname	similarity	id_match
+60288449	College of Engineering, Pune, Pune	60076426	College of Engineering, Pune	1.0	False
+60281260	Aditya Engineering College, Surampalem	60253273	Aditya College of Engineering, Surampalem	1.0	False
+60292333	Paavai College of Engineering, Namakkal	60097264	Paavai Engineering College, Namakkal	1.0	False
+60097264	Paavai Engineering College, Namakkal	60292333	Paavai College of Engineering, Namakkal	1.0	False
+60022458	PEC University of Technology, Chandigarh	60117303	PEC University of Technology, Chandigarh	1.0	False
+60026146	GITAM University, Visakhapatnam	60117282	GITAM university, Visakhapatnam	1.0	False
+60105237	Vels University, Chennai	60111563	Vels University, Chennai	1.0	False
+60111563	Vels University, Chennai	60105237	Vels University, Chennai	1.0	False
+60112336	People's University, Bhopal, Bhopal	60112414	People‘s University, Bhopal	1.0	False
+60112414	People‘s University, Bhopal	60112336	People's University, Bhopal, Bhopal	1.0	False
+60107509	Aditya Pharmacy College, Surampalem, Surampalem	60259129	Aditya College of Pharmacy, Surampalem	1.0	False
+60107509	Aditya Pharmacy College, Surampalem, Surampalem	60259129	Aditya College of Pharmacy, Surampalem, Surampalem	1.0	False
+60076426	College of Engineering, Pune	60288449	College of Engineering, Pune, Pune	1.0	False
+60070891	Regional Engineering College Hamirpur, Hamirpur	60116996	Regional Engineering College, Hamirpur	1.0	False
+60259129	Aditya College of Pharmacy, Surampalem, Surampalem	60107509	Aditya Pharmacy College, Surampalem, Surampalem	1.0	False
+60259129	Aditya College of Pharmacy, Surampalem	60107509	Aditya Pharmacy College, Surampalem, Surampalem	1.0	False
+60253273	Aditya College of Engineering, Surampalem	60281260	Aditya Engineering College, Surampalem	1.0	False
+60117303	PEC University of Technology, Chandigarh	60022458	PEC University of Technology, Chandigarh	1.0	False
+60117282	GITAM university, Visakhapatnam	60026146	GITAM University, Visakhapatnam	1.0	False
+60116996	Regional Engineering College, Hamirpur	60070891	Regional Engineering College Hamirpur, Hamirpur	1.0	False
